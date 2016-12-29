@@ -1,4 +1,3 @@
-
 # Learning Topics
 
 TOPIC | SITE            | URL
