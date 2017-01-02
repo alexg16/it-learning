@@ -1,5 +1,7 @@
-name: IT Learning
-markdown: kramdown
+#name: IT Learning
+#markdown: kramdown
+title: IT Learning
+#description: [TODO]
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-time-machine
