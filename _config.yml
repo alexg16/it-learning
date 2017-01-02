@@ -1,4 +1,5 @@
 name: IT Learning
 markdown: kramdown
 #theme: jekyll-theme-hacker
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
