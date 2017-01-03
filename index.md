@@ -4,6 +4,7 @@
 |:----|:---------------------|-------:|
 |CSS  |[Web Pages](web-pages)|*[todo]*|
 |Markdown|[Web Pages](web-pages)|*[todo]*|
+|Microsoft Azure|[Cloud](cloud)|*[todo]*|
 
 
 
