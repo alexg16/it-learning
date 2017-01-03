@@ -2,7 +2,7 @@
 
 |TOPIC|PAGE          |COMMENT|
 |:----|:-------------|:------|
-|CSS  |CSS Zen Garden|
+|CSS  |[Web Pages](web-pages)|
 
 
 
