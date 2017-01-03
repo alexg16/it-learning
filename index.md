@@ -1,7 +1,7 @@
 # Learning Topics
 
-|TOPIC|PAGE                  |COMMENT|
-|:----|:---------------------|:------:|
+|TOPIC|PAGE                  |COMMENT |
+|:----|:---------------------|-------:|
 |CSS  |[Web Pages](web-pages)|*[todo]*|
 
 
