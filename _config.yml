@@ -7,3 +7,4 @@ title: IT Learning
 #theme: jekyll-theme-time-machine
 theme: jekyll-theme-minimal
 show_downloads: true
+is_project_page: false
