@@ -1,11 +1,11 @@
 # Learning Topics
 
-|TOPIC|SITE          |URL
-|:----|:-------------|:--------------------------------------------------------------------|
-|CSS  |CSS Zen Garden|[http://csszengarden.com](http://csszengarden.com/){:target="_blank"} |
+|TOPIC|PAGE          |COMMENT|
+|:----|:-------------|:------|
+|CSS  |CSS Zen Garden|
 
 
-[another-page](another-page)
+
 
 
 
