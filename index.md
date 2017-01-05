@@ -1,13 +1,13 @@
 # Learning Topics
 
-|TOPIC|PAGE                  |COMMENT |
+|TOPICS|TOPICS                 |TOPICS |
 |:----|:---------------------|-------:|
-|CSS  |[Web Pages](web-pages)|*[todo]*|
-|Markdown|[Web Pages](web-pages)|*[todo]*|
-|Microsoft Azure|[Cloud](cloud)|*[todo]*|
+|[CSS](web-pages) |[GitHub Pages](web-pages)|*[todo]*|
+|*[todo]*|[Markdown](web-pages)|*[todo]*|
+|*[todo]*|[Microsoft Azure](cloud)|*[todo]*|
 
 
-
+	
 
 
 
