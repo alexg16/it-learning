@@ -2,10 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-p.menu
-{
-    margin: 0 0 10px;
-};
 .verticalnavbar
 {
     position:fixed;
@@ -33,3 +29,6 @@ ul.verticalnavbar {
     background-color: #555;
     color: white;
 }
+@media print, screen and (max-width: 960px){ 
+    div.verticalnavbar { float: none; position: static; width: auto;padding-right: 320px;
+    }
