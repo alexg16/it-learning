@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 .verticalnavbar
 {
+    float: left;
     position:fixed;
     top: 140px;
     width: 225px;
