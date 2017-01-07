@@ -30,7 +30,7 @@
     background-color: #555;
     color: white;
 }
-@media print, screen and (max-width: 960px){ div.verticalnavbar {padding-right: 320px; float: none; position: static; width: auto;}
+@media print, screen and (max-width: 960px){ div.verticalnavbar {padding-right: 320px; }
     ul.verticalnavbar {float: none; position: static; width: auto;}
     }
 @media print, screen and (max-width: 7200px){ div.verticalnavbar {padding:0; }
