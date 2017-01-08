@@ -1,6 +1,6 @@
 # Index
 
-|TOPICS|TOPICS|TOPICS|
+|IT|LEARNING|TOPICS|
 |----|---|---|
 |*[todo]*|*[todo]*|*[todo]*|
 |[CSS](web-pages)|[Git/GitHub](coding)|[GitHub Pages](web-pages)|
