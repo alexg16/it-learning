@@ -13,4 +13,7 @@
 ## GitHub Pages ##
 
 - [GitHub Pages Themes](https://pages.github.com/themes/)
+
+## Markdown ##
+
 - [Writing on GitHub] (https://help.github.com/categories/writing-on-github/)
