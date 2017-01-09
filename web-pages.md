@@ -13,6 +13,7 @@
 ## GitHub Pages ##
 
 - [GitHub Pages Themes](https://pages.github.com/themes/)
+- [Creating and hosting personal web pages on GitHub](http://jmcglone.com/guides/github-pages/)
 
 ## Markdown ##
 
