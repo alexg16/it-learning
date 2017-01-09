@@ -13,3 +13,4 @@
 ## GitHub Pages ##
 
 - [GitHub Pages Themes](https://pages.github.com/themes/)
+- [Writing on GitHub] (https://help.github.com/categories/writing-on-github/)
