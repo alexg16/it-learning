@@ -16,4 +16,4 @@
 
 ## Markdown ##
 
-- [Writing on GitHub] (https://help.github.com/categories/writing-on-github/)
+- [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
