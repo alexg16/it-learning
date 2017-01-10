@@ -13,3 +13,4 @@
 ## Windows Server 2016 ##
 
 - [Windows Server 2016 - System Requirements](https://technet.microsoft.com/en-us/windows-server-docs/get-started/system-requirements)
+- [Install Windows Updates on Server [2012] Core](http://blog.zwiegnet.com/windows-server/install-windows-updates-on-server-2012-core/)
