@@ -12,7 +12,7 @@
 
 ## Sysinternals ##
 
-- [Sysinternals Forums](https:forum.sysinternals.com)
+- [Sysinternals Forums](https://forum.sysinternals.com)
 
 ## Windows Server 2016 ##
 
