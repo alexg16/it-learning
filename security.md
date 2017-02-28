@@ -4,5 +4,5 @@
 
 ## Vulnerability ##
 
-- [Shodan Search Engine](https://shodan.io)
+- [Shodan](https://shodan.io)
 - [VirusTotal](https://www.virustotal.com/)
