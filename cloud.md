@@ -4,6 +4,7 @@
 
 ## Microsoft Azure ##
 
+- [How can I use the Hybrid Use Benefit in Azure](https://blogs.msdn.microsoft.com/azureedu/2016/04/13/how-can-i-use-the-hybrid-use-benefit-in-azure/)
 - [Naming conventions for Azure resources](https://docs.microsoft.com/en-us/azure/guidance/guidance-naming-conventions)
 - [Prepare a Windows VHD to upload to Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-prepare-for-upload-vhd-image?)
 - [Sizes for virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-sizes)
