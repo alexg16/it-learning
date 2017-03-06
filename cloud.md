@@ -10,3 +10,6 @@
 - [Sizes for virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-sizes)
 - [Sign up for Azure](https://docs.microsoft.com/en-us/azure/active-directory/sign-up-organization) OR [Get Started with Azure as an organization](https://account.windowsazure.com/organization)
 
+## Office 365 ##
+
+- [Multiple Office 365 Tenants](http://www.msexchange.org/articles-tutorials/office-365/what-you-need-consider-multiple-office-365-tenants-part1.html)
