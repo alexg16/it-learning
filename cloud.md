@@ -2,6 +2,10 @@
 
 ----------
 
+## Internet ##
+
+- [Downdetector](http://downdetector.co.uk/)
+
 ## Microsoft Azure ##
 
 - [How can I use the Hybrid Use Benefit in Azure](https://blogs.msdn.microsoft.com/azureedu/2016/04/13/how-can-i-use-the-hybrid-use-benefit-in-azure/)
