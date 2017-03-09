@@ -11,7 +11,7 @@
 
 ### Identity as a service Providers ###
 
-- [Okta] (https://www.okta.com/)
+- [Okta](https://www.okta.com/)
 - [OneLogin](https://www.onelogin.com/)
 - [PingIdentity](https://www.pingidentity.com/en.html)
 
