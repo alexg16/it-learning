@@ -16,6 +16,7 @@
 - [Prepare a Windows VHD to upload to Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-prepare-for-upload-vhd-image?)
 - [Sizes for virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-sizes)
 - [Sign up for Azure](https://docs.microsoft.com/en-us/azure/active-directory/sign-up-organization) OR [Get Started with Azure as an organization](https://account.windowsazure.com/organization)
+- [Transfer ownership of an Azure subscription to another account](https://docs.microsoft.com/en-us/azure/billing/billing-subscription-transfer#next-steps-after-accepting-ownership-of-a-subscription)
 
 ## Office 365 ##
 
