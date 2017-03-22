@@ -13,6 +13,7 @@
 - [Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [Built-in roles for Azure Role-Based Access Control](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-built-in-roles)
 - [How Can I Connect 2 Azure Virtual Networks?](https://www.petri.com/can-connect-2-azure-virtual-networks)
+- [Virtual Network Peering](https://docs.microsoft.com/en-gb/azure/virtual-network/virtual-network-peering-overview#next-steps)
 - [How can I use the Hybrid Use Benefit in Azure](https://blogs.msdn.microsoft.com/azureedu/2016/04/13/how-can-i-use-the-hybrid-use-benefit-in-azure/)
 - [How to capture a VM image from a generalized Azure VM](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-capture-image?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json)
 - [Microsoft Azure AD Account Access Panel](https://account.activedirectory.windowsazure.com)
