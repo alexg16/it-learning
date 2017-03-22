@@ -14,6 +14,7 @@
 - [Built-in roles for Azure Role-Based Access Control](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-built-in-roles)
 - [How Can I Connect 2 Azure Virtual Networks?](https://www.petri.com/can-connect-2-azure-virtual-networks)
 - [How can I use the Hybrid Use Benefit in Azure](https://blogs.msdn.microsoft.com/azureedu/2016/04/13/how-can-i-use-the-hybrid-use-benefit-in-azure/)
+- [How to capture a VM image from a generalized Azure VM](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-capture-image?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json)
 - [Microsoft Azure AD Account Access Panel](https://account.activedirectory.windowsazure.com)
 - [Naming conventions for Azure resources](https://docs.microsoft.com/en-us/azure/guidance/guidance-naming-conventions)
 - [Prepare a Windows VHD to upload to Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-prepare-for-upload-vhd-image?)
