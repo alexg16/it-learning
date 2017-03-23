@@ -7,6 +7,7 @@
 - [Downdetector](http://downdetector.co.uk/)
 
 ## Microsoft Azure ##
+### Networking ###
 
 - [Access Report with Azure PowerShell](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-access-change-history-report)
 - [Automate Azure Blob Storage with PowerShell](https://artofshell.com/2016/05/automate-azure-blob-storage-powershell/)
