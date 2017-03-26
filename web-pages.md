@@ -15,6 +15,10 @@
 - [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 - [GitHub Pages Themes](https://pages.github.com/themes/)
 
+## Google Analytics ##
+
+- [Adding Google Analytics and Google AdSense to a Jekyll Website](http://www.lewisgavin.co.uk/Google-Analytics-Adsense)
+
 ## Markdown ##
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
