@@ -5,6 +5,7 @@
 ## Internet ##
 
 - [Downdetector](http://downdetector.com)
+- [Is it Down Right Now?](http://www.isitdownrightnow.com/)
 
 ## Microsoft Azure ##
 ### Compute ###
