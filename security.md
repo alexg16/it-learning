@@ -11,7 +11,7 @@
 
 ### Identity-as-a-service Providers ###
 
-- [The Best Identity Management Solutions of 2016 by PC Magazine](The Best Identity Management Solutions of 2016)
+- [The Best Identity Management Solutions of 2016 by PC Magazine](http://www.pcmag.com/article2/0,2817,2491437,00.asp6)
 - [Okta](https://www.okta.com/)
 - [EmpowerID](http://www.empowerid.com/)
 - [OneLogin](https://www.onelogin.com/)
