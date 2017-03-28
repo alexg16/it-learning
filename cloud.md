@@ -32,6 +32,6 @@
 - [Naming conventions for Azure resources](https://docs.microsoft.com/en-us/azure/guidance/guidance-naming-conventions)
 
 
-## Office 365 ##
+## Office 365 <a id="office-365"></a>
 
 - [Multiple Office 365 Tenants](http://www.msexchange.org/articles-tutorials/office-365/what-you-need-consider-multiple-office-365-tenants-part1.html)
