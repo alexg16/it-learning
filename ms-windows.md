@@ -4,6 +4,10 @@
 
 ----------
 
+## Active Directory
+
+- [Add User Principal Name Suffixes](https://technet.microsoft.com/en-us/library/cc772007(v=ws.11).aspx)
+
 ## Hyper-V ##
 
 - [Native NAT in Windows 10 Hyper-V using a NAT virtual switch](https://4sysops.com/archives/native-nat-in-windows-10-hyper-v-using-a-nat-virtual-switch/)
