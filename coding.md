@@ -3,6 +3,8 @@
 ----------
 ## Containers
 
+- [dockerd Windows configuration file](https://docs.docker.com/engine/reference/commandline/dockerd/#windows-configuration-file)
+
 ## Git/GitHub
 
 ## PowerShell
