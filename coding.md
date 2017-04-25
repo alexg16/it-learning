@@ -4,6 +4,7 @@
 ## Containers
 
 - [dockerd Windows configuration file](https://docs.docker.com/engine/reference/commandline/dockerd/#windows-configuration-file)
+- [Setup Docker on Windows Server 2016](https://blogs.technet.microsoft.com/canitpro/2016/10/26/step-by-step-setup-docker-on-your-windows-2016-server/)
 
 ## Git/GitHub
 
