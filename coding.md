@@ -9,6 +9,9 @@
 
 ## Git/GitHub
 
+- [Git for Windows](https://git-for-windows.github.io/)
+
+
 ## PowerShell
 
 - [Azure AD Module (MSOnline)](https://docs.microsoft.com/en-us/powershell/msonline/v1/azureactivedirectory?redirectedfrom=msdn)
