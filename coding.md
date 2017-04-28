@@ -18,6 +18,7 @@
 - [Azure AD Module (MSOnline)](https://docs.microsoft.com/en-us/powershell/msonline/v1/azureactivedirectory?redirectedfrom=msdn)
 - [Azure Active Directory V2 PowerShell module](https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory)
 - [PowerShell Functions](https://blogs.technet.microsoft.com/heyscriptingguy/2015/07/08/fun-with-powershell-functions/)
+- [Script Center](https://technet.microsoft.com/en-us/scriptcenter/bb410849.aspx)
 
 ## Microsoft Graph API
 
