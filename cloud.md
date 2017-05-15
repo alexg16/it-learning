@@ -24,6 +24,10 @@
 - [How Can I Connect 2 Azure Virtual Networks?](https://www.petri.com/can-connect-2-azure-virtual-networks)
 - [Virtual Network Peering](https://docs.microsoft.com/en-gb/azure/virtual-network/virtual-network-peering-overview)
 
+### Storage ###
+
+- [Azure Managed Disks Overview](https://docs.microsoft.com/en-us/azure/storage/storage-managed-disks-overview)
+
 ### TBD ###
 - [Access Report with Azure PowerShell](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-access-change-history-report)
 - [Automate Azure Blob Storage with PowerShell](https://artofshell.com/2016/05/automate-azure-blob-storage-powershell/)
