@@ -18,6 +18,7 @@
 - [Azure AD Module (MSOnline)](https://docs.microsoft.com/en-us/powershell/msonline/v1/azureactivedirectory?redirectedfrom=msdn)
 - [Azure Active Directory V2 PowerShell module](https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory)
 - [AzureRM.Profile](https://docs.microsoft.com/en-us/powershell/module/azurerm.profile/?view=azurermps-3.8.0)
+- [Get-Credential](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.security/get-credential)
 - [How do I start remote desktop from PowerShell?](http://stackoverflow.com/questions/24493213/how-do-i-start-remote-desktop-from-powershell)
 - [Fun with PowerShell Functions](https://blogs.technet.microsoft.com/heyscriptingguy/2015/07/08/fun-with-powershell-functions/)
 - [Script Center](https://technet.microsoft.com/en-us/scriptcenter/bb410849.aspx)
