@@ -25,6 +25,7 @@
 - [Fun with PowerShell Functions](https://blogs.technet.microsoft.com/heyscriptingguy/2015/07/08/fun-with-powershell-functions/)
 - [Script Center](https://technet.microsoft.com/en-us/scriptcenter/bb410849.aspx)
 - [The PowerShell function - Parameters, data types, return values](https://4sysops.com/archives/the-powershell-function-parameters-data-types-return-values/)
+- [User Input in PowerShell](https://4sysops.com/archives/user-input-in-powershell-read-host-mandatory-true-outgridview/)
 - [Where-Object vs. the Where method: Array filtering in PowerShell](https://4sysops.com/archives/where-object-vs-the-where-method-array-filtering-in-powershell/)
 
 
