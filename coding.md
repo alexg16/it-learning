@@ -23,6 +23,7 @@
 - [Get-Credential](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.security/get-credential)
 - [How do I start remote desktop from PowerShell?](http://stackoverflow.com/questions/24493213/how-do-i-start-remote-desktop-from-powershell)
 - [Fun with PowerShell Functions](https://blogs.technet.microsoft.com/heyscriptingguy/2015/07/08/fun-with-powershell-functions/)
+- [Learn Powershell.net](https://learn-powershell.net/)
 - [Script Center](https://technet.microsoft.com/en-us/scriptcenter/bb410849.aspx)
 - [The PowerShell function - Parameters, data types, return values](https://4sysops.com/archives/the-powershell-function-parameters-data-types-return-values/)
 - [User Input in PowerShell](https://4sysops.com/archives/user-input-in-powershell-read-host-mandatory-true-outgridview/)
