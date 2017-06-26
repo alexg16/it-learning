@@ -31,4 +31,5 @@
 
 - [Updating Nano Server](https://technet.microsoft.com/windows-server-docs/get-started/update-nano-server)
 - [Windows Server 2016 - System Requirements](https://technet.microsoft.com/en-us/windows-server-docs/get-started/system-requirements)
+- [Windows Server Blog](https://blogs.technet.microsoft.com/windowsserver/)
 - [Windows Sysprep for virtual machines](http://www.thomasmaurer.ch/2016/05/windows-sysprep-for-virtual-machines/)
