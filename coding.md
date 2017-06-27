@@ -25,6 +25,7 @@
 - [Fun with PowerShell Functions](https://blogs.technet.microsoft.com/heyscriptingguy/2015/07/08/fun-with-powershell-functions/)
 - [Learn Powershell.net](https://learn-powershell.net/)
 - [PowerShell Gallery](https://www.powershellgallery.com/)
+- [PowerShell Loops](https://4sysops.com/archives/powershell-loops-for-foreach-while-do-until-continue-break/)
 - [Script Center](https://technet.microsoft.com/en-us/scriptcenter/bb410849.aspx)
 - [The PowerShell function - Parameters, data types, return values](https://4sysops.com/archives/the-powershell-function-parameters-data-types-return-values/)
 - [User Input in PowerShell](https://4sysops.com/archives/user-input-in-powershell-read-host-mandatory-true-outgridview/)
