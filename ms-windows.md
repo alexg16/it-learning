@@ -29,6 +29,7 @@
 
 ## Windows Server 2016 
 
+- [DISM Image Management Command-Line Options](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism-image-management-command-line-options-s14)
 - [Updating Nano Server](https://technet.microsoft.com/windows-server-docs/get-started/update-nano-server)
 - [Windows Server 2016 - System Requirements](https://technet.microsoft.com/en-us/windows-server-docs/get-started/system-requirements)
 - [Windows Server Blog](https://blogs.technet.microsoft.com/windowsserver/)
