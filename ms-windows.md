@@ -26,6 +26,7 @@
 - [Activating God Mode in Windows 10](https://www.petri.com/activating-god-mode-windows-10)
 - [Make older programs compatible with this version of Windows](https://support.microsoft.com/en-us/help/15078/windows-make-older-programs-compatible)
 - [On MSFT](https://www.onmsft.com/)
+- [Windows 10 Deployment Tools](https://docs.microsoft.com/en-us/windows/deployment/windows-deployment-scenarios-and-tools)
 
 ## Windows Server 2016 
 
