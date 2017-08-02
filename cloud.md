@@ -31,12 +31,13 @@
 
 - [Azure Managed Disks Overview](https://docs.microsoft.com/en-us/azure/storage/storage-managed-disks-overview)
 
-### TBD ###
+### General ###
 - [Access Report with Azure PowerShell](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-access-change-history-report)
 - [Automate Azure Blob Storage with PowerShell](https://artofshell.com/2016/05/automate-azure-blob-storage-powershell/)
 - [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
 - [Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [How can I use the Hybrid Use Benefit in Azure](https://blogs.msdn.microsoft.com/azureedu/2016/04/13/how-can-i-use-the-hybrid-use-benefit-in-azure/)
+- [Mastering Azure Resourse Manager](https://github.com/jamesbannan/pluralsight/tree/master/microsoft-azure-resource-manager-mastering)
 - [Naming conventions for Azure resources](https://docs.microsoft.com/en-us/azure/guidance/guidance-naming-conventions)
 
 
