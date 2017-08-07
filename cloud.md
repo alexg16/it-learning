@@ -13,6 +13,7 @@
 - [Azure VM Scale Sets Dashboard Tools](https://github.com/gbowerman/vmssdashboard)
 - [How to capture a VM image from a generalized Azure VM](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-capture-image?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json)
 - [Migrate Azure VMs to Managed Disks in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/migrate-to-managed-disks)
+- [Nested Virtualization in Azure](https://azure.microsoft.com/en-us/blog/nested-virtualization-in-azure/)
 - [Prepare a Windows VHD to upload to Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-prepare-for-upload-vhd-image?)
 - [Sizes for virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-sizes)
 
