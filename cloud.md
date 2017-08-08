@@ -39,6 +39,7 @@
 - [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
 - [Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [How can I use the Hybrid Use Benefit in Azure](https://blogs.msdn.microsoft.com/azureedu/2016/04/13/how-can-i-use-the-hybrid-use-benefit-in-azure/)
+- [Install a new Active Directory forest on an Azure virtual network](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-new-forest-virtual-machine)
 - [Mastering Azure Resourse Manager](https://github.com/jamesbannan/pluralsight/tree/master/microsoft-azure-resource-manager-mastering)
 - [Naming conventions for Azure resources](https://docs.microsoft.com/en-us/azure/guidance/guidance-naming-conventions)
 
