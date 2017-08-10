@@ -21,9 +21,11 @@
 ### Identity ###
 - [Azure AD Connect: Pass-through authentication](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication)
 - [Built-in roles for Azure Role-Based Access Control](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-built-in-roles)
+- [How Azure subscriptions are associated with Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-how-subscriptions-associated-directory)
 - [Microsoft Azure AD Account Access Panel](https://account.activedirectory.windowsazure.com)
 - [Sign up for Azure](https://docs.microsoft.com/en-us/azure/active-directory/sign-up-organization) OR [Get Started with Azure as an organization](https://account.windowsazure.com/organization)
 - [Transfer ownership of an Azure subscription to another account](https://docs.microsoft.com/en-us/azure/billing/billing-subscription-transfer#next-steps-after-accepting-ownership-of-a-subscription)
+- [Understand Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/understand-azure-identity-solutions)
 
 ### Networking ###
 - [How Can I Connect 2 Azure Virtual Networks?](https://www.petri.com/can-connect-2-azure-virtual-networks)
