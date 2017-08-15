@@ -20,6 +20,8 @@
 
 ## Nano Server <a id="nano-server"></a>
 
+- [Updating Nano Server](https://technet.microsoft.com/windows-server-docs/get-started/update-nano-server)
+
 ## Sysinternals 
 
 - [Sysinternals Forums](https://forum.sysinternals.com)
@@ -34,7 +36,6 @@
 ## Windows Server 2016 <a id="windows-server-2016"></a>
 
 - [DISM Image Management Command-Line Options](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism-image-management-command-line-options-s14)
-- [Updating Nano Server](https://technet.microsoft.com/windows-server-docs/get-started/update-nano-server)
 - [Windows Server 2016 - System Requirements](https://technet.microsoft.com/en-us/windows-server-docs/get-started/system-requirements)
 - [Windows Server Blog](https://blogs.technet.microsoft.com/windowsserver/)
 - [Windows Sysprep for virtual machines](http://www.thomasmaurer.ch/2016/05/windows-sysprep-for-virtual-machines/)
