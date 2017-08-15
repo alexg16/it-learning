@@ -20,6 +20,7 @@
 
 ## Nano Server <a id="nano-server"></a>
 
+- [Install Nano Server](https://docs.microsoft.com/en-us/windows-server/get-started/getting-started-with-nano-server)
 - [Updating Nano Server](https://technet.microsoft.com/windows-server-docs/get-started/update-nano-server)
 
 ## Sysinternals 
