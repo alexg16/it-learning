@@ -18,6 +18,8 @@
 - [Support for USB access in Windows Server 2012 R2 Hyper-V through Microsoft’s new Virtual Machine Enhanced Session Mode](http://www.msserverpro.com/support-for-usb-access-in-windows-server-2012-r2-hyper-v-through-microsofts-new-virtual-machine-enhanced-session-mode/)
 - [Where did the native NAT switch go in Windows 10 1607](https://4sysops.com/archives/where-did-the-native-nat-switch-go-in-windows-10-1607/)
 
+## Nano Server <a id="nano-server"></a>
+
 ## Sysinternals 
 
 - [Sysinternals Forums](https://forum.sysinternals.com)
@@ -29,7 +31,7 @@
 - [On MSFT](https://www.onmsft.com/)
 - [Windows 10 Deployment Tools](https://docs.microsoft.com/en-us/windows/deployment/windows-deployment-scenarios-and-tools)
 
-## Windows Server 2016 <a id="windows-server-206"></a>
+## Windows Server 2016 <a id="windows-server-2016"></a>
 
 - [DISM Image Management Command-Line Options](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism-image-management-command-line-options-s14)
 - [Updating Nano Server](https://technet.microsoft.com/windows-server-docs/get-started/update-nano-server)
