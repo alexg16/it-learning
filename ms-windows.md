@@ -38,6 +38,7 @@
 ## Windows Server 2016 <a id="windows-server-2016"></a>
 
 - [DISM Image Management Command-Line Options](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism-image-management-command-line-options-s14)
+- [Installing a Domain Controller with Server 2016 Core](https://blogs.technet.microsoft.com/chadcox/2016/10/25/chads-quick-notes-installing-a-domain-controller-with-server-2016-core/)
 - [Windows Server 2016 - System Requirements](https://technet.microsoft.com/en-us/windows-server-docs/get-started/system-requirements)
 - [Windows Server Blog](https://blogs.technet.microsoft.com/windowsserver/)
 - [Windows Sysprep for virtual machines](http://www.thomasmaurer.ch/2016/05/windows-sysprep-for-virtual-machines/)
