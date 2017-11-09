@@ -46,7 +46,7 @@
 - [Install a new Active Directory forest on an Azure virtual network](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-new-forest-virtual-machine)
 - [Mastering Azure Resourse Manager](https://github.com/jamesbannan/pluralsight/tree/master/microsoft-azure-resource-manager-mastering)
 - [Naming conventions for Azure resources](https://docs.microsoft.com/en-us/azure/guidance/guidance-naming-conventions)
-
+- [Subscriptions, licenses, accounts, and tenants for Microsoft’s cloud offerings](https://technet.microsoft.com/en-us/library/mt765146.aspx)
 
 ## Office 365 <a id="office-365"></a>
 
