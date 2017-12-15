@@ -27,6 +27,7 @@
 - [Learn Powershell.net](https://learn-powershell.net/)
 - [PowerShell Gallery](https://www.powershellgallery.com/)
 - [PowerShell Loops](https://4sysops.com/archives/powershell-loops-for-foreach-while-do-until-continue-break/)
+- [PowerShell Tricks - Text to Speech](https://gallery.technet.microsoft.com/scriptcenter/PowerShell-Tricks-Text-to-2992aa1b)
 - [Script Center](https://technet.microsoft.com/en-us/scriptcenter/bb410849.aspx)
 - [The PowerShell function - Parameters, data types, return values](https://4sysops.com/archives/the-powershell-function-parameters-data-types-return-values/)
 - [User Input in PowerShell](https://4sysops.com/archives/user-input-in-powershell-read-host-mandatory-true-outgridview/)
