@@ -8,7 +8,6 @@
 |[Hyper-V](ms-windows)|[Identity](security)|[Internet](cloud)|
 |[Markdown](web-pages)|[Microsoft Azure](cloud)|[Nano Server](ms-windows#nano-server)|
 |[Office 365](cloud#office-365)|[PowerShell](coding)|[TCP/IP](networking)|
-|[Sysinternals](ms-windows)|*[todo]*|*[todo]*|*[todo]*|
 |[Vulnerability](security)|[Windows 10](ms-windows)|[Windows Server 2016](ms-windows#windows-server-2016)|
 
 
