@@ -12,6 +12,7 @@
 ## Hyper-V 
 
 - [Creating a Hyper-V Template](http://www.agileit.com/news/creating-a-hyper-v-template/)
+- [How to Clone VM in Hyper-V](https://techjourney.net/how-to-clone-vm-virtual-machine-in-hyper-v/)
 - [Nested Virtualization](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/nested-virtualization)
 - [Set up hosts for live migration without Failover Clustering](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/set-up-hosts-for-live-migration-without-failover-clustering)
 - [Support for USB access in Windows Server 2012 R2 Hyper-V through Microsoft’s new Virtual Machine Enhanced Session Mode](http://www.msserverpro.com/support-for-usb-access-in-windows-server-2012-r2-hyper-v-through-microsofts-new-virtual-machine-enhanced-session-mode/)
