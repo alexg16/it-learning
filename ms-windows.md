@@ -20,6 +20,7 @@
 
 ## Remote Desktop <a id="remote-desktop"></a>
 
+- [How to fix Remote Desktop Connection Manager 2.7 full screen issue](http://andyinmatrix.blogspot.com/2015/07/how-to-fix-remote-desktop-connection_25.html)
 
 ## Nano Server <a id="nano-server"></a>
 
