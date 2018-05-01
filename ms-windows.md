@@ -18,6 +18,9 @@
 - [Support for USB access in Windows Server 2012 R2 Hyper-V through Microsoft’s new Virtual Machine Enhanced Session Mode](http://www.msserverpro.com/support-for-usb-access-in-windows-server-2012-r2-hyper-v-through-microsofts-new-virtual-machine-enhanced-session-mode/)
 - [Where did the native NAT switch go in Windows 10 1607](https://4sysops.com/archives/where-did-the-native-nat-switch-go-in-windows-10-1607/)
 
+## Remote Desktop <a id="remote-desktop"></a>
+
+
 ## Nano Server <a id="nano-server"></a>
 
 - [Install Nano Server](https://docs.microsoft.com/en-us/windows-server/get-started/getting-started-with-nano-server)
