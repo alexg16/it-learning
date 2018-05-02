@@ -31,3 +31,4 @@
 - [Error With Apache 2.4 on Windows](http://weblogic-tips.com/2012/05/15/error-with-apache-2-4-on-windows-7-64-bit/)
 - [HOW CAN I CREATE A PHPINFO.PHP PAGE?](https://mediatemple.net/community/products/dv/204643880/how-can-i-create-a-phpinfo.php-page)
 - [How to install phpMyAdmin on Windows (youtube video)](https://www.youtube.com/watch?v=KFYXY3MT-XA)
+- [The mysqli extension is missing. Please check your PHP configuration](https://stackoverflow.com/questions/10646655/the-mysqli-extension-is-missing-please-check-your-php-configuration/17413783)
