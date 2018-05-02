@@ -32,3 +32,4 @@
 - [HOW CAN I CREATE A PHPINFO.PHP PAGE?](https://mediatemple.net/community/products/dv/204643880/how-can-i-create-a-phpinfo.php-page)
 - [How to install phpMyAdmin on Windows (youtube video)](https://www.youtube.com/watch?v=KFYXY3MT-XA)
 - [The mysqli extension is missing. Please check your PHP configuration](https://stackoverflow.com/questions/10646655/the-mysqli-extension-is-missing-please-check-your-php-configuration/17413783)
+- [http://www.howtosolutions.net/2017/01/easyphp-wordpress-no-working-transports-found-error/](http://www.howtosolutions.net/2017/01/easyphp-wordpress-no-working-transports-found-error/)
