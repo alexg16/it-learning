@@ -24,3 +24,7 @@
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
+
+## WordPress <a id="wordpress"></a>
+
+- [How to install Apache, PHP and MYSQL on Windows 10 Machine](https://www.znetlive.com/blog/how-to-install-apache-php-and-mysql-on-windows-10-machine/)
