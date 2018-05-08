@@ -14,7 +14,7 @@
 
 ## Security Training 
 
-- [Cbrary](https://www.cybrary.it/)
+- [Cybrary](https://www.cybrary.it/)
 
 ## Vulnerability 
 
