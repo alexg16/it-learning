@@ -2,11 +2,6 @@
 
 ----------
 
-## Vulnerability ##
-
-- [Shodan](https://shodan.io)
-- [VirusTotal](https://www.virustotal.com/)
-
 ## Identity ##
 
 ### Identity-as-a-service Providers ###
@@ -17,5 +12,11 @@
 - [OneLogin](https://www.onelogin.com/)
 - [PingIdentity](https://www.pingidentity.com/en.html)
 
+## Security Training 
 
+- [Cbrary](https://www.cybrary.it/)
 
+## Vulnerability 
+
+- [Shodan](https://shodan.io)
+- [VirusTotal](https://www.virustotal.com/)
