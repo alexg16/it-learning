@@ -8,6 +8,9 @@
 ## Active Directory <a id="active-directory"></a>
 
 - [Add User Principal Name Suffixes](https://technet.microsoft.com/en-us/library/cc772007(v=ws.11).aspx)
+- [Demoting Domain Controllers and Domains](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/demoting-domain-controllers-and-domains--level-200-)
+- [Installing a Domain Controller with Server 2016 Core](https://blogs.technet.microsoft.com/chadcox/2016/10/25/chads-quick-notes-installing-a-domain-controller-with-server-2016-core/)
+-[Properly Renaming a Domain Controller (Server 2012R2)](https://community.spiceworks.com/how_to/103538-properly-renaming-a-domain-controller-server-2012r2)
 
 ## Hyper-V 
 
@@ -43,10 +46,9 @@
 
 ## Windows Server 2016 <a id="windows-server-2016"></a>
 
-- [Demoting Domain Controllers and Domains](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/demoting-domain-controllers-and-domains--level-200-)
 - [Deploying IaaS VM Guest Clusters in Microsoft Azure](https://blogs.msdn.microsoft.com/clustering/2017/02/14/deploying-an-iaas-vm-guest-clusters-in-microsoft-azure/)
 - [DISM Image Management Command-Line Options](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism-image-management-command-line-options-s14)
-- [Installing a Domain Controller with Server 2016 Core](https://blogs.technet.microsoft.com/chadcox/2016/10/25/chads-quick-notes-installing-a-domain-controller-with-server-2016-core/)
+
 - [Storage Spaces Direct](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/storage-spaces-direct-overview)
 - [Stretch Cluster Replication Using Shared Storage](https://docs.microsoft.com/en-us/windows-server/storage/storage-replica/stretch-cluster-replication-using-shared-storage)
 - [Windows Server 2016 - System Requirements](https://technet.microsoft.com/en-us/windows-server-docs/get-started/system-requirements)
