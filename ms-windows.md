@@ -12,6 +12,11 @@
 - [Installing a Domain Controller with Server 2016 Core](https://blogs.technet.microsoft.com/chadcox/2016/10/25/chads-quick-notes-installing-a-domain-controller-with-server-2016-core/)
 -[Properly Renaming a Domain Controller (Server 2012R2)](https://community.spiceworks.com/how_to/103538-properly-renaming-a-domain-controller-server-2012r2)
 
+## Group Policy <a id="group-policy"></a>
+
+- [Group Policy Search](http://gpsearch.azurewebsites.net/)
+
+
 ## Hyper-V 
 
 - [Creating a Hyper-V Template](http://www.agileit.com/news/creating-a-hyper-v-template/)
