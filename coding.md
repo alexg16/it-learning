@@ -35,7 +35,7 @@
 - [Where-Object vs. the Where method: Array filtering in PowerShell](https://4sysops.com/archives/where-object-vs-the-where-method-array-filtering-in-powershell/)
 
 
-## Microsoft Graph API
+## Microsoft Graph API <a id="ms-graph-api"></a>
 
 - [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 
