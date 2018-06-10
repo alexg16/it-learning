@@ -51,7 +51,8 @@
 
 ## Windows Server 2016 <a id="windows-server-2016"></a>
 
-- [Deploying IaaS VM Guest Clusters in Microsoft Azure](https://blogs.msdn.microsoft.com/clustering/2017/02/14/deploying-an-iaas-vm-guest-clusters-in-microsoft-azure/)
+-[Configure Server Core for IIS Remote Management](https://thetechl33t.com/2017/06/16/configure-server-core-for-iis-remote-management/)
+-[Deploying IaaS VM Guest Clusters in Microsoft Azure](https://blogs.msdn.microsoft.com/clustering/2017/02/14/deploying-an-iaas-vm-guest-clusters-in-microsoft-azure/)
 - [DISM Image Management Command-Line Options](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism-image-management-command-line-options-s14)
 - [Storage Spaces Direct](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/storage-spaces-direct-overview)
 - [Stretch Cluster Replication Using Shared Storage](https://docs.microsoft.com/en-us/windows-server/storage/storage-replica/stretch-cluster-replication-using-shared-storage)
