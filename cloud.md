@@ -25,6 +25,7 @@
 
 ### Identity ###
 - [Azure AD Connect: Pass-through authentication](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication)
+- [Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso)
 - [Built-in roles for Azure Role-Based Access Control](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-built-in-roles)
 - [How Azure subscriptions are associated with Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-how-subscriptions-associated-directory)
 - [Microsoft Azure AD Account Access Panel](https://account.activedirectory.windowsazure.com)
