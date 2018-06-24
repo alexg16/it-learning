@@ -56,4 +56,5 @@
 
 ## Office 365 <a id="office-365"></a>
 
+- [Connect to Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-office-365-powershell)
 - [Multiple Office 365 Tenants](http://www.msexchange.org/articles-tutorials/office-365/what-you-need-consider-multiple-office-365-tenants-part1.html)
