@@ -19,6 +19,9 @@
 - [Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [Mastering Azure Resourse Manager](https://github.com/jamesbannan/pluralsight/tree/master/microsoft-azure-resource-manager-mastering)
 
+### ARM ###
+-[Automating Azure virtual machine deployment with Chef](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/chef-automation)
+
 ### Compute ###
 - [Azure confidential computing](https://azure.microsoft.com/en-us/blog/introducing-azure-confidential-computing)
 - [Azure VM Scale Sets Dashboard Tools](https://github.com/gbowerman/vmssdashboard)
