@@ -13,6 +13,12 @@
 - [The Cloud Calculator](https://thecloudcalculator.com/)
 
 ## Microsoft Azure ##
+
+### ARM ###
+- [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
+- [Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
+- [Mastering Azure Resourse Manager](https://github.com/jamesbannan/pluralsight/tree/master/microsoft-azure-resource-manager-mastering)
+
 ### Compute ###
 - [Azure confidential computing](https://azure.microsoft.com/en-us/blog/introducing-azure-confidential-computing)
 - [Azure VM Scale Sets Dashboard Tools](https://github.com/gbowerman/vmssdashboard)
@@ -45,12 +51,9 @@
 ### General ###
 - [Access Report with Azure PowerShell](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-access-change-history-report)
 - [Automate Azure Blob Storage with PowerShell](https://artofshell.com/2016/05/automate-azure-blob-storage-powershell/)
-- [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
-- [Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [Azure subscription and service limits, quotas, and constraints](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#storage-limits)
 - [How can I use the Hybrid Use Benefit in Azure](https://blogs.msdn.microsoft.com/azureedu/2016/04/13/how-can-i-use-the-hybrid-use-benefit-in-azure/)
 - [Install a new Active Directory forest on an Azure virtual network](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-new-forest-virtual-machine)
-- [Mastering Azure Resourse Manager](https://github.com/jamesbannan/pluralsight/tree/master/microsoft-azure-resource-manager-mastering)
 - [Naming conventions for Azure resources](https://docs.microsoft.com/en-us/azure/guidance/guidance-naming-conventions)
 - [Subscriptions, licenses, accounts, and tenants for Microsoft’s cloud offerings](https://technet.microsoft.com/en-us/library/mt765146.aspx)
 
