@@ -15,6 +15,7 @@
 ## Group Policy <a id="group-policy"></a>
 
 - [Group Policy Search](http://gpsearch.azurewebsites.net/)
+- [WMI Explorer](https://github.com/vinaypamnani/wmie2/releases)
 
 
 ## Hyper-V 
