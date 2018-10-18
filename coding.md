@@ -23,6 +23,7 @@
 - [AzureRM.Profile for AzureRm 4.0.0](https://docs.microsoft.com/en-us/powershell/module/azurerm.profile/?view=azurermps-4.0.0)
 - [Get-Credential](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.security/get-credential)
 - [How do I start remote desktop from PowerShell?](http://stackoverflow.com/questions/24493213/how-do-i-start-remote-desktop-from-powershell)
+- [Invoke-WebRequest Fails with SSL/TLS Secure Channel](https://stackoverflow.com/questions/41618766/powershell-invoke-webrequest-fails-with-ssl-tls-secure-channel)
 - [Fun with PowerShell Functions](https://blogs.technet.microsoft.com/heyscriptingguy/2015/07/08/fun-with-powershell-functions/)
 - [Learn Powershell.net](https://learn-powershell.net/)
 - [PowerShell Gallery](https://www.powershellgallery.com/)
