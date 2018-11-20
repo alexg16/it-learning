@@ -5,6 +5,7 @@
 
 - [dockerd Windows configuration file](https://docs.docker.com/engine/reference/commandline/dockerd/#windows-configuration-file)
 - [Getting Started with Docker on Windows Server 2019](https://blog.sixeyed.com/getting-started-with-docker-on-windows-server-2019/)
+also: install-packageprovider containerimage
 - [Install Docker compose](https://docs.docker.com/compose/install/)
 - [Manage data in Docker](https://docs.docker.com/engine/admin/volumes/)
 - [Setup Docker on Windows Server 2016](https://blogs.technet.microsoft.com/canitpro/2016/10/26/step-by-step-setup-docker-on-your-windows-2016-server/)
