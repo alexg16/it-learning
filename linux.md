@@ -8,6 +8,7 @@
 
 ## Ubuntu
 
+- [How to: RDP to Ubuntu](https://www.rorymon.com/blog/how-to-rdp-to-ubuntu/)
 - [Windows 10: A guide how to run Ubuntu 18.04 in Enhanced Mode in Hyper-V ](https://www.tenforums.com/virtualization/107147-guide-how-run-ubuntu-18-04-enhanced-mode-hyper-v.html)
 
 
