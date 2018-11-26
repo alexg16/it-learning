@@ -5,6 +5,7 @@
 
 - [dockerd Windows configuration file](https://docs.docker.com/engine/reference/commandline/dockerd/#windows-configuration-file)
 - [Getting Started with Docker on Windows Server 2019](https://blog.sixeyed.com/getting-started-with-docker-on-windows-server-2019/)   also: install-packageprovider containerimage
+- [What's new for Docker on Windows Server 2019?](https://stefanscherer.github.io/docker-on-windows-server-2019/)
 - Install Docker on Linux: `apt-get update`  `wget -qO- https://get.docker.com | sh`
 - [Pull WindowsServerCore Container Image](https://hub.docker.com/r/microsoft/windowsservercore/)
 - [Install Docker compose](https://docs.docker.com/compose/install/)
