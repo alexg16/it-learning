@@ -63,3 +63,5 @@
 - [Windows Sysprep for virtual machines](http://www.thomasmaurer.ch/2016/05/windows-sysprep-for-virtual-machines/)
 
 ## Windows Server 2019 <a id="windows-server-2019"></a>
+
+- [Top 10 Networking Features in Windows Server 2019: #3 Azure Network Adapter](https://blogs.technet.microsoft.com/networking/2018/09/05/azurenetworkadapter/)
