@@ -1,5 +1,6 @@
 # Linux
 
+- [Basic Vim commands - For getting started](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
 ----------
 ## Azure
 
