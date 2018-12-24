@@ -17,6 +17,7 @@
 ## Git/GitHub
 
 - [Git for Windows](https://git-for-windows.github.io/)
+- [Using Git with PowerShell](https://www.develves.net/blogs/asd/articles/using-git-with-powershell-on-windows-10/)
 
 
 ## PowerShell
