@@ -46,7 +46,7 @@
 
 - [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 
-##Code Quality Inspection
+## Code Quality Inspection
 - [Sonarqube](https://www.sonarqube.org/)
 - [Fortify](https://www.ndm.net/sast/hp-fortify)
 
