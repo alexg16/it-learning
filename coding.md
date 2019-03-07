@@ -1,6 +1,9 @@
 # Coding
 
 ----------
+## General
+-[The Twelve-Factor App](https://12factor.net/)
+
 ## Containers
 
 - [dockerd Windows configuration file](https://docs.docker.com/engine/reference/commandline/dockerd/#windows-configuration-file)
