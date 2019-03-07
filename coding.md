@@ -2,7 +2,8 @@
 
 ----------
 ## General
--[The Twelve-Factor App](https://12factor.net/)
+- [The Twelve-Factor App](https://12factor.net/)
+
 
 ## Containers
 
