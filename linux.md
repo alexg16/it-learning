@@ -14,7 +14,7 @@
 ## Ubuntu
 
 - [How to: RDP to Ubuntu](https://www.rorymon.com/blog/how-to-rdp-to-ubuntu/)
-- [Supported Ubuntu virtual machines on Hyper-V]https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/supported-ubuntu-virtual-machines-on-hyper-v)
+- [Supported Ubuntu virtual machines on Hyper-V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/supported-ubuntu-virtual-machines-on-hyper-v)
 - [Windows 10: A guide how to run Ubuntu 18.04 in Enhanced Mode in Hyper-V ](https://www.tenforums.com/virtualization/107147-guide-how-run-ubuntu-18-04-enhanced-mode-hyper-v.html)
 
 
