@@ -14,6 +14,10 @@
 
 - [CentOS Linux on Hyper-V](https://www.altaro.com/hyper-v/centos-linux-hyper-v/)
 
+## RHEL
+
+- [RHEL 7, open-vm-tools, and guest customization](http://www.boche.net/blog/2015/08/09/rhel-7-open-vm-tools-and-guest-customization/)
+
 ## Ubuntu
 
 - [How to: RDP to Ubuntu](https://www.rorymon.com/blog/how-to-rdp-to-ubuntu/)
