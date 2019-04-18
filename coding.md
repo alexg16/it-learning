@@ -41,9 +41,11 @@
 - [PowerShell Tricks - Text to Speech](https://gallery.technet.microsoft.com/scriptcenter/PowerShell-Tricks-Text-to-2992aa1b)
 - [Script Center](https://technet.microsoft.com/en-us/scriptcenter/bb410849.aspx)
 - [The PowerShell function - Parameters, data types, return values](https://4sysops.com/archives/the-powershell-function-parameters-data-types-return-values/)
+- [Technet Script Center](https://gallery.technet.microsoft.com/scriptcenter)
 - [User Input in PowerShell](https://4sysops.com/archives/user-input-in-powershell-read-host-mandatory-true-outgridview/)
 - Unable to find module providers (PowerShellGet) - HKLM/Current Control Set/Control/Lsa/FipsAlgorithmPolicy - Enabled(0)
 - [Where-Object vs. the Where method: Array filtering in PowerShell](https://4sysops.com/archives/where-object-vs-the-where-method-array-filtering-in-powershell/)
+
 
 
 ## Microsoft Graph API <a id="ms-graph-api"></a>
