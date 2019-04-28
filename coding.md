@@ -29,6 +29,7 @@
 - [Azure AD Module (MSOnline)](https://docs.microsoft.com/en-us/powershell/msonline/v1/azureactivedirectory?redirectedfrom=msdn)
 - [Azure Active Directory V2 PowerShell module](https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory)
 - [Azure Resource Manager authentication from a PowerShell script](https://blogs.endjin.com/2016/01/azure-resource-manager-authentication-from-a-powershell-script/)
+- [Azure Powershell - new Az module](https://docs.microsoft.com/en-us/powershell/azure/overview?view=azps-1.8.0)
 - [AzureRM.Profile for AzureRm 3.8.0](https://docs.microsoft.com/en-us/powershell/module/azurerm.profile/?view=azurermps-3.8.0)
 - [AzureRM.Profile for AzureRm 4.0.0](https://docs.microsoft.com/en-us/powershell/module/azurerm.profile/?view=azurermps-4.0.0)
 - [Get-Credential](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.security/get-credential)
