@@ -4,6 +4,7 @@
 - [10 Basic Linux Command](http://www.linuxandubuntu.com/home/10-basic-linux-commands-that-every-linux-newbies-should-remember)
 - [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
 - [Basic Vim commands - For getting started](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
+- [Change Ownership and Rights to Files and Folders in Linux](http://www.smashinglab.com/change-ownership-rights-files-folders-linux/)
 - [How to disable SWAP on Linux](https://www.addictivetips.com/ubuntu-linux-tips/disable-swap-on-linux/)
 
 ## Azure
