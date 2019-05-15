@@ -22,6 +22,7 @@
 
 ## Ubuntu
 
+- [How to Install Visual Studio Code on Ubuntu 18.04](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/)
 - [How to: RDP to Ubuntu](https://www.rorymon.com/blog/how-to-rdp-to-ubuntu/)
 - [Hyper-V (LIS) On Ubuntu 18.04](https://oitibs.com/hyper-v-lis-on-ubuntu-18-04/)
 - [Install MySQL Server on Ubuntu](https://support.rackspace.com/how-to/installing-mysql-server-on-ubuntu/) sudo mysql Customer < /../../database.sql
