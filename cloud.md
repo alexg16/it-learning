@@ -56,6 +56,7 @@
 
 ### General ###
 - [Azure Docs](https://docs.microsoft.com/en-us/azure/)
+- [Azure Knowledge Center](https://azure.microsoft.com/en-us/resources/knowledge-center/)
 - [Azure Speed Test](http://azurespeedtest.azurewebsites.net/)
 - [Access Report with Azure PowerShell](https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-access-change-history-report)
 - [Automate Azure Blob Storage with PowerShell](https://artofshell.com/2016/05/automate-azure-blob-storage-powershell/)
