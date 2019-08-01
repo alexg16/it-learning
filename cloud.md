@@ -14,6 +14,8 @@
 
 ## Microsoft Azure ##
 
+- [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+
 ### ARM ###
 - [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
 - [Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
