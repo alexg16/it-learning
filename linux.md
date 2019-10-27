@@ -16,6 +16,10 @@
 
 - [CentOS Linux on Hyper-V](https://www.altaro.com/hyper-v/centos-linux-hyper-v/)
 
+## Kali
+
+- [Kali sources.list Repositories](https://docs.kali.org/general-use/kali-linux-sources-list-repositories)
+
 ## RHEL
 
 - [RHEL 7, open-vm-tools, and guest customization](http://www.boche.net/blog/2015/08/09/rhel-7-open-vm-tools-and-guest-customization/)
