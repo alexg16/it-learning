@@ -21,6 +21,7 @@
 ## Hyper-V 
 
 - [Creating a Hyper-V Template](http://www.agileit.com/news/creating-a-hyper-v-template/)
+- [Deploy Hyper-V on Windows Server](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/deploy-hyper-v-on-windows-server)
 - [Enhanced Session for Kali Linux](https://gist.github.com/mimura1133/25451be04929d65993e0fb658d0b6890)
 - [Export and Import virtual machines](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/export-and-import-virtual-machines)
 - [How to Clone VM in Hyper-V](https://techjourney.net/how-to-clone-vm-virtual-machine-in-hyper-v/)
