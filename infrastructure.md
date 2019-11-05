@@ -15,6 +15,7 @@
 - [Installing a nested virtual machine fails with the error: You are running VMware ESX through an incompatible hypervisor](https://kb.vmware.com/s/article/2108724)
 - [Powershell cmdlet conflict with latest powercli](https://communities.vmware.com/thread/593169)
 - [Steps to Install VMware vSphere ESXi 6.7](http://www.mustbegeek.com/steps-to-install-vmware-vsphere-esxi-6-7/)
+- [Your evaluation license for ESXi has expired](https://www.reddit.com/r/vmware/comments/8aknli/your_evaluation_license_for_esxi_has_expired/)
 
 ## Hyper-Convergence ##
 
