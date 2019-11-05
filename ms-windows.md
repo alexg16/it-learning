@@ -26,6 +26,7 @@
 - [Export and Import virtual machines](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/export-and-import-virtual-machines)
 - [How to Clone VM in Hyper-V](https://techjourney.net/how-to-clone-vm-virtual-machine-in-hyper-v/)
 - [Nested Virtualization](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/nested-virtualization)
+- [REMOTELY MANAGING HYPER-V SERVER IN A WORKGROUP OR NON-DOMAIN](https://timothygruber.com/hyper-v-2/remotely-managing-hyper-v-server-in-a-workgroup-or-non-domain/)
 - [Set up hosts for live migration without Failover Clustering](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/set-up-hosts-for-live-migration-without-failover-clustering)
 - [Support for USB access in Windows Server 2012 R2 Hyper-V through Microsoft’s new Virtual Machine Enhanced Session Mode](http://www.msserverpro.com/support-for-usb-access-in-windows-server-2012-r2-hyper-v-through-microsofts-new-virtual-machine-enhanced-session-mode/)
 - [Where did the native NAT switch go in Windows 10 1607](https://4sysops.com/archives/where-did-the-native-nat-switch-go-in-windows-10-1607/)
