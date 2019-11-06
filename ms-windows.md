@@ -55,6 +55,10 @@
 - [RSAT Missing DNS Server Tools](https://techcommunity.microsoft.com/t5/Windows-Server-Insiders/RSAT-missing-DNS-Server-Tools/td-p/113280)
 - [Windows 10 Deployment Tools](https://docs.microsoft.com/en-us/windows/deployment/windows-deployment-scenarios-and-tools)
 
+## Windows Admin Center
+
+-[Announcing the general availability of Windows Admin Center, version 1910](https://cloudblogs.microsoft.com/windowsserver/2019/11/04/announcing-the-general-availability-of-windows-admin-center-version-1910/)
+
 ## Windows Server 2016 <a id="windows-server-2016"></a>
 
 - [Configure Server Core for IIS Remote Management](https://thetechl33t.com/2017/06/16/configure-server-core-for-iis-remote-management/)
