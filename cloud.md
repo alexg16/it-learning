@@ -52,6 +52,10 @@
 - [Transfer ownership of an Azure subscription to another account](https://docs.microsoft.com/en-us/azure/billing/billing-subscription-transfer#next-steps-after-accepting-ownership-of-a-subscription)
 - [Understand Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/understand-azure-identity-solutions)
 
+### Management ###
+
+-[Elevate access to manage all Azure subscriptions and management groups](https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin)
+
 ### Networking ###
 - [How Can I Connect 2 Azure Virtual Networks?](https://www.petri.com/can-connect-2-azure-virtual-networks)
 - [Restrict network access to PaaS resources](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)
