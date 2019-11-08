@@ -5,7 +5,6 @@
 - [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
 - [Basic Vim commands - For getting started](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
 - [Change Ownership and Rights to Files and Folders in Linux](http://www.smashinglab.com/change-ownership-rights-files-folders-linux/)
-- [Fresh Kali install not updating - Kali sources.list Repositories](https://docs.kali.org/general-use/kali-linux-sources-list-repositories)
 - [How to disable SWAP on Linux](https://www.addictivetips.com/ubuntu-linux-tips/disable-swap-on-linux/)
 - [How to install and use rdesktop - the remote desktop client for Linux](https://www.itworld.com/article/2988289/how-to-install-and-use-rdesktop-the-remote-desktop-client-for-linux.html)
 
@@ -20,7 +19,12 @@
 
 ## Kali
 
+- [Fresh Kali install not updating - Kali sources.list Repositories](https://docs.kali.org/general-use/kali-linux-sources-list-repositories)
 - [Kali sources.list Repositories](https://docs.kali.org/general-use/kali-linux-sources-list-repositories)
+
+## Raspberry Pi
+
+-[Raspberry Pi Visual Studio Code: Installing VS Code on Raspbian](https://pimylifeup.com/raspberry-pi-visual-studio-code/)
 
 ## RHEL
 
