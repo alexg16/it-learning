@@ -24,7 +24,7 @@
 
 ## Raspberry Pi
 
--[Raspberry Pi Visual Studio Code: Installing VS Code on Raspbian](https://pimylifeup.com/raspberry-pi-visual-studio-code/)
+- [Raspberry Pi Visual Studio Code: Installing VS Code on Raspbian](https://pimylifeup.com/raspberry-pi-visual-studio-code/)
 
 ## RHEL
 
