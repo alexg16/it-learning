@@ -19,6 +19,10 @@
 ### Azure REST APIs ###
 - [Azure REST APIs with Postman](https://microsoft.github.io/AzureTipsAndTricks/blog/tip223.html)
 
+## Azure CLI
+
+- [The Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
+
 ### ARM ###
 - [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
 - [Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
