@@ -4,6 +4,10 @@
 ## General
 - [The Twelve-Factor App](https://12factor.net/)
 
+## Azure CLI
+
+- [The Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
+
 
 ## Containers
 
