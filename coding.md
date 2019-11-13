@@ -25,7 +25,7 @@
 
 ## Git/GitHub
 
-- [Caching your GitHub password in Gi](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
+- [Caching your GitHub password in Git](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
 - [Git for Windows](https://git-for-windows.github.io/)
 - [Using Git with PowerShell](https://www.develves.net/blogs/asd/articles/using-git-with-powershell-on-windows-10/)
 
