@@ -22,6 +22,7 @@
 ## Kali
 
 - [Fresh Kali install not updating - Kali sources.list Repositories](https://docs.kali.org/general-use/kali-linux-sources-list-repositories)
+- [How to Upgrade Kali Linux to 2019.4 | SYSNETTECH Solutions](https://www.youtube.com/watch?v=lnuwXX0lbhY&vl=en)
 - [Kali Linux 2019.4 includes new undercover mode for pentesters doing work in public places](https://www.helpnetsecurity.com/2019/11/27/kali-linux-2019-4/)
 - [Kali sources.list Repositories](https://docs.kali.org/general-use/kali-linux-sources-list-repositories)
 
