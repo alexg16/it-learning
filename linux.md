@@ -41,6 +41,7 @@
 ## Ubuntu
 
 - [How to Install and Configure Ansible on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-18-04#step-1-%E2%80%94-installing-ansible)
+- [How to Install Ubuntu 18.04 along with Windows 10](https://vitux.com/how-to-install-ubuntu-18-04-along-with-windows-10/)
 - [How to Install Visual Studio Code on Ubuntu 18.04](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/)
 - [How to: RDP to Ubuntu](https://www.rorymon.com/blog/how-to-rdp-to-ubuntu/)
 - [Hyper-V (LIS) On Ubuntu 18.04](https://oitibs.com/hyper-v-lis-on-ubuntu-18-04/)
