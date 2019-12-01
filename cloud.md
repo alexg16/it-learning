@@ -15,6 +15,7 @@
 ## Microsoft Azure ##
 
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+- [Best practices for Azure readiness](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/)
 
 ### Azure REST APIs ###
 - [Azure REST APIs with Postman](https://microsoft.github.io/AzureTipsAndTricks/blog/tip223.html)
