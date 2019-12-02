@@ -9,6 +9,7 @@
 - [Generating and Working with SSH Keys](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys#generating-and-working-with-ssh-keys)
 - [How to disable SWAP on Linux](https://www.addictivetips.com/ubuntu-linux-tips/disable-swap-on-linux/)
 - [How to install and use rdesktop - the remote desktop client for Linux](https://www.itworld.com/article/2988289/how-to-install-and-use-rdesktop-the-remote-desktop-client-for-linux.html)
+- [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
 - [Which Linux Desktop Environment will be the best for you?](https://dev.to/imtiazsakib/which-linux-desktop-environment-will-be-the-best-for-you-5695)
 
 ## Azure
