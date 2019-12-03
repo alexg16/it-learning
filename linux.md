@@ -15,6 +15,7 @@
 ## Azure
 
 - [Install and configure Remote Desktop to connect to a Linux VM in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop)
+- [Manage administrative users, SSH, and check or repair disks on Linux VMs using the VMAccess Extension with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/vmaccess)
 - [Xfce4, Debian Sensible Browser, Failure to Execute](https://trisquel.info/en/forum/xfce4-debian-sensible-browser-failure-execute)
 
 ## CentOS
