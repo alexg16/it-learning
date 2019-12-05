@@ -3,6 +3,7 @@
 
 - [10 Basic Linux Command](http://www.linuxandubuntu.com/home/10-basic-linux-commands-that-every-linux-newbies-should-remember)
 - [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
+- [An introduction to the vi editor](https://www.redhat.com/sysadmin/introduction-vi-editor)
 - [Basic Vim commands - For getting started](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
 - [Change Ownership and Rights to Files and Folders in Linux](http://www.smashinglab.com/change-ownership-rights-files-folders-linux/)
 - [Distrotest.net](https://distrotest.net/)
