@@ -8,9 +8,11 @@
 
 ## Internet ##
 
+- [BrowserStack]((https://www.browserstack.com/)
 - [Downdetector](http://downdetector.com)
 - [Is it Down Right Now?](http://www.isitdownrightnow.com/)
 - [The Cloud Calculator](https://thecloudcalculator.com/)
+
 
 ## Microsoft Azure ##
 
