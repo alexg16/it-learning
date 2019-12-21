@@ -68,6 +68,7 @@
 ### Networking ###
 - [How Can I Connect 2 Azure Virtual Networks?](https://www.petri.com/can-connect-2-azure-virtual-networks)
 - [Restrict network access to PaaS resources](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)
+- [Tutorial: Connect virtual networks with virtual network peering using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal#communicate-between-vms)
 - [Virtual Network Peering](https://docs.microsoft.com/en-gb/azure/virtual-network/virtual-network-peering-overview)
 
 ### Storage ###
