@@ -29,6 +29,7 @@
 - [REMOTELY MANAGING HYPER-V SERVER IN A WORKGROUP OR NON-DOMAIN](https://timothygruber.com/hyper-v-2/remotely-managing-hyper-v-server-in-a-workgroup-or-non-domain/)
 - [Set up hosts for live migration without Failover Clustering](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/set-up-hosts-for-live-migration-without-failover-clustering)
 - [Support for USB access in Windows Server 2012 R2 Hyper-V through Microsoft’s new Virtual Machine Enhanced Session Mode](http://www.msserverpro.com/support-for-usb-access-in-windows-server-2012-r2-hyper-v-through-microsofts-new-virtual-machine-enhanced-session-mode/)
+- [USING POWERSHELL TO CREATE A NAT NETWORK FOR HYPER-V VMS](http://techgenix.com/nat-network-hyper-v-vms/)
 - [Where did the native NAT switch go in Windows 10 1607](https://4sysops.com/archives/where-did-the-native-nat-switch-go-in-windows-10-1607/)
 - [Windows 10 1709 Hyper-V Networking Enhancement](https://blogs.technet.microsoft.com/nextnextfinish/2018/02/02/windows-10-1709-hyper-v-networking-enhancement/)
 
