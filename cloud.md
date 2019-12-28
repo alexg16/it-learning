@@ -69,6 +69,7 @@
 - [Create a S2S VPN connection using RRAS 2016 between Azure and an on-premise network](https://oktotechnologies.ca/2018/12/18/create-a-s2s-connection-between-on-prem-and-azure-network/)
 - [How Can I Connect 2 Azure Virtual Networks?](https://www.petri.com/can-connect-2-azure-virtual-networks)
 - [HOW TO ENABLE PING (ICMP ECHO) ON AN AZURE VM](https://www.thomasmaurer.ch/2019/09/how-to-enable-ping-icmp-echo-on-an-azure-vm/)
+- [HOW TO SET UP WINDOWS SERVER AZURE NETWORK ADAPTER](https://www.thomasmaurer.ch/2018/09/windows-server-azure-network-adapter/)
 - [Restrict network access to PaaS resources](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)
 - [Tutorial: Connect virtual networks with virtual network peering using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal#communicate-between-vms)
 - [Virtual Network Peering](https://docs.microsoft.com/en-gb/azure/virtual-network/virtual-network-peering-overview)
