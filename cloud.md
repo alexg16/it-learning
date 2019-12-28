@@ -66,6 +66,7 @@
 - [Elevate access to manage all Azure subscriptions and management groups](https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin)
 
 ### Networking ###
+- [Application security groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
 - [Create a S2S VPN connection using RRAS 2016 between Azure and an on-premise network](https://oktotechnologies.ca/2018/12/18/create-a-s2s-connection-between-on-prem-and-azure-network/)
 - [How Can I Connect 2 Azure Virtual Networks?](https://www.petri.com/can-connect-2-azure-virtual-networks)
 - [HOW TO ENABLE PING (ICMP ECHO) ON AN AZURE VM](https://www.thomasmaurer.ch/2019/09/how-to-enable-ping-icmp-echo-on-an-azure-vm/)
