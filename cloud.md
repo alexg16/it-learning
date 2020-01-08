@@ -41,6 +41,7 @@
 - [Azure confidential computing](https://azure.microsoft.com/en-us/blog/introducing-azure-confidential-computing)
 - [Azure VM Scale Sets Dashboard Tools](https://github.com/gbowerman/vmssdashboard)
 - [Check Azure VM Status with PowerShell](https://4sysops.com/archives/check-azure-vm-status-with-powershell/)
+- [Deploy virtual machine extensions with Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-deploy-vm-extensions)
 - [How to capture a VM image from a generalized Azure VM](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-capture-image?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json)
 - [Linux Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/)
 - [Migrate Azure VMs to Managed Disks in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/migrate-to-managed-disks)
