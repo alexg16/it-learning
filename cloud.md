@@ -85,6 +85,10 @@
 - [Azure Managed Disks Overview](https://docs.microsoft.com/en-us/azure/storage/storage-managed-disks-overview)
 - [Azure Data Factory documentation](https://docs.microsoft.com/en-us/azure/data-factory/)
 
+### PaaS ###
+
+- [Control egress traffic for cluster nodes in Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/limit-egress-traffic)
+
 ### General ###
 - [Azure Docs](https://docs.microsoft.com/en-us/azure/)
 - [Azure Knowledge Center](https://azure.microsoft.com/en-us/resources/knowledge-center/)
