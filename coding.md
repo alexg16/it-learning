@@ -4,6 +4,9 @@
 ## General
 - [The Twelve-Factor App](https://12factor.net/)
 
+## DevOps
+- [PERIODIC TABLE OF DEVOPS TOOLS](https://xebialabs.com/periodic-table-of-devops-tools/)
+
 ## Azure CLI
 
 - [The Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
