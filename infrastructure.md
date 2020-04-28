@@ -7,6 +7,7 @@
 - [...more](https://www.v-front.de/p/esxi-customizer-ps.html#download)
 - [Cmdlets of the Same Name (VMware & Hyper-V)](https://tommymaynard.com/cmdlets-of-the-same-name-vmware-hyper-v/)
 - [Create a Bootable ESXi Installer USB Flash Drive](https://www.virten.net/2014/12/howto-create-a-bootable-esxi-installer-usb-flash-drive/)
+- [Manually attach USB Device as a VMFS Datastore in ESXI](https://burnhamforensics.com/2019/01/31/manually-attach-usb-device-as-a-vmfs-datastore-in-esxi/)
 - [How to build a Windows 2016 VMware Template](https://notesfrommwhite.net/2016/12/11/how-to-build-a-windows-2016-vmware-template/)
 - [How to make your unsupported SATA AHCI Controller work with ESXi 5.5 and 6.0](https://www.v-front.de/2013/11/how-to-make-your-unsupported-sata-ahci.html)
 - [Installing ESXi 6.0 in a Hyper-V Virtual Machine](https://www.vembu.com/blog/installing-esxi-6-0-in-a-hyper-v-virtual-machine/)
