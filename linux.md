@@ -49,6 +49,7 @@
 - [Setup Fixed / Static IP Addresses on Ubuntu 18.04 / 18.10 Systems](Setup Fixed / Static IP Addresses on Ubuntu 18.04 / 18.10 Systems)
 - [How to Install and Configure Ansible on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-18-04#step-1-%E2%80%94-installing-ansible)
 - [How To Configure BIND as a Private Network DNS Server on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04)
+- [How to Install and Configure an NFS Server on Ubuntu 18.04](https://linuxize.com/post/how-to-install-and-configure-an-nfs-server-on-ubuntu-18-04/)
 - [How to Install Ubuntu 18.04 along with Windows 10](https://vitux.com/how-to-install-ubuntu-18-04-along-with-windows-10/)
 - [How to Install Visual Studio Code on Ubuntu 18.04](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/)
 - [How to: RDP to Ubuntu](https://www.rorymon.com/blog/how-to-rdp-to-ubuntu/)
