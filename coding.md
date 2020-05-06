@@ -44,6 +44,8 @@ source <(kubectl completion bash)
 - [How To Install A Kubernetes Cluster On CentOS 7](https://phoenixnap.com/kb/how-to-install-kubernetes-on-centos)
 - [Installing kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
 - [Know Kubernetes — Pictorially](https://medium.com/tarkalabs/know-kubernetes-pictorially-f6e6a0052dd0)
+- [Kubernetes Web UI (Dashboard)](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
+- [More on Web UI](https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md)
 - [Preview - Create a Windows Server container on an Azure Kubernetes Service (AKS) cluster using the Azure CLI](https://docs.microsoft.com/en-us/azure/aks/windows-container-cli)
 
 
