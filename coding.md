@@ -41,6 +41,7 @@
 - [How to gracefully remove a node from Kubernetes?](https://stackoverflow.com/questions/35757620/how-to-gracefully-remove-a-node-from-kubernetes)
 - Enable autocompletion for the Kubernetes cluster manager utility kubectl:
 source <(kubectl completion bash)
+- [Configure Local Kubectl to Access Remote Kubernetes Cluster](https://medium.com/@raj10x/configure-local-kubectl-to-access-remote-kubernetes-cluster-ee78feff2d6d)
 - [How To Install A Kubernetes Cluster On CentOS 7](https://phoenixnap.com/kb/how-to-install-kubernetes-on-centos)
 - [Installing kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
 - [Know Kubernetes — Pictorially](https://medium.com/tarkalabs/know-kubernetes-pictorially-f6e6a0052dd0)
