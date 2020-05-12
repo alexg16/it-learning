@@ -21,6 +21,7 @@
 ## Hyper-V 
 
 - [Creating a Hyper-V Template](http://www.agileit.com/news/creating-a-hyper-v-template/)
+- [Clone a Ubuntu server in Hyper-V](https://4sysops.com/archives/clone-a-ubuntu-server-in-hyper-v-2012-r2/)
 - [Deploy Hyper-V on Windows Server](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/deploy-hyper-v-on-windows-server)
 - [Enhanced Session for Kali Linux](https://gist.github.com/mimura1133/25451be04929d65993e0fb658d0b6890)
 - [Export and Import virtual machines](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/export-and-import-virtual-machines)
