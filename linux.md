@@ -46,6 +46,8 @@
 
 ## Ubuntu
 
+
+- [2 Ways to Install Google Chrome on Ubuntu 18.04 LTS Bionic Beaver](https://www.linuxbabe.com/ubuntu/install-google-chrome-ubuntu-18-04-lts)
 - [How to Configure Static IP Address on Ubuntu 18.04](https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/)
 - [Setup Fixed / Static IP Addresses on Ubuntu 18.04 / 18.10 Systems](Setup Fixed / Static IP Addresses on Ubuntu 18.04 / 18.10 Systems)
 - [How to Install and Configure Ansible on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-18-04#step-1-%E2%80%94-installing-ansible)
