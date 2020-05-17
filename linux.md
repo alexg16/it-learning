@@ -50,6 +50,7 @@
 - [2 Ways to Install Google Chrome on Ubuntu 18.04 LTS Bionic Beaver](https://www.linuxbabe.com/ubuntu/install-google-chrome-ubuntu-18-04-lts)
 - [How to Configure Static IP Address on Ubuntu 18.04](https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/)
 - [Setup Fixed / Static IP Addresses on Ubuntu 18.04 / 18.10 Systems](Setup Fixed / Static IP Addresses on Ubuntu 18.04 / 18.10 Systems)
+- [Override DNS servers via Netplan config](https://askubuntu.com/questions/1205539/trouble-overriding-dns-servers-via-netplan-config)
 - [How to Install and Configure Ansible on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-18-04#step-1-%E2%80%94-installing-ansible)
 - [How To Configure BIND as a Private Network DNS Server on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04)
 - [How to Install and Configure an NFS Server on Ubuntu 18.04](https://linuxize.com/post/how-to-install-and-configure-an-nfs-server-on-ubuntu-18-04/)
