@@ -14,6 +14,7 @@
 - [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
 - [Which Linux Desktop Environment will be the best for you?](https://dev.to/imtiazsakib/which-linux-desktop-environment-will-be-the-best-for-you-5695)
 - [Linux: Start / Stop / Restart BIND DNS Server](https://www.cyberciti.biz/faq/start-stop-restart-bind9-linux-command/)
+- [Bind force zone updates on slave](https://serverfault.com/questions/954269/bind-force-zone-update-on-slave)
 
 ## Azure
 
