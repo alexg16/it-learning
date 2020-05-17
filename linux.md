@@ -13,6 +13,7 @@
 - [How to prevent upgrade of specific packages](https://askubuntu.com/questions/18654/how-to-prevent-updating-of-a-specific-package)
 - [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
 - [Which Linux Desktop Environment will be the best for you?](https://dev.to/imtiazsakib/which-linux-desktop-environment-will-be-the-best-for-you-5695)
+- [Linux: Start / Stop / Restart BIND DNS Server](https://www.cyberciti.biz/faq/start-stop-restart-bind9-linux-command/)
 
 ## Azure
 
