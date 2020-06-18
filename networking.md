@@ -14,3 +14,7 @@
 - [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
 - [IPv4 Subnet Calculator](https://www.adminsub.net/ipv4-subnet-calculator)
 
+## Misc
+
+- [tailscale](https://tailscale.com/)
+
