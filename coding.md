@@ -48,6 +48,7 @@ source <(kubectl completion bash)
 - [Kubernetes Web UI (Dashboard)](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
 - [More on Web UI](https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md)
 - [Preview - Create a Windows Server container on an Azure Kubernetes Service (AKS) cluster using the Azure CLI](https://docs.microsoft.com/en-us/azure/aks/windows-container-cli)
+- [scale out RaspberryPi Kubernetes cluster to the cloud](https://blog.nativecloud.dev/scale-out-your-raspberry-pi-k3s-cluster-to-the-cloud/)
 
 
 ## PowerShell
