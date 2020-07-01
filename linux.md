@@ -50,6 +50,7 @@
 
 
 - [2 Ways to Install Google Chrome on Ubuntu 18.04 LTS Bionic Beaver](https://www.linuxbabe.com/ubuntu/install-google-chrome-ubuntu-18-04-lts)
+- [A start job is running for wait for network to be configured. Ubuntu server 17.10](https://askubuntu.com/questions/972215/a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [How to Configure Static IP Address on Ubuntu 18.04](https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/)
 - [Setup Fixed / Static IP Addresses on Ubuntu 18.04 / 18.10 Systems](https://websiteforstudents.com/setup-fixed-static-ip-addresses-on-ubuntu-18-04-18-10-systems/)
 - [Override DNS servers via Netplan config](https://askubuntu.com/questions/1205539/trouble-overriding-dns-servers-via-netplan-config)
