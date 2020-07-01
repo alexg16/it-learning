@@ -27,6 +27,7 @@
 - [Export and Import virtual machines](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/export-and-import-virtual-machines)
 - [How to Clone VM in Hyper-V](https://techjourney.net/how-to-clone-vm-virtual-machine-in-hyper-v/)
 - [Hyper-V PowerShell Commands for Windows Server 2016: List & Uses](https://study.com/academy/lesson/hyper-v-powershell-commands-for-windows-server-2016-list-uses.html)
+- [Move-VMStorage - PowerShell](https://docs.microsoft.com/en-us/powershell/module/hyper-v/move-vmstorage?view=win10-ps)
 - [Nested Virtualization](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/nested-virtualization)
 - [REMOTELY MANAGING HYPER-V SERVER IN A WORKGROUP OR NON-DOMAIN](https://timothygruber.com/hyper-v-2/remotely-managing-hyper-v-server-in-a-workgroup-or-non-domain/)
 - [Set up hosts for live migration without Failover Clustering](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/set-up-hosts-for-live-migration-without-failover-clustering)
