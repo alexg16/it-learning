@@ -37,6 +37,7 @@
 
 ## Kubernetes
 
+- [Accessing Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/)
 - [Having fun with Kubernetes](https://dev.to/martinpham/having-fun-with-kubernetes-final-chapter-play-time-4kka)
 - [How To Create a Kubernetes Cluster Using Kubeadm on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-18-04)
 - [How to gracefully remove a node from Kubernetes?](https://stackoverflow.com/questions/35757620/how-to-gracefully-remove-a-node-from-kubernetes)
