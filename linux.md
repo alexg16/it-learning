@@ -34,6 +34,7 @@
 - [Kali sources.list Repositories](https://docs.kali.org/general-use/kali-linux-sources-list-repositories)
 - [Move from Gnome to XFCE Kali Linux How-To](https://youtu.be/1sYaLLjGZaU)
 - [Top 10 Kali Linux Tools For Hacking](https://www.geeksforgeeks.org/top-10-kali-linux-tools-for-hacking/)
+- [Kali on Azure](https://www.youtube.com/watch?v=kPvsblTKx68)
 
 ## Raspberry Pi
 
