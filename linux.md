@@ -33,6 +33,7 @@
 - [Kali Linux 2019.4 includes new undercover mode for pentesters doing work in public places](https://www.helpnetsecurity.com/2019/11/27/kali-linux-2019-4/)
 - [Kali sources.list Repositories](https://docs.kali.org/general-use/kali-linux-sources-list-repositories)
 - [Move from Gnome to XFCE Kali Linux How-To](https://youtu.be/1sYaLLjGZaU)
+- [Top 10 Kali Linux Tools For Hacking](https://www.geeksforgeeks.org/top-10-kali-linux-tools-for-hacking/)
 
 ## Raspberry Pi
 
