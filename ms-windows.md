@@ -63,6 +63,7 @@
 - [RSAT Missing DNS Server Tools](https://techcommunity.microsoft.com/t5/Windows-Server-Insiders/RSAT-missing-DNS-Server-Tools/td-p/113280)
 - [Windows 10 Deployment Tools](https://docs.microsoft.com/en-us/windows/deployment/windows-deployment-scenarios-and-tools)
 - [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- [how to generate an SSH key pair in Windows 10 using OpenSSH or PuTTY](https://phoenixnap.com/kb/generate-ssh-key-windows-10)
 
 ## Windows Admin Center
 
