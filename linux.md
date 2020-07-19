@@ -38,6 +38,7 @@
 - [Move from Gnome to XFCE Kali Linux How-To](https://youtu.be/1sYaLLjGZaU)
 - [Top 10 Kali Linux Tools For Hacking](https://www.geeksforgeeks.org/top-10-kali-linux-tools-for-hacking/)
 - [Kali on Azure](https://www.youtube.com/watch?v=kPvsblTKx68)
+- [Raspberry Pi 4 as a Network Router](https://youtu.be/owxOAZAp00Y)
 
 ## Raspberry Pi
 
