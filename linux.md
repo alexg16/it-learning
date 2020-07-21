@@ -12,6 +12,7 @@
 - [How to install and use rdesktop - the remote desktop client for Linux](https://www.itworld.com/article/2988289/how-to-install-and-use-rdesktop-the-remote-desktop-client-for-linux.html)
 - [How to Know if a User has Sudo Rights](https://linuxhandbook.com/check-if-user-has-sudo-rights/#how-to-test-whether-a-user-has-sudo-privileges-or-not)
 - [How to prevent upgrade of specific packages](https://askubuntu.com/questions/18654/how-to-prevent-updating-of-a-specific-package)
+- [How to Use the ss Command on Linux](https://www.howtogeek.com/681468/how-to-use-the-ss-command-on-linux/)
 - [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
 - [Which Linux Desktop Environment will be the best for you?](https://dev.to/imtiazsakib/which-linux-desktop-environment-will-be-the-best-for-you-5695)
 - [Linux: Start / Stop / Restart BIND DNS Server](https://www.cyberciti.biz/faq/start-stop-restart-bind9-linux-command/)
