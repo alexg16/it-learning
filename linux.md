@@ -10,6 +10,7 @@
 - [SSH Keys - Generating and Working with](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys#generating-and-working-with-ssh-keys)
 - [How to disable SWAP on Linux](https://www.addictivetips.com/ubuntu-linux-tips/disable-swap-on-linux/)
 - [How to install and use rdesktop - the remote desktop client for Linux](https://www.itworld.com/article/2988289/how-to-install-and-use-rdesktop-the-remote-desktop-client-for-linux.html)
+- [How to Know if a User has Sudo Rights](https://linuxhandbook.com/check-if-user-has-sudo-rights/#how-to-test-whether-a-user-has-sudo-privileges-or-not)
 - [How to prevent upgrade of specific packages](https://askubuntu.com/questions/18654/how-to-prevent-updating-of-a-specific-package)
 - [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
 - [Which Linux Desktop Environment will be the best for you?](https://dev.to/imtiazsakib/which-linux-desktop-environment-will-be-the-best-for-you-5695)
