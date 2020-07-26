@@ -50,6 +50,7 @@
 - [Run Raspberry Pi 4 Cooler with a New Firmware & One Easy Trick](https://www.cnx-software.com/2019/12/01/run-raspberry-pi-4-cooler-new-firmware-easy-trick/)
 - [Newly-Released Raspberry Pi 4 USB 3.0 Firmware Drops Power Draw](https://www.hackster.io/news/newly-released-raspberry-pi-4-usb-3-0-firmware-drops-power-draw-heat-output-on-all-models-6ab398270685)
 - [ Pi Hole](https://pi-hole.net/)
+- [How to disable Wi-Fi on Raspberry](https://raspberrytips.com/disable-wifi-raspberry-pi/#2_Raspbian_Desktop)
 
 ## RHEL
 
