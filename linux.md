@@ -1,5 +1,4 @@
-# Linux - General
-----------
+# Linux General
 
 - [10 Basic Linux Command](http://www.linuxandubuntu.com/home/10-basic-linux-commands-that-every-linux-newbies-should-remember)
 - [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
@@ -19,11 +18,22 @@
 - [Bind force zone updates on slave](https://serverfault.com/questions/954269/bind-force-zone-update-on-slave)
 - [Copy SSH Public Key from Windows to Ubuntu](https://security.stackexchange.com/questions/167952/copy-ssh-public-key-from-windows-to-ubuntu)
 
-## Azure
+# Networking General
+
+- [How to Display Routing Table](https://linuxcommando.blogspot.com/2008/05/how-to-display-routing-table.html)
+
+## Iptables
+
+- [The Beginner’s Guide to iptables, the Linux Firewall](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/)
+- [How To Forward Ports through a Linux Gateway with Iptables](https://www.digitalocean.com/community/tutorials/how-to-forward-ports-through-a-linux-gateway-with-iptables#adjusting-the-permanent-rule-set)
+
+# Linux in Azure
 
 - [Install and configure Remote Desktop to connect to a Linux VM in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop)
 - [Manage administrative users, SSH, and check or repair disks on Linux VMs using the VMAccess Extension with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/vmaccess)
 - [Xfce4, Debian Sensible Browser, Failure to Execute](https://trisquel.info/en/forum/xfce4-debian-sensible-browser-failure-execute)
+
+# Distros
 
 ## CentOS
 
@@ -94,8 +104,5 @@
 
 - [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
 
-## Iptables
 
-- [The Beginner’s Guide to iptables, the Linux Firewall](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/)
-- [How To Forward Ports through a Linux Gateway with Iptables](https://www.digitalocean.com/community/tutorials/how-to-forward-ports-through-a-linux-gateway-with-iptables#adjusting-the-permanent-rule-set)
 
