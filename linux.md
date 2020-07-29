@@ -95,14 +95,7 @@
 - [xRDP on Hyper-V - remote vs. enchanced mode](https://c-nergy.be/blog/?p=12429)
 
 
-## VirtualBox
 
-- [Run Hyper-V and VirtualBox on the same machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/)
-
-
-## Windows Subsystem for Linux
-
-- [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
 
 
 
