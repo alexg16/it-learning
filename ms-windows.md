@@ -99,3 +99,4 @@
 ## Windows Subsystem for Linux
 
 - [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
+- [Install and set up Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/get-started)
