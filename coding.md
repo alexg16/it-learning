@@ -41,8 +41,7 @@
 - [Having fun with Kubernetes](https://dev.to/martinpham/having-fun-with-kubernetes-final-chapter-play-time-4kka)
 - [How To Create a Kubernetes Cluster Using Kubeadm on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-18-04)
 - [How to gracefully remove a node from Kubernetes?](https://stackoverflow.com/questions/35757620/how-to-gracefully-remove-a-node-from-kubernetes)
-- Enable autocompletion for the Kubernetes cluster manager utility kubectl:
-source <(kubectl completion bash)
+- [kubectl - Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [Configure Local Kubectl to Access Remote Kubernetes Cluster](https://medium.com/@raj10x/configure-local-kubectl-to-access-remote-kubernetes-cluster-ee78feff2d6d)
 - [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
 - [How To Install A Kubernetes Cluster On CentOS 7](https://phoenixnap.com/kb/how-to-install-kubernetes-on-centos)
