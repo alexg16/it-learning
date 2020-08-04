@@ -67,6 +67,12 @@
 - [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - [how to generate an SSH key pair in Windows 10 using OpenSSH or PuTTY](https://phoenixnap.com/kb/generate-ssh-key-windows-10)
 
+###  Window 10 with HDD - High  Disk Utilization
+
+- [How to disable Microsoft Compatibility Telemetry (CompatTelRunner.exe)?](https://ugetfix.com/ask/how-to-disable-microsoft-compatibility-telemetry-compattelrunner-exe/)
+- [How to Disable or Remove Chrome Software Reporter Tool in Windows](https://www.askvg.com/how-to-disable-or-remove-chrome-software-reporter-tool-in-windows/)
+
+
 ## Windows Admin Center
 
 - [Announcing the general availability of Windows Admin Center, version 1910](https://cloudblogs.microsoft.com/windowsserver/2019/11/04/announcing-the-general-availability-of-windows-admin-center-version-1910/)
