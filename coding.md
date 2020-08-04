@@ -55,6 +55,7 @@
 - [Why I use Ingress Controllers to expose Kubernetes services](https://opensource.com/article/20/8/ingress-controllers-kubernetes)
 - [Directing Kubernetes traffic with Traefik](https://opensource.com/article/20/3/kubernetes-traefik) - did not work: pod crashed during deployment
 - [Upgrading kubeadm clusters](https://v1-16.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
+- [How to fix Flannel CNI plugin. Error: [plugin flannel does not support config version]](https://stackoverflow.com/questions/58037620/how-to-fix-flannel-cni-plugin-error-plugin-flannel-does-not-support-config-ve)
 
 
 ## PowerShell
