@@ -54,7 +54,8 @@ source <(kubectl completion bash)
 - [Preview - Create a Windows Server container on an Azure Kubernetes Service (AKS) cluster using the Azure CLI](https://docs.microsoft.com/en-us/azure/aks/windows-container-cli)
 - [scale out RaspberryPi Kubernetes cluster to the cloud](https://blog.nativecloud.dev/scale-out-your-raspberry-pi-k3s-cluster-to-the-cloud/)
 - [Why I use Ingress Controllers to expose Kubernetes services](https://opensource.com/article/20/8/ingress-controllers-kubernetes)
-- [Directing Kubernetes traffic with Traefik](https://opensource.com/article/20/3/kubernetes-traefik)
+- [Directing Kubernetes traffic with Traefik](https://opensource.com/article/20/3/kubernetes-traefik) - did not work: pod crashed during deployment
+- [Upgrading kubeadm clusters](https://v1-16.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
 
 
 ## PowerShell
