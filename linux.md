@@ -94,6 +94,10 @@
 - [Windows 10: A guide how to run Ubuntu 18.04 in Enhanced Mode in Hyper-V ](https://www.tenforums.com/virtualization/107147-guide-how-run-ubuntu-18-04-enhanced-mode-hyper-v.html)
 - [xRDP on Hyper-V - remote vs. enchanced mode](https://c-nergy.be/blog/?p=12429)
 
+## Debian
+
+- [Debian CDs/DVDs archive](https://cdimage.debian.org/mirror/cdimage/archive/)
+
 
 
 
