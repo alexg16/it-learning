@@ -37,8 +37,17 @@
 
 ## Kubernetes
 
-- [Accessing Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/)
+### Kubernetes education
+
 - [Having fun with Kubernetes](https://dev.to/martinpham/having-fun-with-kubernetes-final-chapter-play-time-4kka)
+- [Know Kubernetes — Pictorially](https://medium.com/tarkalabs/know-kubernetes-pictorially-f6e6a0052dd0)
+- [Minimum Viable Kubernetes · Emanuel Evans](https://eevans.co/blog/minimum-viable-kubernetes/index.html)
+- [Deconstructing Kubernetes Networking · Emanuel Evans](https://eevans.co/blog/deconstructing-kubernetes-networking/)
+
+
+### Kubernetes installation and configuration
+
+- [Accessing Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/)
 - [How To Create a Kubernetes Cluster Using Kubeadm on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-18-04)
 - [How to gracefully remove a node from Kubernetes?](https://stackoverflow.com/questions/35757620/how-to-gracefully-remove-a-node-from-kubernetes)
 - [kubectl - Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
@@ -46,7 +55,6 @@
 - [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
 - [How To Install A Kubernetes Cluster On CentOS 7](https://phoenixnap.com/kb/how-to-install-kubernetes-on-centos)
 - [Installing kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
-- [Know Kubernetes — Pictorially](https://medium.com/tarkalabs/know-kubernetes-pictorially-f6e6a0052dd0)
 - [Kubernetes rename cluster](https://serverfault.com/questions/1001257/kubernetes-rename-cluster)
 - [Kubernetes Web UI (Dashboard)](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
 - [More on Web UI](https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md)
