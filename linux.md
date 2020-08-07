@@ -38,6 +38,7 @@
 ## CentOS
 
 - [CentOS Linux on Hyper-V](https://www.altaro.com/hyper-v/centos-linux-hyper-v/)
+- [How to Connect to a CentOS 7 Server via Remote Desktop Connection using xRDP](https://draculaservers.com/tutorials/install-xrdp-centos/)
 
 ## Kali
 
