@@ -65,6 +65,7 @@
 - [Upgrading kubeadm clusters](https://v1-16.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
 - [How to fix Flannel CNI plugin. Error: [plugin flannel does not support config version]](https://stackoverflow.com/questions/58037620/how-to-fix-flannel-cni-plugin-error-plugin-flannel-does-not-support-config-ve)
 - [Ralph's Open Source Blog - From Docker-Swarm to Kubernetes – the Easy Way!](https://ralph.blog.imixs.com/2019/11/17/from-docker-swarm-to-kubernetes-in-the-easy-way/)
+- [Ralph's Open Source Blog - Kubernetes – Setup Traefik 2.1](https://ralph.blog.imixs.com/2020/02/01/kubernetes-setup-traefik-2-1/)
 - [5 reasons to run Kubernetes on your Raspberry Pi homelab](https://opensource.com/article/20/8/kubernetes-raspberry-pi)
 
 
