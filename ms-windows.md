@@ -38,6 +38,7 @@
 - [Where did the native NAT switch go in Windows 10 1607](https://4sysops.com/archives/where-did-the-native-nat-switch-go-in-windows-10-1607/)
 - [Windows 10 1709 Hyper-V Networking Enhancement](https://blogs.technet.microsoft.com/nextnextfinish/2018/02/02/windows-10-1709-hyper-v-networking-enhancement/)
 - [Run Hyper-V and VirtualBox on the same machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/)
+- [Create NAT Rules for the Hyper-V NAT Virtual Switch](https://petri.com/create-nat-rules-hyper-v-nat-virtual-switch)
 
 ## Remote Desktop <a id="remote-desktop"></a>
 
