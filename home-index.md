@@ -12,11 +12,3 @@
 |[TCP/IP](networking)|[Vulnerability](security)|[VirtualBox](linux)|
 |[VMware](infrastructure#VMware)|||
 |[Windows 10](ms-windows)|[Windows Server 2016](ms-windows#windows-server-2016)|[WordPress](web-pages#wordpress)|
-
-
-	
-
-
-
-    
-
