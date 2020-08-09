@@ -105,6 +105,11 @@
 - [Installation of Debian 9 (Stretch) Minimal Server](https://www.tecmint.com/installation-of-debian-9-minimal-server/)
 - [Using Debian Long Term Support (LTS)](https://wiki.debian.org/LTS/Using)
 
+## FreeBSD General
+
+- [How to Install FreeBSD?](https://www.educba.com/install-freebsd/)
+- [FreeBSD 12.1-RELEASE Installation Instructions](https://www.freebsd.org/releases/12.1R/installation.html)
+
 
 
 

@@ -1,6 +1,3 @@
-
-
-
 # Microsoft Windows
 
 ----------
