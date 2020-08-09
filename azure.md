@@ -1,7 +1,7 @@
 ## Microsoft Azure ##
 
-- [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
-- [Best practices for Azure readiness](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/)
+
+
 - [Use Azure Key Vault to pass secure parameter value during deployment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-keyvault-parameter)
 
 ### Azure REST APIs ###
@@ -17,8 +17,7 @@
 - [Define resources in Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/templates/)
 - [Mastering Azure Resourse Manager](https://github.com/jamesbannan/pluralsight/tree/master/microsoft-azure-resource-manager-mastering)
 
-### Automation ###
-- [Automating Azure virtual machine deployment with Chef](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/chef-automation)
+
 
 ### Compute ###
 - [Azure VM Comparison with prices](https://azureprice.net)
