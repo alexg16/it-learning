@@ -3,4 +3,4 @@
 |AZURE|LEARNING|TOPICS|
 |---|---|---|
 |[General](azure-general)|||
-|[Automation](azure-automation)|[ARM](azure-automation#arm||
+|[Automation](azure-automation)|[ARM](azure-automation#arm)||
