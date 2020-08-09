@@ -10,3 +10,4 @@
 |[Management](azure-management)|||
 |[Networking](azure-networking)|||
 |[PaaS](azure-paas)|||
+|[Storage](azure-storage)|||

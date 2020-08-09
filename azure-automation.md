@@ -2,6 +2,7 @@
 
 - [Automating Azure virtual machine deployment with Chef](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/chef-automation)
 - [Automate Azure Blob Storage with PowerShell](https://artofshell.com/2016/05/automate-azure-blob-storage-powershell/)
+- [Use Azure Key Vault to pass secure parameter value during deployment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-keyvault-parameter)
 
 ## ARM
 
