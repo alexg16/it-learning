@@ -1,4 +1,4 @@
-# Azur Index
+# Azure Index
 
 |AZURE|LEARNING|TOPICS|
 |---|---|---|
