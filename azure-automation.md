@@ -9,3 +9,12 @@
 - [Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [Define resources in Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/templates/)
 - [Mastering Azure Resourse Manager](https://github.com/jamesbannan/pluralsight/tree/master/microsoft-azure-resource-manager-mastering)
+
+## Azure CLI
+
+- [The Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
+
+## Azure REST APIs
+
+- [Azure REST APIs with Postman](https://microsoft.github.io/AzureTipsAndTricks/blog/tip223.html)
+
