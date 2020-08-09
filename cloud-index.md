@@ -8,3 +8,5 @@
 |[Compute](azure-compute)|||
 |[Identity](azure-identity)|||
 |[Management](azure-management)|||
+|[Networking](azure-networking)|||
+
