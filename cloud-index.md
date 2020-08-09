@@ -1,5 +1,5 @@
 # Cloud Index
 
-|Cloud|LEARNING|TOPICS|
+|CLOUD|LEARNING|TOPICS|
 |---|---|---|
 |Azure|AWS|Google Cloud|
