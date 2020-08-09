@@ -3,3 +3,4 @@
 |CLOUD|LEARNING|TOPICS|
 |---|---|---|
 |Azure|AWS|Google Cloud|
+|[General](azure-general)|||
