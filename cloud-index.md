@@ -5,3 +5,4 @@
 |Azure|AWS|Google Cloud|
 |[General](azure-general)|||
 |[Automation](azure-automation)|||
+|[Compute](azure-compute)|||
