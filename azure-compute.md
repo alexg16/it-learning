@@ -1,4 +1,4 @@
-# AzureCompute
+# Azure Compute
 
 - [Azure VM Comparison with prices](https://azureprice.net)
 - [Azure VM Comparison](https://azureprice.net/)
