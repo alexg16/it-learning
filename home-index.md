@@ -3,7 +3,7 @@
 |IT|LEARNING|TOPICS|
 |---|---|---|
 |||
-|[Azure](cloud/azure)|[Containers](coding)|[CSS](web-pages)|
+|[Azure](azure)|[Containers](coding)|[CSS](web-pages)|
 |[Git/GitHub](coding)|[GitHub Pages](web-pages)|[Google Analytics](web-pages)|
 |[Graph API](coding#ms-graph-api)|[Group Policy](ms-windows#group-policy)|[G Suite](cloud#g-suite)|
 |[Hyper-Convergence](infrastructure)|[Hyper-V](ms-windows)|[Identity](security)|
