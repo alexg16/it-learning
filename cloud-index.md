@@ -9,4 +9,4 @@
 |[Identity](azure-identity)|||
 |[Management](azure-management)|||
 |[Networking](azure-networking)|||
-|[PaaS](azure-paas)|[AKS](azure-paas#aks)||
+|[PaaS](azure-paas)|||
