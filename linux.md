@@ -96,6 +96,8 @@
 - [Why doesn't the 'su' command work in Ubuntu but does in other Linux distros?](https://askubuntu.com/questions/825862/why-doesnt-the-su-command-work-in-ubuntu-but-does-in-other-linux-distros/825874)
 - [Windows 10: A guide how to run Ubuntu 18.04 in Enhanced Mode in Hyper-V ](https://www.tenforums.com/virtualization/107147-guide-how-run-ubuntu-18-04-enhanced-mode-hyper-v.html)
 - [xRDP on Hyper-V - remote vs. enchanced mode](https://c-nergy.be/blog/?p=12429)
+- [How to Install Ubuntu 20.04 [Step-by-Step]](https://adamtheautomator.com/install-ubuntu/)
+- [Ubuntu 20.04.1: The First Point Release of Ubuntu 20.04 LTS is Now Available To Download](https://itsfoss.com/ubuntu-20-04-1-release/)
 
 ## Debian
 
