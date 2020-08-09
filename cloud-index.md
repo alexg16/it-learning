@@ -6,3 +6,4 @@
 |[General](azure-general)|||
 |[Automation](azure-automation)|||
 |[Compute](azure-compute)|||
+|[Identity](azure-identity)|||

@@ -1,6 +1,7 @@
 # AzureCompute
 
 - [Azure VM Comparison with prices](https://azureprice.net)
+- [Azure VM Comparison](https://azureprice.net/)
 - [Azure confidential computing](https://azure.microsoft.com/en-us/blog/introducing-azure-confidential-computing)
 - [Azure VM Scale Sets Dashboard Tools](https://github.com/gbowerman/vmssdashboard)
 - [Check Azure VM Status with PowerShell](https://4sysops.com/archives/check-azure-vm-status-with-powershell/)
