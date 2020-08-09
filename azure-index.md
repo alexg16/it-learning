@@ -7,3 +7,4 @@
 ||[REST APIs](azure-automation#rest-apis)||
 |[Compute](azure-compute)|||
 |[Identity](azure-identity)|||
+|[Management](azure-management)|||

@@ -7,3 +7,4 @@
 |[Automation](azure-automation)|||
 |[Compute](azure-compute)|||
 |[Identity](azure-identity)|||
+|[Management](azure-management)|||

@@ -5,13 +5,6 @@
 
 
 
-
-
-### Management ###
-
-- [Elevate access to manage all Azure subscriptions and management groups](https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin)
-- [Transfer ownership of an Azure subscription to another account](https://docs.microsoft.com/en-us/azure/billing/billing-subscription-transfer#next-steps-after-accepting-ownership-of-a-subscription)
-
 ### Networking ###
 - [Application security groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
 - [Create a S2S VPN connection using RRAS 2016 between Azure and an on-premise network](https://oktotechnologies.ca/2018/12/18/create-a-s2s-connection-between-on-prem-and-azure-network/)
