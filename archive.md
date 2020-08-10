@@ -2,7 +2,7 @@
 
 ## Cloud
 
-### Coding
+## Coding
 
 ## Infrastructure
 
