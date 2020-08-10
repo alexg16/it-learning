@@ -2,7 +2,7 @@
 
 |UNIX|LEARNING|TOPICS|
 |---|---|---|
-|[(Unix All)](unix-all-index)|[(Linux Distros)](linux-distros-index)||
+|[(Unix All)](unix-all-index)|[(Linux)](linuxs-index)||
 |[General](unix-general)|[CentOS](linux-centos)||
 |[Networking](unix-networking)|[Debian](linux-debian)||
 ||[Kali](linux-kali)||
