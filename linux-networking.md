@@ -1,4 +1,4 @@
-# Linux Networking 
+# Linux Networking
 
 - [How to Display Routing Table](https://linuxcommando.blogspot.com/2008/05/how-to-display-routing-table.html)
 
