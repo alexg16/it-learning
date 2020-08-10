@@ -1,17 +1,17 @@
 # Archived Content
 
-## CLOUD
+## Cloud
 
-## CODING
+### Coding
 
-## INFRASTRUCTURE
+## Infrastructure
 
-## LINUX
+## Networking
 
-## NETWORKING
+## Security
 
-## SECURITY
+## Unix
 
-## WEB
+## Web
 
-## WINDOWS
+## Windows
