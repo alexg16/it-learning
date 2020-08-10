@@ -25,6 +25,7 @@
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
 - [Markdown Rules](https://github.com/DavidAnson/markdownlint/blob/v0.17.2/doc/Rules.md#md041)
+- [Anchors in Markdown](https://gist.github.com/asabaylus/3071099)
 
 ## WordPress <a id="wordpress"></a>
 
