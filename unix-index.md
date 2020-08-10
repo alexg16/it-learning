@@ -3,7 +3,7 @@
 |UNIX|LEARNING|TOPICS|
 |---|---|---|
 |[(Linux)](linux-index)|[(BSD)](bsd-index)||
-|[General](linux-general)|[General](unix/bsd/bsd-general.md) ||
+|[General](linux-general)|[General](bsd-general) ||
 |[Networking](linux-networking)|||
 |[CentOS](linux-centos)|||
 |[Debian](linux-debian)|||
