@@ -48,11 +48,7 @@
 - [How to Install Ubuntu 20.04 [Step-by-Step]](https://adamtheautomator.com/install-ubuntu/)
 - [Ubuntu 20.04.1: The First Point Release of Ubuntu 20.04 LTS is Now Available To Download](https://itsfoss.com/ubuntu-20-04-1-release/)
 
-## Debian
 
-- [Debian CDs/DVDs archive](https://cdimage.debian.org/mirror/cdimage/archive/)
-- [Installation of Debian 9 (Stretch) Minimal Server](https://www.tecmint.com/installation-of-debian-9-minimal-server/)
-- [Using Debian Long Term Support (LTS)](https://wiki.debian.org/LTS/Using)
 
 ## FreeBSD General
 
