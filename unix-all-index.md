@@ -1,6 +1,6 @@
-# Linux All Index
+# Unix All Index
 
-|LINUX|LEARNING|TOPICS|
+|UNIX|LEARNING|TOPICS|
 |---|---|---|
-|[General](linux-general)|||
-|[Networking](linux-networking)|[Bind](linux-networking#bind)|[Iptables](linux-networking#iptables)|
+|[General](unix-general)|||
+|[Networking](unix-networking)|[Bind](unix-networking#bind)|[Iptables](unix-networking#iptables)|

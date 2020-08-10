@@ -1,4 +1,4 @@
-# Linux Distros Index
+# Linux Index
 
 |LINUX|LEARNING|TOPICS|
 |---|---|---|

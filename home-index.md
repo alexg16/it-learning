@@ -8,7 +8,7 @@
 ||||
 ||||
 ||||
-|[(Unix All)](unix-all-index)|[(Linux Distros)](linux-distros-index)||
+|[(Unix All)](unix-all-index)|[(Linux)](linux-index)|[(BSD)](bsd-index)|
 ||||
 ||||
 ||||
