@@ -1,37 +1,21 @@
-# Linux General
 
-- [10 Basic Linux Command](http://www.linuxandubuntu.com/home/10-basic-linux-commands-that-every-linux-newbies-should-remember)
-- [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
-- [An introduction to the vi editor](https://www.redhat.com/sysadmin/introduction-vi-editor)
-- [Basic Vim commands - For getting started](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
-- [Change Ownership and Rights to Files and Folders in Linux](http://www.smashinglab.com/change-ownership-rights-files-folders-linux/)
-- [Distrotest.net](https://distrotest.net/)
-- [SSH Keys - Generating and Working with](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys#generating-and-working-with-ssh-keys)
-- [How to disable SWAP on Linux](https://www.addictivetips.com/ubuntu-linux-tips/disable-swap-on-linux/)
-- [How to install and use rdesktop - the remote desktop client for Linux](https://www.itworld.com/article/2988289/how-to-install-and-use-rdesktop-the-remote-desktop-client-for-linux.html)
-- [How to Know if a User has Sudo Rights](https://linuxhandbook.com/check-if-user-has-sudo-rights/#how-to-test-whether-a-user-has-sudo-privileges-or-not)
-- [How to prevent upgrade of specific packages](https://askubuntu.com/questions/18654/how-to-prevent-updating-of-a-specific-package)
-- [How to Use the ss Command on Linux](https://www.howtogeek.com/681468/how-to-use-the-ss-command-on-linux/)
-- [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
-- [Which Linux Desktop Environment will be the best for you?](https://dev.to/imtiazsakib/which-linux-desktop-environment-will-be-the-best-for-you-5695)
-- [Linux: Start / Stop / Restart BIND DNS Server](https://www.cyberciti.biz/faq/start-stop-restart-bind9-linux-command/)
-- [Bind force zone updates on slave](https://serverfault.com/questions/954269/bind-force-zone-update-on-slave)
-- [Copy SSH Public Key from Windows to Ubuntu](https://security.stackexchange.com/questions/167952/copy-ssh-public-key-from-windows-to-ubuntu)
 
 # Networking General
 
 - [How to Display Routing Table](https://linuxcommando.blogspot.com/2008/05/how-to-display-routing-table.html)
+
+## Bind
+
+- [Linux: Start / Stop / Restart BIND DNS Server](https://www.cyberciti.biz/faq/start-stop-restart-bind9-linux-command/)
+- [Bind force zone updates on slave](https://serverfault.com/questions/954269/bind-force-zone-update-on-slave)
 
 ## Iptables
 
 - [The Beginner’s Guide to iptables, the Linux Firewall](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/)
 - [How To Forward Ports through a Linux Gateway with Iptables](https://www.digitalocean.com/community/tutorials/how-to-forward-ports-through-a-linux-gateway-with-iptables#adjusting-the-permanent-rule-set)
 
-# Linux in Azure
 
-- [Install and configure Remote Desktop to connect to a Linux VM in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop)
-- [Manage administrative users, SSH, and check or repair disks on Linux VMs using the VMAccess Extension with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/vmaccess)
-- [Xfce4, Debian Sensible Browser, Failure to Execute](https://trisquel.info/en/forum/xfce4-debian-sensible-browser-failure-execute)
+
 
 # Distros
 
