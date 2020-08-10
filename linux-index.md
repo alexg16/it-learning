@@ -8,3 +8,4 @@
 ||[Kali](linux-kali)||
 ||[RHEL](linux-rhel)||
 ||[Ubuntu](linux-ubuntu)||
+||[*FreeBSD](freebsd.md)||
