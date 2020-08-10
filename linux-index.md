@@ -2,6 +2,8 @@
 
 |LINUX|LEARNING|TOPICS|
 |---|---|---|
+|[General](linux-general.md)|||
+|[Networking](linux-networking)|[Bind](linux-networking#bind)|[Iptables](linux-networking#iptables)|
 |[CentOS](linux-centos)|||
 |[Debian](linux-debian)|||
 |[Kali](linux-kali)|||
