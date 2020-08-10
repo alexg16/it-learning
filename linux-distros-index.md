@@ -2,4 +2,4 @@
 
 |LINUX|LEARNING|TOPICS|
 |---|---|---|
-|[CentOS](linux-centos|||
+|[CentOS](linux-centos)|||
