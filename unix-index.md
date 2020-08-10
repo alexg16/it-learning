@@ -1,10 +1,10 @@
-# Linux Index
+# Unix Index
 
-|LINUX|LEARNING|TOPICS|
+|UNIX|LEARNING|TOPICS|
 |---|---|---|
-|[(Linux All)](linux-all-index)|[(Linux Distros)](linux-distros-index)||
-|[General](linux-general)|[CentOS](linux-centos)||
-|[Networking](linux-networking)|[Debian](linux-debian)||
+|[(Unix All)](unix-all-index)|[(Linux Distros)](linux-distros-index)||
+|[General](unix-general)|[CentOS](linux-centos)||
+|[Networking](unix-networking)|[Debian](linux-debian)||
 ||[Kali](linux-kali)||
 ||[RHEL](linux-rhel)||
 ||[Ubuntu](linux-ubuntu)||
