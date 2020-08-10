@@ -1,4 +1,4 @@
-# (IT) Index
+# IT Index
 
 |IT|LEARNING|TOPICS|
 |---|---|---|
