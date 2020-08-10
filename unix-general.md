@@ -1,4 +1,4 @@
-# Linux General
+# Unix General
 
 - [10 Basic Linux Command](http://www.linuxandubuntu.com/home/10-basic-linux-commands-that-every-linux-newbies-should-remember)
 - [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
