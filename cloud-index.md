@@ -10,5 +10,5 @@
 |[Management](cloud/azure/azure-management)|||
 |[Networking](cloud/azure/azure-networking)|||
 |[PaaS](cloud/azure/azure-paas)|||
-|[SaaS](cloud/azure/azure-saas)|||
+|[SaaS](cloud/azure/azure-saas)||[SaaS](cloud/google/google-saas)|
 |[Storage](cloud/azure/azure-storage)|||
