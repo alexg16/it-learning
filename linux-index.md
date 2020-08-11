@@ -3,7 +3,7 @@
 |LINUX|LEARNING|TOPICS|
 |---|---|---|
 |[General]((unix/linux/linux-general)|||
-|[Networking](linux-networking)|[Bind](linux-networking#bind)|[Iptables](linux-networking#iptables)|
+|[Networking](unix/linux/linux-networking)|[Bind](unix/linux/linux-networking#bind)|[Iptables](unix/linux/linux-networking#iptables)|
 |[CentOS](linux-centos)|||
 |[Debian](linux-debian)|||
 |[Kali](linux-kali)|||
