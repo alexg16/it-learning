@@ -9,5 +9,5 @@
 |[Identity](cloud/azure/azure-identity)|||
 |[Management](cloud/azure/azure-management)|||
 |[Networking](cloud/azure/azure-networking)|||
-|[PaaS](azure-paas)|||
-|[Storage](azure-storage)|||
+|[PaaS](cloud/azure/azure-paas)|||
+|[Storage](cloud/azure/azure-storage)|||
