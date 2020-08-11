@@ -4,7 +4,7 @@
 |---|---|---|
 |[General](unix/linux/linux-general)|||
 |[Networking](unix/linux/linux-networking)|[Bind](unix/linux/linux-networking#bind)|[Iptables](unix/linux/linux-networking#iptables)|
-|[CentOS](linux-centos)|||
+|[CentOS](unix/linux/linux-centos)|||
 |[Debian](linux-debian)|||
 |[Kali](linux-kali)|||
 |[RHEL](linux-rhel)|||
