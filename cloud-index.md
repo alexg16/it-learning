@@ -8,6 +8,6 @@
 |[Compute](cloud/azure/azure-compute)|||
 |[Identity](cloud/azure/azure-identity)|||
 |[Management](cloud/azure/azure-management)|||
-|[Networking](azure-networking)|||
+|[Networking](cloud/azure/azure-networking)|||
 |[PaaS](azure-paas)|||
 |[Storage](azure-storage)|||

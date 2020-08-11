@@ -8,6 +8,6 @@
 |[Compute](cloud/azure/azure-compute)|[Linux in Azure](cloud/azure/azure-compute#linux-in-azure)||
 |[Identity](cloud/azure/azure-identity)|||
 |[Management](cloud/azure/azure-management)|||
-|[Networking](azure-networking)|||
+|[Networking](cloud/azure/azure-networking)|||
 |[PaaS](azure-paas)|[AKS](azure-paas#aks)||
 |[Storage](azure-storage)|||
