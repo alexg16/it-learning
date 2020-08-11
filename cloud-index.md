@@ -6,7 +6,7 @@
 |[General](cloud/azure/azure-general)|||
 |[Automation](cloud/azure/azure-automation)|||
 |[Compute](cloud/azure/azure-compute)|||
-|[Identity](azure-identity)|||
+|[Identity](cloud/azure/azure-identity)|||
 |[Management](azure-management)|||
 |[Networking](azure-networking)|||
 |[PaaS](azure-paas)|||
