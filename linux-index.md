@@ -2,7 +2,7 @@
 
 |LINUX|LEARNING|TOPICS|
 |---|---|---|
-|[General](linux-general.md)|||
+|[General]((unix/linux/linux-general)|||
 |[Networking](linux-networking)|[Bind](linux-networking#bind)|[Iptables](linux-networking#iptables)|
 |[CentOS](linux-centos)|||
 |[Debian](linux-debian)|||
