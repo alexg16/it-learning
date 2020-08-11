@@ -3,7 +3,7 @@
 |IT|LEARNING|TOPICS|
 |---|---|---|
 ||||
-|[(Azure)](azure-index)|[(AWS)](aws-index)|[(Google Cloud)](google-cloud-index)|
+|[(Azure)](azure-index)|[(AWS)](aws-index)|[(Google Cloud)](google-index)|
 ||||
 ||||
 ||||
