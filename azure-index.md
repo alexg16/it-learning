@@ -7,7 +7,7 @@
 ||[REST APIs](cloud/azure/azure-automation#azure-rest-apis)||
 |[Compute](cloud/azure/azure-compute)|[Linux in Azure](cloud/azure/azure-compute#linux-in-azure)||
 |[Identity](cloud/azure/cloud/azure/azure-identity)|||
-|[Management](azure-management)|||
+|[Management](cloud/azure/azure-management)|||
 |[Networking](azure-networking)|||
 |[PaaS](azure-paas)|[AKS](azure-paas#aks)||
 |[Storage](azure-storage)|||

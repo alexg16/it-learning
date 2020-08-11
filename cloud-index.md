@@ -7,7 +7,7 @@
 |[Automation](cloud/azure/azure-automation)|||
 |[Compute](cloud/azure/azure-compute)|||
 |[Identity](cloud/azure/cloud/azure/azure-identity)|||
-|[Management](azure-management)|||
+|[Management](cloud/azure/azure-management)|||
 |[Networking](azure-networking)|||
 |[PaaS](azure-paas)|||
 |[Storage](azure-storage)|||
