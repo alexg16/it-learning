@@ -7,6 +7,6 @@
 |[Networking](unix/linux/linux-networking)|[FreeBSD](unix/bsd/bsd-freebsd)||
 |[CentOS](unix/linux/linux-centos)|[DragonFly](unix/bsd/bsd-dragonfly)||
 |[Debian](unix/linux/linux-debian)|[NetBSD](unix/bsd/bsd-netbsd)||
-|[Kali](linux-kali)|[OpenBSD](unix/bsd/bsd-openbsd)||
-|[RHEL](linux-rhel)|||
-|[Ubuntu](linux-ubuntu)|||
+|[Kali](unix/linux/linux-kali)|[OpenBSD](unix/bsd/bsd-openbsd)||
+|[RHEL](unix/linux/linux-rhel)|||
+|[Ubuntu](unix/linux/linux-ubuntu)|||
