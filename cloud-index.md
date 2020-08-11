@@ -4,7 +4,7 @@
 |---|---|---|
 |[(Azure)](azure-index)|[(AWS)](aws-index)|[(Google Cloud)](google-cloud-index)|
 |[General](cloud/azure/azure-general)|||
-|[Automation](azure-automation)|||
+|[Automation](cloud/azure/azure-automation)|||
 |[Compute](azure-compute)|||
 |[Identity](azure-identity)|||
 |[Management](azure-management)|||

@@ -3,7 +3,7 @@
 |AZURE|LEARNING|TOPICS|
 |---|---|---|
 |[General](cloud/azure/azure-general)|||
-|[Automation](azure-automation)|[ARM](azure-automation#arm)|[CLI](azure-automation#azure-cli)|
+|[Automation](cloud/azure/azure-automation)|[ARM](cloud/azure/azure-automation#arm)|[CLI](cloud/azure/azure-automation#azure-cli)|
 ||[REST APIs](azure-automation#rest-apis)||
 |[Compute](azure-compute)|[Linux in Azure](azure-compute#linux-in-azure)||
 |[Identity](azure-identity)|||
