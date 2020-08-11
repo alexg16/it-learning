@@ -6,3 +6,4 @@
 |[FreeBSD](unix/bsd/bsd-freebsd)|||
 |[DragonFly](unix/bsd/bsd-dragonfly)|||
 |[NetBSD](unix/bsd/bsd-netbsd)|||
+|[OpenBSD](unix/bsd/bsd-openbsd)|||
