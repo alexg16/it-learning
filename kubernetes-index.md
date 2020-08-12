@@ -2,4 +2,4 @@
 
 |KUBERNETES|LEARNING|TOPICS|
 |---|---|---|
-|[General](/infrastructure/kubernetes/kubernetes-general)|||
+|[General](infrastructure/kubernetes/kubernetes-general)|||
