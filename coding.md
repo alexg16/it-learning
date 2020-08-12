@@ -98,9 +98,6 @@
 
 - [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 
-## Microsoft REST API
-
-- [REST API Browser](https://docs.microsoft.com/en-us/rest/api/)
 
 ## Code Quality Inspection
 - [Sonarqube](https://www.sonarqube.org/)

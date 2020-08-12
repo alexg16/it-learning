@@ -18,4 +18,4 @@
 ## Azure REST APIs
 
 - [Azure REST APIs with Postman](https://microsoft.github.io/AzureTipsAndTricks/blog/tip223.html)
-
+- [REST API Browser](https://docs.microsoft.com/en-us/rest/api/)
