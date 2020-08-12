@@ -3,7 +3,7 @@
 |IT|LEARNING|TOPICS|
 |---|---|---|
 ||||
-|[[ Azure ]](azure-index)|[[ AWS ]](aws-index)|[_Google Cloud_](google-index)|
+|[[ Azure ]](azure-index)|[[ AWS ]](aws-index)|[**Google Cloud**](google-index)|
 ||||
 |[[ Hardware ]](hardware-index)|[[ Kubernetes ]](kubernetes-index)|[[ Virtualization ]](virtualization-index)|
 ||||
