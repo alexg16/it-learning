@@ -6,7 +6,11 @@
 
 ## Linux
 
-- Install Docker on Linux: ```apt-get update`  `wget -qO- https://get.docker.com | sh```
+- Install Docker on Linux: 
+```
+apt-get update
+wget -qO- https://get.docker.com | sh
+```
 
 ## Windows
 
