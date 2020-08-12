@@ -3,12 +3,12 @@
 |IT|LEARNING|TOPICS|
 |---|---|---|
 ||||
-|[[ Azure ]](azure-index)|[[ AWS ]](aws-index)|[**Google Cloud**](google-index)|
+|[**Azure**](azure-index)|[**AWS**](aws-index)|[**Google Cloud**](google-index)|
 ||||
-|[[ Hardware ]](hardware-index)|[[ Kubernetes ]](kubernetes-index)|[[ Virtualization ]](virtualization-index)|
+|[**Hardware**](hardware-index)|[**Kubernetes**](kubernetes-index)|[**Virtualization**](virtualization-index)|
 ||||
 ||||
-|[[ Linux ]](linux-index)|[[ BSD ]](bsd-index)||
+|[**Linux**](linux-index)|[**BSD**](bsd-index)||
 ||||
 ||||
 ||||
