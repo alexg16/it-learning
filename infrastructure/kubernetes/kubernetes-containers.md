@@ -9,7 +9,7 @@
 - Install Docker on Linux: ```apt-get update`  `wget -qO- https://get.docker.com | sh```
 
 ## Windows
--
+
 - [Install Docker on Windows Server 2019](https://www.ntweekly.com/2018/11/03/install-docker-on-windows-server-2019/)
 - [What's new for Docker on Windows Server 2019?](https://stefanscherer.github.io/docker-on-windows-server-2019/)
 - [Pull WindowsServerCore Container Image](https://hub.docker.com/r/microsoft/windowsservercore/)
