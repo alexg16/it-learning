@@ -7,9 +7,6 @@
 ## DevOps
 - [PERIODIC TABLE OF DEVOPS TOOLS](https://xebialabs.com/periodic-table-of-devops-tools/)
 
-
-
-
 ## Git/GitHub
 
 - [Caching your GitHub password in Git](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
@@ -18,15 +15,6 @@
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Using Git with PowerShell](https://www.develves.net/blogs/asd/articles/using-git-with-powershell-on-windows-10/)
 - [Adding an existing project to GitHub using the command line](https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
-
-## Kubernetes
-
-
-
-
-### Kubernetes Ingress
-- [Kubernetes Ingress 101: NodePort, Load Balancers, and Ingress Controllers](https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d)
-- [Ralph's Open Source Blog - Kubernetes – Setup Traefik 2.1](https://ralph.blog.imixs.com/2020/02/01/kubernetes-setup-traefik-2-1/)
 
 ## PowerShell
 
