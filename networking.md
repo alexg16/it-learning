@@ -1,11 +1,3 @@
-# Networking
-
-----------
-
-## General
-
-- [NetworkWorld](https://www.networkworld.com/)
-
 
 ## Packet Analysis
 
@@ -27,5 +19,5 @@
 
 ## Misc
 
-- [tailscale](https://tailscale.com/)
+
 
