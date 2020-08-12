@@ -1,5 +1,5 @@
 # Virtualization Index
 
-|VIRTUALIZATION|LEARNING|TOPICS|
+|VIRTUAL|LEARNING|TOPICS|
 |---|---|---|
 |[Hyper-V](infrastructure/virtualization/virtualization-hyperv)|||
