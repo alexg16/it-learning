@@ -2,7 +2,7 @@
 
 |CLOUD|LEARNING|TOPICS|
 |---|---|---|
-|[(Azure)](azure-index)|[(AWS)](aws-index)|[(Google Cloud)](google-index)|
+|[[Azure]](azure-index)|[[AWS]](aws-index)|[[Google Cloud]](google-index)|
 |[General](cloud/azure/azure-general)|||
 |[Automation](cloud/azure/azure-automation)|||
 |[Compute](cloud/azure/azure-compute)|||
