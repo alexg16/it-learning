@@ -20,6 +20,10 @@
 
 ## Security
 
+### Security Training
+
+- [Cybrary](https://www.cybrary.it/)
+
 ## Unix
 
 ## Web

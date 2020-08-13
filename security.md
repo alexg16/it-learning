@@ -16,9 +16,7 @@
 - [OneLogin](https://www.onelogin.com/)
 - [PingIdentity](https://www.pingidentity.com/en.html)
 
-## Security Training 
 
-- [Cybrary](https://www.cybrary.it/)
 
 ## Vulnerability 
 
