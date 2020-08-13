@@ -37,9 +37,7 @@
 - [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 
 
-## Code Quality Inspection
-- [Sonarqube](https://www.sonarqube.org/)
-- [Fortify](https://www.ndm.net/sast/hp-fortify)
+
 
 ## VSCode
 - [Do things right in VSCode](https://blog.jessitron.com/2019/12/02/do-things-right-in-vscode/)
