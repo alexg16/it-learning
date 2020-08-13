@@ -1,8 +1,4 @@
-
-
-
-
-## TCP/IP ##
+# TCP/IP
 
 - [IP Protocol Numbers](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
 - [IPv4 CIDR blocks](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#IPv4_CIDR_blocks)
