@@ -1,11 +1,5 @@
 # Coding
 
-
-
-
-
-
-
 ## PowerShell
 
 - [Azure AD Module (MSOnline)](https://docs.microsoft.com/en-us/powershell/msonline/v1/azureactivedirectory?redirectedfrom=msdn)
@@ -29,14 +23,6 @@
 - [User Input in PowerShell](https://4sysops.com/archives/user-input-in-powershell-read-host-mandatory-true-outgridview/)
 - Unable to find module providers (PowerShellGet) - HKLM/Current Control Set/Control/Lsa/FipsAlgorithmPolicy - Enabled(0)
 - [Where-Object vs. the Where method: Array filtering in PowerShell](https://4sysops.com/archives/where-object-vs-the-where-method-array-filtering-in-powershell/)
-
-
-
-## Microsoft Graph API <a id="ms-graph-api"></a>
-
-- [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
-
-
 
 
 ## VSCode

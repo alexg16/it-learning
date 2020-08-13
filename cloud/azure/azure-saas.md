@@ -4,6 +4,7 @@
 
 - [Connect to Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-office-365-powershell)
 - [Multiple Office 365 Tenants](http://www.msexchange.org/articles-tutorials/office-365/what-you-need-consider-multiple-office-365-tenants-part1.html)
+- [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 
 ## Enterprise Mobility + Security
 
