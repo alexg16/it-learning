@@ -2,4 +2,4 @@
 
 |WEB|LEARNING|TOPICS|
 |---|---|---|
-|[CMS](coding/web/web-cms.md)|[CMS](coding/web/web-cms.md#github-pages)|[CMS](coding/web/web-cms.md#wordpress)|
+|[CMS](coding/web/web-cms.md)|[GitHub Pages](coding/web/web-cms.md#github-pages)|[WordPress](coding/web/web-cms.md#wordpress)|
