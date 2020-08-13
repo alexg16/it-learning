@@ -1,4 +1,4 @@
-# Windows CLient Index
+# Windows Client Index
 
 |CLIENT|LEARNING|TOPICS|
 |---|---|---|
