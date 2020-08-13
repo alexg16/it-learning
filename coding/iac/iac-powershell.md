@@ -1,13 +1,5 @@
-# Coding
+# PowerShell
 
-## PowerShell
-
-- [Azure AD Module (MSOnline)](https://docs.microsoft.com/en-us/powershell/msonline/v1/azureactivedirectory?redirectedfrom=msdn)
-- [Azure Active Directory V2 PowerShell module](https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory)
-- [Azure Resource Manager authentication from a PowerShell script](https://blogs.endjin.com/2016/01/azure-resource-manager-authentication-from-a-powershell-script/)
-- [Azure Powershell - new Az module](https://docs.microsoft.com/en-us/powershell/azure/overview?view=azps-1.8.0)
-- [AzureRM.Profile for AzureRm 3.8.0](https://docs.microsoft.com/en-us/powershell/module/azurerm.profile/?view=azurermps-3.8.0)
-- [AzureRM.Profile for AzureRm 4.0.0](https://docs.microsoft.com/en-us/powershell/module/azurerm.profile/?view=azurermps-4.0.0)
 - [Get-Credential](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.security/get-credential)
 - [How do I start remote desktop from PowerShell?](http://stackoverflow.com/questions/24493213/how-do-i-start-remote-desktop-from-powershell)
 - [How to use PowerShell Objects and Data Piping](https://www.varonis.com/blog/how-to-use-powershell-objects-and-data-piping/)
@@ -24,7 +16,11 @@
 - Unable to find module providers (PowerShellGet) - HKLM/Current Control Set/Control/Lsa/FipsAlgorithmPolicy - Enabled(0)
 - [Where-Object vs. the Where method: Array filtering in PowerShell](https://4sysops.com/archives/where-object-vs-the-where-method-array-filtering-in-powershell/)
 
+## Azure PowerShell
 
-
-
-
+- [Azure AD Module (MSOnline)](https://docs.microsoft.com/en-us/powershell/msonline/v1/azureactivedirectory?redirectedfrom=msdn)
+- [Azure Active Directory V2 PowerShell module](https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory)
+- [Azure Resource Manager authentication from a PowerShell script](https://blogs.endjin.com/2016/01/azure-resource-manager-authentication-from-a-powershell-script/)
+- [Azure Powershell - new Az module](https://docs.microsoft.com/en-us/powershell/azure/overview?view=azps-1.8.0)
+- [AzureRM.Profile for AzureRm 3.8.0](https://docs.microsoft.com/en-us/powershell/module/azurerm.profile/?view=azurermps-3.8.0)
+- [AzureRM.Profile for AzureRm 4.0.0](https://docs.microsoft.com/en-us/powershell/module/azurerm.profile/?view=azurermps-4.0.0)
