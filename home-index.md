@@ -4,7 +4,7 @@
 |---|---|---|
 ||||
 |[**Azure**](azure-index)|[**AWS**](aws-index)|[**Google Cloud**](google-index)|
-||||
+|[**IaC**](iac-index)|[**Dev**](dev-index)|[**Web**](web-index)|
 |[**Hardware**](hardware-index)|[**Kubernetes**](kubernetes-index)|[**Virtualization**](virtualization-index)|
 |[**Internet**](internet-index)|[**Packets**](packets-index)|[**Protocols**](protocols-index)|
 ||||
