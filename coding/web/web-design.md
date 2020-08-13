@@ -18,3 +18,7 @@
 - [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
 - [Markdown Rules](https://github.com/DavidAnson/markdownlint/blob/v0.17.2/doc/Rules.md#md041)
 - [Anchors in Markdown](https://gist.github.com/asabaylus/3071099)
+
+## YouTube
+
+- [How do I get a YouTube video thumbnail from the YouTube API?](https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api)
