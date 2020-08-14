@@ -2,4 +2,4 @@
 
 |ADMIN|LEARNING|TOPICS|
 |---|---|---|
-|[[AD](windows\admin\admin-ad)|||
+|[AD](windows\admin\admin-ad)|||
