@@ -1,5 +1,4 @@
-
-## Windows 10 
+# Windows 10
 
 - [Activating God Mode in Windows 10](https://www.petri.com/activating-god-mode-windows-10)
 - [Can I Delete Recovery Partition in Windows 7/8/10 for Further Use](https://www.partitionwizard.com/partitionmagic/delete-recovery-partition.html)
@@ -9,23 +8,10 @@
 - [On MSFT](https://www.onmsft.com/)
 - [RSAT Missing DNS Server Tools](https://techcommunity.microsoft.com/t5/Windows-Server-Insiders/RSAT-missing-DNS-Server-Tools/td-p/113280)
 - [Windows 10 Deployment Tools](https://docs.microsoft.com/en-us/windows/deployment/windows-deployment-scenarios-and-tools)
-- [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - [how to generate an SSH key pair in Windows 10 using OpenSSH or PuTTY](https://phoenixnap.com/kb/generate-ssh-key-windows-10)
-
-###  Window 10 with HDD - High  Disk Utilization
-
-- [How to disable Microsoft Compatibility Telemetry (CompatTelRunner.exe)?](https://ugetfix.com/ask/how-to-disable-microsoft-compatibility-telemetry-compattelrunner-exe/)
-- [How to Disable or Remove Chrome Software Reporter Tool in Windows](https://www.askvg.com/how-to-disable-or-remove-chrome-software-reporter-tool-in-windows/)
-
-
-
-
-
-
-
-
 
 ## Windows Subsystem for Linux
 
+- [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
 - [Install and set up Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/get-started)
