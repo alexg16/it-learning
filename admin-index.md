@@ -1,4 +1,4 @@
-# Active Directory Index
+# Windows Administration Index
 
-|AD|LEARNING|TOPICS|
+|Admin|LEARNING|TOPICS|
 |---|---|---|
