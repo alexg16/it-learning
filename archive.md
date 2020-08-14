@@ -30,6 +30,12 @@
 
 ## Windows
 
+### Nano Server
+
+- [Install Nano Server](https://docs.microsoft.com/en-us/windows-server/get-started/getting-started-with-nano-server)
+- [PowerShell on Nano Server](https://docs.microsoft.com/en-us/windows-server/get-started/powershell-on-nano-server)
+- [Updating Nano Server](https://technet.microsoft.com/windows-server-docs/get-started/update-nano-server)
+
 ### Sysinternals
 
 - [Sysinternals Forums](https://forum.sysinternals.com)

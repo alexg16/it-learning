@@ -1,29 +1,3 @@
-# Microsoft Windows
-
-----------
-
-
-
-## Group Policy <a id="group-policy"></a>
-
-- [Group Policy Search](http://gpsearch.azurewebsites.net/)
-- [WMI Explorer](https://github.com/vinaypamnani/wmie2/releases)
-
-
-
-
-## Remote Desktop <a id="remote-desktop"></a>
-
-- [How to fix Remote Desktop Connection Manager 2.7 full screen issue](http://andyinmatrix.blogspot.com/2015/07/how-to-fix-remote-desktop-connection_25.html)
-- [Windows 10 RDP CredSSP Encryption Oracle Remediation Error Fix](https://www.virtualizationhowto.com/2018/05/windows-10-rdp-credssp-encryption-oracle-remediation-error-fix/)
-
-## Nano Server <a id="nano-server"></a>
-
-- [Install Nano Server](https://docs.microsoft.com/en-us/windows-server/get-started/getting-started-with-nano-server)
-- [PowerShell on Nano Server](https://docs.microsoft.com/en-us/windows-server/get-started/powershell-on-nano-server)
-- [Updating Nano Server](https://technet.microsoft.com/windows-server-docs/get-started/update-nano-server)
-
-
 
 ## Windows 10 
 
@@ -44,10 +18,6 @@
 - [How to Disable or Remove Chrome Software Reporter Tool in Windows](https://www.askvg.com/how-to-disable-or-remove-chrome-software-reporter-tool-in-windows/)
 
 
-## Windows Admin Center
-
-- [Announcing the general availability of Windows Admin Center, version 1910](https://cloudblogs.microsoft.com/windowsserver/2019/11/04/announcing-the-general-availability-of-windows-admin-center-version-1910/)
-- [The Containers extension for Windows Admin Center](https://msft-sme.myget.org/feed/windows-admin-center-feed/package/nuget/msft.sme.containers)
 
 ## Windows Server 2016 <a id="windows-server-2016"></a>
 
