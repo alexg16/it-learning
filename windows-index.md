@@ -2,4 +2,4 @@
 
 |WINDOWS|LEARNING|TOPICS|
 |---|---|---|
-|[**AD**](ad-index)|[**Client**](client-index)|[**Server**](server-index)|
+|[**Admin**](admin-index)|[**Client**](client-index)|[**Server**](server-index)|
