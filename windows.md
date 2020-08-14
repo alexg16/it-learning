@@ -22,9 +22,7 @@
 
 
 
-## IIS
 
-- [How to Create a Self Signed SSL Certificate with Windows Server](https://community.sophos.com/kb/en-us/132438)
 
 
 ## Windows Subsystem for Linux
