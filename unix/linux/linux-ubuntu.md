@@ -31,5 +31,6 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 
 ## 20.04
 
+- [Ubuntu 20.04 on Hyper-V](https://medium.com/@labappengineering/ubuntu-20-04-on-hyper-v-8888fe3ced64)
 - [How to Install Ubuntu 20.04 [Step-by-Step]](https://adamtheautomator.com/install-ubuntu/)
 - [Ubuntu 20.04.1: The First Point Release of Ubuntu 20.04 LTS is Now Available To Download](https://itsfoss.com/ubuntu-20-04-1-release/)
