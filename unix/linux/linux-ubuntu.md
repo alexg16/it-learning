@@ -33,4 +33,4 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 
 - [How to Install Ubuntu 20.04 [Step-by-Step]](https://adamtheautomator.com/install-ubuntu/)
 - [Ubuntu 20.04.1: The First Point Release of Ubuntu 20.04 LTS is Now Available To Download](https://itsfoss.com/ubuntu-20-04-1-release/)
-- [Essential Guide: How to Upgrade to Ubuntu 20.04 LTS](https://www.omgubuntu.co.uk/2020/04/how-to-upgrade-to-ubuntu-20-04)
+- [Upgrade Ubuntu 18.04 to 20.04 LTS using command line](https://www.cyberciti.biz/faq/upgrade-ubuntu-18-04-to-20-04-lts-using-command-line/)
