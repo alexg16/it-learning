@@ -4,6 +4,7 @@
 - [How to disable Wi-Fi on Raspberry](https://raspberrytips.com/disable-wifi-raspberry-pi/#2_Raspbian_Desktop)
 - [10 Best Raspberry Pi OS for Everyday Computing](https://www.hongkiat.com/blog/pi-operating-systems/)
 - [Pi Hole](https://pi-hole.net/)
+- [How to Use a Raspberry Pi as a Proxy Server (with Privoxy)](https://www.howtogeek.com/683971/how-to-use-a-raspberry-pi-as-a-proxy-server-with-privoxy/)
 
 ## Raspbian
 
