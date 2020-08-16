@@ -16,3 +16,8 @@
 
 ## Videos
 
+- [Ultimate Raspberry Pi 4 Rig: M.2 SSD & ICE Tower](https://www.youtube.com/watch?v=HIYZwsc19CU&feature=youtu.be)
+
+
+- [Raspberry Pi 4 64-Bit Operating Systems: Manjaro, Ubuntu, Gentoo & More!](https://www.youtube.com/watch?v=80CU1j36Q6s&feature=youtu.be)
+
