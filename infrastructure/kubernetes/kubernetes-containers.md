@@ -1,9 +1,9 @@
 # Containers
 
-- [The base command for the Docker CLI](https://docs.docker.com/engine/reference/commandline/docker/)
 - [dockerd configuration file](https://docs.docker.com/engine/reference/commandline/dockerd/)
 - [Install Docker compose](https://docs.docker.com/compose/install/)
 - [Manage data in Docker](https://docs.docker.com/engine/admin/volumes/)
+- [The base command for the Docker CLI](https://docs.docker.com/engine/reference/commandline/docker/)
 
 ## Linux
 
