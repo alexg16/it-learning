@@ -2,4 +2,4 @@
 
 |HARDWARE|LEARNING|TOPICS|
 |---|---|---|
-|[Raspberry Pi](infrastructure/hardware/hardware-raspberrypi)|[Raspbian](infrastructure/hardware/hardware-raspberrypi#raspbian)||
+|[Raspberry Pi](infrastructure/hardware/hardware-raspberrypi)|[Raspbian](infrastructure/hardware/hardware-raspberrypi#raspbian)|[Viseos](infrastructure/hardware/hardware-raspberrypi#videos)|
