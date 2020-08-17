@@ -10,6 +10,7 @@
 
 ## Raspbian
 
+- [57 Raspberry Pi commands that everyone should know](https://raspberrytips.com/raspberry-pi-commands/)
 - [Raspberry Pi Visual Studio Code: Installing VS Code on Raspbian](https://pimylifeup.com/raspberry-pi-visual-studio-code/)
 - [How to Install Docker on Your Raspberry Pi](https://howchoo.com/g/nmrlzmq1ymn/how-to-install-docker-on-your-raspberry-pi)
 - [Running azure cli on Raspberry Pi using docker containers](http://gtrifonov.com/2018/04/17/runningazureclionpi/)
