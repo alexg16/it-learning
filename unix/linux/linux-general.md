@@ -14,6 +14,7 @@
 - [Change Ownership and Rights to Files and Folders in Linux](http://www.smashinglab.com/change-ownership-rights-files-folders-linux/)
 - [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
 - [Copy SSH Public Key from Windows to Ubuntu](https://security.stackexchange.com/questions/167952/copy-ssh-public-key-from-windows-to-ubuntu)
+- [Best way to disable swap in Linux](https://serverfault.com/questions/684771/best-way-to-disable-swap-in-linux)
 
 ## Commands
 
@@ -24,6 +25,7 @@
 - [An introduction to the vi editor](https://www.redhat.com/sysadmin/introduction-vi-editor)
 - [Basic Vim commands - For getting started](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
 - [How to Use the ss Command on Linux](https://www.howtogeek.com/681468/how-to-use-the-ss-command-on-linux/)
+- [The Tar Command in Linux: Tar CVF and Tar XVF Explained with Example Commands](https://www.freecodecamp.org/news/tar-command-linux-tar-cvf-tar-xvf/)
 
 
 ## Troubleshooting
