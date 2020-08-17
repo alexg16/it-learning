@@ -12,6 +12,8 @@
 - [How to Know if a User has Sudo Rights](https://linuxhandbook.com/check-if-user-has-sudo-rights/#how-to-test-whether-a-user-has-sudo-privileges-or-not)
 - [How to prevent upgrade of specific packages](https://askubuntu.com/questions/18654/how-to-prevent-updating-of-a-specific-package)
 - [Change Ownership and Rights to Files and Folders in Linux](http://www.smashinglab.com/change-ownership-rights-files-folders-linux/)
+- [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
+- [Copy SSH Public Key from Windows to Ubuntu](https://security.stackexchange.com/questions/167952/copy-ssh-public-key-from-windows-to-ubuntu)
 
 ## Commands
 
@@ -20,7 +22,10 @@
 - [An introduction to the vi editor](https://www.redhat.com/sysadmin/introduction-vi-editor)
 - [Basic Vim commands - For getting started](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
 - [How to Use the ss Command on Linux](https://www.howtogeek.com/681468/how-to-use-the-ss-command-on-linux/)
-- [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
-- [Copy SSH Public Key from Windows to Ubuntu](https://security.stackexchange.com/questions/167952/copy-ssh-public-key-from-windows-to-ubuntu)
+
+
+## Troubleshooting
+
 - [Xfce4, Debian Sensible Browser, Failure to Execute](https://trisquel.info/en/forum/xfce4-debian-sensible-browser-failure-execute)
+
 
