@@ -14,4 +14,5 @@
 
 - [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
+- [Error 0x1bc when setting wsl default version](https://github.com/microsoft/WSL/issues/5651)
 - [Install and set up Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/get-started)
