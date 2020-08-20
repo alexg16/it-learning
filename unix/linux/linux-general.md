@@ -33,3 +33,7 @@
 - [Xfce4, Debian Sensible Browser, Failure to Execute](https://trisquel.info/en/forum/xfce4-debian-sensible-browser-failure-execute)
 
 
+## Tails
+
+- [Install from Debian, Ubuntu, or Mint using the command line and GnuPG](https://tails.boum.org/install/expert/usb/index.en.html)
+
