@@ -9,4 +9,5 @@
 |[Debian](unix/linux/linux-debian)|||
 |[Kali](unix/linux/linux-kali)|||
 |[RHEL](unix/linux/linux-rhel)|||
+|[Tails](unix/linux/linux-tails)|||
 |[Ubuntu](unix/linux/linux-ubuntu)|[18.04](unix/linux/linux-ubuntu#1804)|[20.04](unix/linux/linux-ubuntu#2004)|

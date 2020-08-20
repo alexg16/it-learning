@@ -9,4 +9,6 @@
 |[Debian](unix/linux/linux-debian)|[NetBSD](unix/bsd/bsd-netbsd)||
 |[Kali](unix/linux/linux-kali)|[OpenBSD](unix/bsd/bsd-openbsd)||
 |[RHEL](unix/linux/linux-rhel)|||
+|[Tails](unix/linux/linux-tails)|||
 |[Ubuntu](unix/linux/linux-ubuntu)|||
+
