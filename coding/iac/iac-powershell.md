@@ -16,6 +16,11 @@
 - Unable to find module providers (PowerShellGet) - HKLM/Current Control Set/Control/Lsa/FipsAlgorithmPolicy - Enabled(0)
 - [Where-Object vs. the Where method: Array filtering in PowerShell](https://4sysops.com/archives/where-object-vs-the-where-method-array-filtering-in-powershell/)
 
+## Training
+
+- [Best Free PowerShell Training Resources](https://www.businessnewsdaily.com/10760-best-free-powershell-training-resources.html)
+- [Learn Powershell.net](https://learn-powershell.net/)
+
 ## Azure PowerShell
 
 - [Azure AD Module (MSOnline)](https://docs.microsoft.com/en-us/powershell/msonline/v1/azureactivedirectory?redirectedfrom=msdn)
