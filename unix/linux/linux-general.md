@@ -3,6 +3,7 @@
 - [DistroWatch.com](https://distrowatch.com/)
 - [Distrotest.net](https://distrotest.net/)
 - [Which Linux Desktop Environment will be the best for you?](https://dev.to/imtiazsakib/which-linux-desktop-environment-will-be-the-best-for-you-5695)
+- [What's your fav Linux distro](https://dev.to/sakshatshinde/what-s-your-fav-linux-distro-551k)
 
 ## Administration
 
