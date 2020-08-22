@@ -9,6 +9,7 @@
 - [Raspberry Pi Cluster Episode 2 - Setting up the Cluster](https://www.jeffgeerling.com/blog/2020/raspberry-pi-cluster-episode-2-setting-cluster)
 - [Build a Raspberry Pi cluster computer](https://magpi.raspberrypi.org/articles/build-a-raspberry-pi-cluster-computer)
 - [Raspberry Pi 4 as a Network Router](https://youtu.be/owxOAZAp00Y)
+- [How to Clone Your Raspberry Pi SD Card for Foolproof Backup](https://www.howtogeek.com/341944/how-to-clone-your-raspberry-pi-sd-card-for-foolproof-backup/)
 
 ## Raspbian
 
