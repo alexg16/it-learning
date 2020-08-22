@@ -1,8 +1,13 @@
 # Containers
 
+## Docker
+
+- [The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
+- [Back to Basics: Top Useful Docker Commands](https://adamtheautomator.com/back-to-basics-top-useful-docker-commands/)
 - [dockerd configuration file](https://docs.docker.com/engine/reference/commandline/dockerd/)
 - [Install Docker compose](https://docs.docker.com/compose/install/)
 - [Manage data in Docker](https://docs.docker.com/engine/admin/volumes/)
+- [The base command for the Docker CLI](https://docs.docker.com/engine/reference/commandline/docker/)
 
 ## Linux
 
@@ -10,6 +15,15 @@
 ```
 apt-get update
 wget -qO- https://get.docker.com | sh
+```
+
+- Add loggedin user to docker group:
+```
+sudo gpasswd -a $USER docker
+```
+  re-login with new group membership:
+```
+newgrp docker
 ```
 
 ## Windows

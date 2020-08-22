@@ -2,5 +2,5 @@
 
 |SECURITY|LEARNING|TOPICS|
 |---|---|---|
-|[**Hacking**](hacking-index)|[**Identity**](identity-index)|[**Vulnerability**](vulnerability-index)|
-|[General](security/hacking/hacking-general)|[General](security/identity/identity-general)|[General](security/vulnerability/vulnerability-general)|
+|[**Hacking**](hacking-index)|[**Identity**](identity-index)|[**Encryption**](encryption-index)|
+|[General](security/hacking/hacking-general)|[General](security/identity/identity-general)|[General](security/encryption/encryption-general)|
