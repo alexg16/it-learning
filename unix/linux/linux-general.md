@@ -16,6 +16,7 @@
 - [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
 - [Copy SSH Public Key from Windows to Ubuntu](https://security.stackexchange.com/questions/167952/copy-ssh-public-key-from-windows-to-ubuntu)
 - [Best way to disable swap in Linux](https://serverfault.com/questions/684771/best-way-to-disable-swap-in-linux)
+- Record your VM's public IP address: ```curl ipecho.net/plain; echo```
 
 ## Commands
 
