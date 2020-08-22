@@ -17,4 +17,4 @@
 - [Error 0x1bc when setting wsl default version](https://github.com/microsoft/WSL/issues/5651)
 - [Install and set up Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/get-started)
 - [Kali Linux gets a GUI desktop in Windows Subsystem for Linux](https://www.bleepingcomputer.com/news/security/kali-linux-gets-a-gui-desktop-in-windows-subsystem-for-linux/)
-
+- [Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/)
