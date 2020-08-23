@@ -9,15 +9,21 @@
 - [Manage data in Docker](https://docs.docker.com/engine/admin/volumes/)
 - [The base command for the Docker CLI](https://docs.docker.com/engine/reference/commandline/docker/)
 
+### Compose
+
+- [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/)
+
 ## Linux
 
-- Install Docker on Linux: 
+- Install Docker on Linux:
+
 ```
 apt-get update
 wget -qO- https://get.docker.com | sh
 ```
 
 - Add loggedin user to docker group:
+
 ```
 sudo gpasswd -a $USER docker
 ```
