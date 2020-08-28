@@ -2,5 +2,5 @@
 
 |PROTOCOLS|LEARNING|TOPICS|
 |---|---|---|
-|[DNS](networking/protocols/protocols-dns.md)|||
+|[DNS](networking/protocols/protocols-dns)|[DHCP](networking/protocols/protocols-dns#dhcp)||
 |[TCP/IP](networking/protocols/protocols-tcpip)|||
