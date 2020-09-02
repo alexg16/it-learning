@@ -10,6 +10,7 @@
 - [Build a Raspberry Pi cluster computer](https://magpi.raspberrypi.org/articles/build-a-raspberry-pi-cluster-computer)
 - [Raspberry Pi 4 as a Network Router](https://youtu.be/owxOAZAp00Y)
 - [How to Clone Your Raspberry Pi SD Card for Foolproof Backup](https://www.howtogeek.com/341944/how-to-clone-your-raspberry-pi-sd-card-for-foolproof-backup/)
+- [Twister OS Raspberry Pi 4 – Get That OSX and Windows 10 Look!](https://raspberrypiprojects.com/twister-os-raspberry-pi-4-get-that-osx-and-windows-10-look/amp/)
 
 ## Raspbian
 
@@ -24,8 +25,12 @@
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HIYZwsc19CU/default.jpg)](https://www.youtube.com/watch?v=HIYZwsc19CU&feature=youtu.be)
 
-
 - Raspberry Pi 4 64-Bit Operating Systems: Manjaro, Ubuntu, Gentoo & More!
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/80CU1j36Q6s/default.jpg)](https://www.youtube.com/watch?v=80CU1j36Q6s&feature=youtu.be)
+
+
+- USB Boot the Simple way. Raspberry Pi OS. Pi 4
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/suU09BMMFts/default.jpg)](https://www.youtube.com/watch?v=suU09BMMFts&feature=youtu.be)
 
