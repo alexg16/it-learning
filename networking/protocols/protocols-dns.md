@@ -1,6 +1,7 @@
 # DNS
 
 - [DNS, BIND, DHCP, LDAP and Directory Services](https://www.bind9.net/)
+- [nip.io - Dead simple wildcard DNS for any IP Address](https://nip.io/)
 
 ## DHCP
 
