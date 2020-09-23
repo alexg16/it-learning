@@ -24,6 +24,8 @@
 - [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
 - [Linux Commands frequently used by Linux Sysadmins – Part 1](https://haydenjames.io/linux-commands-frequently-used-by-linux-sysadmins-part-1/)
 - [Linux Commands frequently used by Linux Sysadmins – Part 2](https://haydenjames.io/linux-commands-frequently-used-by-linux-sysadmins-part-2/)
+- [Linux Commands frequently used by Linux Sysadmins – Part 3](https://haydenjames.io/linux-commands-frequently-used-by-linux-sysadmins-part-3/)
+- [Linux Commands frequently used by Linux Sysadmins – Part 4](https://haydenjames.io/linux-commands-frequently-used-by-linux-sysadmins-part-4/)
 - [An introduction to the vi editor](https://www.redhat.com/sysadmin/introduction-vi-editor)
 - [Basic Vim commands - For getting started](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
 - [How to Use the ss Command on Linux](https://www.howtogeek.com/681468/how-to-use-the-ss-command-on-linux/)
