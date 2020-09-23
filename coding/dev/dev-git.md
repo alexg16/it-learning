@@ -4,7 +4,6 @@
 - [Git For Windows Installation Screenshots](http://robertovormittag.net/ebooks/git-and-github/git-for-windows-installation-screenshots/)
 - [Using Git with PowerShell](https://www.develves.net/blogs/asd/articles/using-git-with-powershell-on-windows-10/)
 
-
 ## GitHub
 
 - [Caching your GitHub password in Git](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
