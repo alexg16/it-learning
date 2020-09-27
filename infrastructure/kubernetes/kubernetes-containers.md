@@ -45,4 +45,4 @@ newgrp docker
 
 - Containers? So What? Docker 101 Explained - Computer Stuff They Didn't Teach You #8
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0oEsMwSxBsk/default.jpg)](https://www.https://www.youtube.com/watch?v=0oEsMwSxBsk)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0oEsMwSxBsk/default.jpg)](https://www.youtube.com/watch?v=0oEsMwSxBsk)
