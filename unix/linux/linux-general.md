@@ -4,6 +4,7 @@
 - [Distrotest.net](https://distrotest.net/)
 - [Which Linux Desktop Environment will be the best for you?](https://dev.to/imtiazsakib/which-linux-desktop-environment-will-be-the-best-for-you-5695)
 - [What's your fav Linux distro](https://dev.to/sakshatshinde/what-s-your-fav-linux-distro-551k)
+- [How to Check the Linux Kernel and Operating System Version](https://www.howtogeek.com/691214/how-to-check-the-linux-kernel-and-operating-system-version/)
 
 ## Administration
 
