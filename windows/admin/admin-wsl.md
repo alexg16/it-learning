@@ -15,3 +15,4 @@
 
 - [Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/)
 - [where docker image is stored with docker-desktop for windows?](https://stackoverflow.com/questions/62380124/where-docker-image-is-stored-with-docker-desktop-for-windows)
+- [Getting Started Managing Docker with VS Code](https://adamtheautomator.com/getting-started-managing-docker-with-vs-code/)
