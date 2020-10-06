@@ -36,7 +36,3 @@
 ## Troubleshooting
 
 - [Xfce4, Debian Sensible Browser, Failure to Execute](https://trisquel.info/en/forum/xfce4-debian-sensible-browser-failure-execute)
-
-
-
-
