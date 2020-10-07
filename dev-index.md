@@ -6,3 +6,4 @@
 |[Git](coding/dev/dev-git)|[GitHub](coding/dev/dev-git#github)||
 |[VSCode](coding/dev/dev-vscode)|||
 |[JavaScript](coding/dev/dev-javascript)|||
+|[Python](coding/dev/dev-python)|||
