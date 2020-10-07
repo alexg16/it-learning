@@ -17,6 +17,7 @@
 - [Change Ownership and Rights to Files and Folders in Linux](http://www.smashinglab.com/change-ownership-rights-files-folders-linux/)
 - [Use SSH Keys With PuTTY On Windows](https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/)
 - [Copy SSH Public Key from Windows to Ubuntu](https://security.stackexchange.com/questions/167952/copy-ssh-public-key-from-windows-to-ubuntu)
+- [How to append authorized_keys on the remote server with id_rsa.pub key](https://stackoverflow.com/questions/23591083/how-to-append-authorized-keys-on-the-remote-server-with-id-rsa-pub-key)
 - [Best way to disable swap in Linux](https://serverfault.com/questions/684771/best-way-to-disable-swap-in-linux)
 - Record your VM's public IP address: ```curl ipecho.net/plain; echo```
 
