@@ -1,5 +1,6 @@
 # Kubernetes General
 
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 - [Having fun with Kubernetes](https://dev.to/martinpham/having-fun-with-kubernetes-final-chapter-play-time-4kka)
 - [Know Kubernetes — Pictorially](https://medium.com/tarkalabs/know-kubernetes-pictorially-f6e6a0052dd0)
