@@ -8,6 +8,7 @@
 - [Heard about Kubernetes Operators, but don't know exactly what they are and why they are useful?](https://www.reddit.com/r/kubernetes/comments/ibh1ra/heard_about_kubernetes_operators_but_dont_know/)
 - [What’s new in Kubernetes 1.19?](https://sysdig.com/blog/whats-new-kubernetes-1-19/)
 - [Microsoft - Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
+- [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
 
 ## Evans Blog
 
