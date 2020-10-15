@@ -1,8 +1,11 @@
 # Kubernetes installation and configuration
 
 - Enable shell  completion on Linux:
+
 ```source <(kubectl completion bash)```
-```echo "source <(kubectl completion bash)" >> ~/.bash_profile```S
+
+```echo "source <(kubectl completion bash)" >> ~/.bash_profile```
+
 - [Accessing Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/)
 - [How To Create a Kubernetes Cluster Using Kubeadm on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-18-04)
 - [How to gracefully remove a node from Kubernetes?](https://stackoverflow.com/questions/35757620/how-to-gracefully-remove-a-node-from-kubernetes)
