@@ -4,6 +4,7 @@
 - [How to edit /etc/fstab when system boots to read only file system?](https://unix.stackexchange.com/questions/185026/how-to-edit-etc-fstab-when-system-boots-to-read-only-file-system)
 - [Supported Ubuntu virtual machines on Hyper-V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/supported-ubuntu-virtual-machines-on-hyper-v)
 - [Why doesn't the 'su' command work in Ubuntu but does in other Linux distros?](https://askubuntu.com/questions/825862/why-doesnt-the-su-command-work-in-ubuntu-but-does-in-other-linux-distros/825874)
+- [The 10 Easiest Ways to Keep Ubuntu System Clean](https://www.fossmint.com/keep-ubuntu-system-clean/)
 
 ## 18.04
 
