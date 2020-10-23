@@ -9,6 +9,7 @@
 
 ## Administration
 
+- [How to store SSH keys?](https://superuser.com/questions/324056/how-to-store-ssh-keys)
 - [SSH Keys - Generating and Working with](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys#generating-and-working-with-ssh-keys)
 - [How to disable SWAP on Linux](https://www.addictivetips.com/ubuntu-linux-tips/disable-swap-on-linux/)
 - [How to install and use rdesktop - the remote desktop client for Linux](https://www.itworld.com/article/2988289/how-to-install-and-use-rdesktop-the-remote-desktop-client-for-linux.html)
