@@ -10,6 +10,13 @@
 - [Move-VMStorage - PowerShell](https://docs.microsoft.com/en-us/powershell/module/hyper-v/move-vmstorage?view=win10-ps)
 - [Nested Virtualization](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/nested-virtualization)
 - [REMOTELY MANAGING HYPER-V SERVER IN A WORKGROUP OR NON-DOMAIN](https://timothygruber.com/hyper-v-2/remotely-managing-hyper-v-server-in-a-workgroup-or-non-domain/)
+- To remove the local subnet restriction on public networks and allow
+remote access from any location, run the following command:
+
+```Set-NetFirewallRule –Name "WINRM-HTTP-In-TCP-PUBLIC" –RemoteAddress Any```
+
+<http://www.powershellhelp.space/about/about_remote_troubleshooting-psv5.php>
+
 - [How to Fix WinRm Firewall Exception Rule When Enabling PS Remoting](https://www.faqforge.com/powershell/fix-winrm-firewall-exception-rule-enabling-ps-remoting/)
 - [Set up hosts for live migration without Failover Clustering](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/set-up-hosts-for-live-migration-without-failover-clustering)
 - [What is the Hyper-V Virtual Switch and How Does it Work?](https://www.altaro.com/hyper-v/the-hyper-v-virtual-switch-explained-part-1/)
