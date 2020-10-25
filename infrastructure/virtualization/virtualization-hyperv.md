@@ -13,9 +13,9 @@
 - To remove the local subnet restriction on public networks and allow
 remote access from any location, run the following command:
 
-```Set-NetFirewallRule –Name "WINRM-HTTP-In-TCP-PUBLIC" –RemoteAddress Any```
+  ```Set-NetFirewallRule –Name "WINRM-HTTP-In-TCP-PUBLIC" –RemoteAddress Any```
 
-<http://www.powershellhelp.space/about/about_remote_troubleshooting-psv5.php>
+  <http://www.powershellhelp.space/about/about_remote_troubleshooting-psv5.php>
 
 - [How to Fix WinRm Firewall Exception Rule When Enabling PS Remoting](https://www.faqforge.com/powershell/fix-winrm-firewall-exception-rule-enabling-ps-remoting/)
 - [Set up hosts for live migration without Failover Clustering](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/set-up-hosts-for-live-migration-without-failover-clustering)
