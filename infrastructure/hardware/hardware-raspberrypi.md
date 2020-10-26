@@ -37,3 +37,7 @@
 - Berryboot 2.0 Raspberry Pi 4 multiple OS installer Pt1
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/INqe42J1Ono/default.jpg)](https://www.youtube.com/watch?v=INqe42J1Ono&feature=youtu.be)
+
+- Raspberry Pi 4 Easy Multi Boot + External SSD - Berry Boot Tutorial
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/OU4mkuZwgeY/default.jpg)](https://www.youtube.com/watch?v=OU4mkuZwgeY&feature=youtu.bee)
