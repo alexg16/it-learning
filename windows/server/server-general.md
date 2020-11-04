@@ -2,6 +2,7 @@
 
 - [Windows Server servicing channels: LTSC and SAC](https://docs.microsoft.com/en-us/windows-server/get-started-19/servicing-channels-19)
 - [Why do Semi-Annual Channel releases offer only the Server Core installation option?](https://docs.microsoft.com/en-us/windows-server/get-started-19/servicing-channels-19#why-do-semi-annual-channel-releases-offer-only-the-server-core-installation-option)
+- [Initialize new disk partition on Hyper-V Core](http://www.itbusinessbuilder.com/initialize-new-disk-partition-on-hyper-v-core/)
 
 ## Windows Admin Center
 
