@@ -22,3 +22,5 @@
 
 - [Installing VMware vCenter Server Appliance 6.5](https://miketabor.com/installing-vmware-vcenter-server-appliance-6-5/)
 - [vCenter 5.x/6.x: How to reset administrator@vsphere.local account password](https://www.provirtualzone.com/vcenter-5-x6-x-how-to-reset-administratorvsphere-local-account-password/#:~:text=Go%20to%20option%20%E2%80%9CAdministration%3B%20Single%20Sign-On%3B%20User%20and,many%20bad%20password%20attempts%29%2C%20or%20any%20other%20account%2C)
+- [Edit the vCenter Single Sign-On Password Policy](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.psc.doc/GUID-B9C4409A-B053-40C3-96DE-232BB99AAA35.html)
+- [Upgrade of VMware vCenter 6.5 U2 to vCenter 6.7 U3](https://digitalthoughtdisruption.com/2019/10/16/step-by-step-upgrade-of-vmware-vcenter-6-5-u2-to-vcenter-6-7-u3/)
