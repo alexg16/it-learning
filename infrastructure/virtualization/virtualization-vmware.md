@@ -25,3 +25,4 @@
 - [Edit the vCenter Single Sign-On Password Policy](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.psc.doc/GUID-B9C4409A-B053-40C3-96DE-232BB99AAA35.html)
 - [Upgrade of VMware vCenter 6.5 U2 to vCenter 6.7 U3](https://digitalthoughtdisruption.com/2019/10/16/step-by-step-upgrade-of-vmware-vcenter-6-5-u2-to-vcenter-6-7-u3/)
 - [vCenter Server Appliance 6.7 U1 Installation and configuration Guide – StarWind Blog](https://www.starwindsoftware.com/blog/vcenter-server-appliance-6-7-u1-installation-and-configuration-guide)
+- [How to install vCenter 6.7 (and 6.0 and 6.5) with no DNS, only IP address](https://www.kieri.com/how-to-install-vcenter-6-7-and-6-0-and-6-5-with-no-dns-only-ip-address/)
