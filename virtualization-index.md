@@ -3,6 +3,6 @@
 |VIRTUAL|LEARNING|TOPICS|
 |---|---|---|
 |[Hyper-V](infrastructure/virtualization/virtualization-hyperv)|||
-|[VMware](infrastructure/virtualization/virtualization-vmware)|[vCenter](infrastructure/virtualization/virtualization-vmware#vcenter)||
+|[VMware](infrastructure/virtualization/virtualization-vmware)|[vCenter](infrastructure/virtualization/virtualization-vmware#vcenter)|[Storage](infrastructure/virtualization/virtualization-vmware#storage)|
 |[VirtualBox](infrastructure/virtualization/virtualization-virtualbox)|||
 |[Vagrant](infrastructure/virtualization/virtualization-vagrant)|||

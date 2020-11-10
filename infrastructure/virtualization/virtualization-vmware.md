@@ -26,3 +26,7 @@
 - [vCenter Server Appliance 6.7 U1 Installation and configuration Guide – StarWind Blog](https://www.starwindsoftware.com/blog/vcenter-server-appliance-6-7-u1-installation-and-configuration-guide)
 - [How to install vCenter 6.7 (and 6.0 and 6.5) with no DNS, only IP address](https://www.kieri.com/how-to-install-vcenter-6-7-and-6-0-and-6-5-with-no-dns-only-ip-address/)
 - [Removing a host from vCenter Server](https://www.oreilly.com/library/view/mastering-vmware-vsphere/9781787286016/cb3a07e1-a99d-4c75-99a2-8383868146ad.xhtml)
+
+## Storage
+
+- [How to Use Port Binding to Configure Multipathing on VMware for Synology NA](https://www.synology.com/en-us/knowledgebase/DSM/tutorial/Virtualization/How_to_Use_Port_Binding_to_Configure_Multipathing_on_VMware_for_Synology_NAS)
