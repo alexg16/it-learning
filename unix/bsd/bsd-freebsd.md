@@ -10,3 +10,6 @@
 ### Videos
 
 - [2020 Getting started with pfsense 2.4 Tutorial: Network Setup, VLANs, Features & Packages](https://www.youtube.com/watch?v=fsdm5uc_LsU&feature=youtu.be)
+
+- [Office Network Design and Planning with VLANs, LLDP, Rules, IoT, Guest using UniFi & pfsense](https://youtu.be/ouARr-4chJ8
+ )
