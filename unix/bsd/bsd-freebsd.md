@@ -6,6 +6,9 @@
 ## pfSense
 
 - [Azure Site-to-Site VPN with PFSense](https://thetechl33t.com/2020/05/18/azure-site-to-site-vpn-with-pfsense/)
+- [Team LAN and OPT1 as VLAN trunk](https://www.reddit.com/r/PFSENSE/comments/hvovk1/team_lan_and_opt1_as_vlan_trunk/?utm_source=amp&utm_medium=&utm_content=post_body)
+- [Pfsense with LAGG and VLAN Trunk](https://forums.lawrencesystems.com/t/pfsense-with-lagg-and-vlan-trunk/5271)
+- [Protect home network using subnets with pfSense - WITH DIAGRAM](https://netosec.com/protect-home-network/)
 
 ### Videos
 
