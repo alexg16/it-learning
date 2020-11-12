@@ -30,5 +30,5 @@
 ## Storage
 
 - [How to Use Port Binding to Configure Multipathing on VMware for Synology NA](https://www.synology.com/en-us/knowledgebase/DSM/tutorial/Virtualization/How_to_Use_Port_Binding_to_Configure_Multipathing_on_VMware_for_Synology_NAS)
-- [Management network separate to iSCSI network | Synology Community](https://community.synology.com/enu/forum/17/post/98212)
-- [How to set up VMware ESXi, a Synology iSCSI NAS, and Active/Active MPIO | Frank's Tech Support](https://frankstechsupport.com/2014/07/25/how-to-set-up-vmware-esxi-a-synology-iscsi-nas-and-activeactive-mpio/)
+- [Management network separate to iSCSI network Synology Community](https://community.synology.com/enu/forum/17/post/98212)
+- [How to set up VMware ESXi, a Synology iSCSI NAS, and Active/Active MPIO Frank's Tech Support](https://frankstechsupport.com/2014/07/25/how-to-set-up-vmware-esxi-a-synology-iscsi-nas-and-activeactive-mpio/)
