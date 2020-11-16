@@ -16,6 +16,7 @@
 - [Steps to Install VMware vSphere ESXi 6.7](http://www.mustbegeek.com/steps-to-install-vmware-vsphere-esxi-6-7/)
 - [Mass Update VMware Tools on Guest VMs](https://geeklifenow.com/2019-12-16-VMware-VMwareTools-Update/)
 - [Your evaluation license for ESXi has expired](https://www.reddit.com/r/vmware/comments/8aknli/your_evaluation_license_for_esxi_has_expired/)
+- [How to convert a Hyper-V vm to run on vSphere](https://www.altaro.com/vmware/how-to-convert-a-hyper-v-vm-to-run-on-vsphere/)
 
 ## vCenter
 
