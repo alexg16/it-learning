@@ -18,6 +18,7 @@
 - [Your evaluation license for ESXi has expired](https://www.reddit.com/r/vmware/comments/8aknli/your_evaluation_license_for_esxi_has_expired/)
 - [How to convert a Hyper-V vm to run on vSphere](https://www.altaro.com/vmware/how-to-convert-a-hyper-v-vm-to-run-on-vsphere/)
 - [When using vCenter Converter the converter agent fails to install with an error (1021465)](https://kb.vmware.com/s/article/1021465)
+- [VMware Converter: Permission to perform this operation was denied](https://www.jonathanmedd.net/2013/12/vmware-converter-permission-to-perform-this-operation-was-denied.html)
 
 ## vCenter
 
