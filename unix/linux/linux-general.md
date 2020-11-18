@@ -6,6 +6,7 @@
 - [What's your fav Linux distro](https://dev.to/sakshatshinde/what-s-your-fav-linux-distro-551k)
 - [How to Check the Linux Kernel and Operating System Version](https://www.howtogeek.com/691214/how-to-check-the-linux-kernel-and-operating-system-version/)
 - [What is a Package Manager in Linux?](https://itsfoss.com/package-manager/)
+- [Best Linux desktop distributions of 2020](https://www.techrepublic.com/article/linux-desktop-distributions-best-of-2020/)
 
 ## Administration
 
