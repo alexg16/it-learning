@@ -20,6 +20,7 @@
 - [When using vCenter Converter the converter agent fails to install with an error (1021465)](https://kb.vmware.com/s/article/1021465)
 - [VMware Converter: Permission to perform this operation was denied](https://www.jonathanmedd.net/2013/12/vmware-converter-permission-to-perform-this-operation-was-denied.html)
 - [How to Install VMware Tools in Ubuntu 18.04](https://linuxize.com/post/how-to-install-vmware-tools-in-ubuntu-18-04/)
+- [Uninstalling and manually installing VMware Tools in VMware Fusion (1014522)](https://kb.vmware.com/s/article/1014522)
 
 
 ## vCenter
