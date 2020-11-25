@@ -2,6 +2,8 @@
 
 ## Troubleshooting
 
+- [How to read Memory Dump files in Windows 10](https://thegeekpage.com/how-to-read-memory-dump-files-in-windows-10/)
+
 ### Window 10 with HDD - High  Disk Utilization
 
 - [How to disable Microsoft Compatibility Telemetry (CompatTelRunner.exe)?](https://ugetfix.com/ask/how-to-disable-microsoft-compatibility-telemetry-compattelrunner-exe/)
