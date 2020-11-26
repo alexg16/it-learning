@@ -10,6 +10,7 @@
 - [Pfsense with LAGG and VLAN Trunk](https://forums.lawrencesystems.com/t/pfsense-with-lagg-and-vlan-trunk/5271)
 - [Protect home network using subnets with pfSense - WITH DIAGRAM](https://netosec.com/protect-home-network/)
 - [pfSense pfBlockerNG configuration guide](https://nguvu.org/pfsense/pfSense-pfblockerng-configuration-guide/)
+- [Installing pfBlockerNG by Protectli](https://protectli.com/kb/how-to-setup-pfblockerng/)
 
 ### Videos
 
