@@ -41,6 +41,8 @@
 - [How to set up VMware ESXi, a Synology iSCSI NAS, and Active/Active MPIO Frank's Tech Support](https://frankstechsupport.com/2014/07/25/how-to-set-up-vmware-esxi-a-synology-iscsi-nas-and-activeactive-mpio/)
 - [How to unmount a LUN or detach a datastore device from ESXi hosts](https://kb.vmware.com/s/article/2004605)
 - [Connect vSphere 6.5 to iSCSI storage NAS](https://www.tech-coffee.net/connect-vsphere-iscsi-storage-nas/)
+- [Back up a vCenter Server Appliance by Using the vCenter Server Appliance Management Interface](https://docs.vmware.com/en/VMware-vSphere/6.5/com.vmware.vsphere.install.doc/GUID-8C9D5260-291C-44EB-A79C-BFFF506F2216.html)
+- [Synology FTP/FTPS](https://www.synology.com/en-global/knowledgebase/DSM/help/DSM/AdminCenter/file_ftp_setting)
 
 ## Networking
 
