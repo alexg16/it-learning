@@ -8,4 +8,4 @@
 - [Proper way to Remove Azure AD Connect](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_dirservices/proper-way-to-remove-azure-ad-connect/8b53a777-62c6-40ce-88bb-ab95aaf72df0)
 - [Sign up for Azure](https://docs.microsoft.com/en-us/azure/active-directory/sign-up-organization) OR [Get Started with Azure as an organization](https://account.windowsazure.com/organization)
 - [Understand Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/understand-azure-identity-solutions)
-- [How To Disable Azure AD Connect via PowerShell](https://scomandothergeekystuff.com/2017/05/02/disable-ad-connect-via-powershell/)
+- [How to Fully Remove Microsoft Azure AD Connect](https://interworks.com/blog/mroy/2018/07/25/how-to-fully-remove-microsoft-azure-ad-connect/)
