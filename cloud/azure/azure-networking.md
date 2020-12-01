@@ -12,3 +12,4 @@
 - [What is Azure Application Gateway?](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
 - [Overview of load-balancing options in Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview)
 - [What is Azure Bastion?](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
+- [Easy to Use VPN with OpenVPN in Azure](https://build5nines.com/easy-to-use-vpn-openvpn-in-azure/#create_a_openvpn_virtual_machine_in_azure)
