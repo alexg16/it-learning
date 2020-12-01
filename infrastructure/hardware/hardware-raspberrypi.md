@@ -41,3 +41,7 @@
 - Raspberry Pi 4 Easy Multi Boot + External SSD - Berry Boot Tutorial
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/OU4mkuZwgeY/default.jpg)](https://www.youtube.com/watch?v=OU4mkuZwgeY&feature=youtu.bee)
+
+## ESXi
+
+- [How to build an ESXi on ARM Pi cluster](https://www.ivobeerens.nl/2020/10/21/how-to-build-an-esxi-on-arm-pi-cluster/)
