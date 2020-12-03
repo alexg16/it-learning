@@ -7,6 +7,7 @@
 |[Networking](unix/linux/linux-networking)|[Bind](unix/linux/linux-networking#bind)|[Iptables](unix/linux/linux-networking#iptables)|
 |[CentOS](unix/linux/linux-centos)|||
 |[Debian](unix/linux/linux-debian)|||
+|[Fedora](unix/linux/linux-fedora)|||
 |[Kali](unix/linux/linux-kali)|||
 |[RHEL](unix/linux/linux-rhel)|||
 |[Tails](unix/linux/linux-tails)|||
