@@ -11,6 +11,8 @@
 - [Raspberry Pi 4 as a Network Router](https://youtu.be/owxOAZAp00Y)
 - [How to Clone Your Raspberry Pi SD Card for Foolproof Backup](https://www.howtogeek.com/341944/how-to-clone-your-raspberry-pi-sd-card-for-foolproof-backup/)
 - [Twister OS Raspberry Pi 4 – Get That OSX and Windows 10 Look!](https://raspberrypiprojects.com/twister-os-raspberry-pi-4-get-that-osx-and-windows-10-look/amp/)
+- [How to Enable SSH on Raspberry Pi](https://phoenixnap.com/kb/enable-ssh-raspberry-pi)
+- [Raspi-config doesn't start on fresh install with BerryBoot](https://www.raspberrypi.org/forums/viewtopic.php?t=151695)
 
 ## Raspbian
 
