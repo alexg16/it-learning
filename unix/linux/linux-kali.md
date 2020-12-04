@@ -10,3 +10,4 @@
 - [Top 10 Kali Linux Tools For Hacking](https://www.geeksforgeeks.org/top-10-kali-linux-tools-for-hacking/)
 - [Kali on Azure](https://www.youtube.com/watch?v=kPvsblTKx68)
 - [How To Install Visual Studio Code on Kali Linux 2020.x](https://computingforgeeks.com/how-to-install-visual-studio-code-on-kali-linux/)
+- [Setting up RDP with Xfce](https://www.kali.org/docs/general-use/xfce-with-rdp/)
