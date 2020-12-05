@@ -10,6 +10,7 @@
 |[Fedora](unix/linux/linux-fedora)|[OpenBSD](unix/bsd/bsd-openbsd)||
 |[Kali](unix/linux/linux-kali)|||
 |[RHEL](unix/linux/linux-rhel)|||
+|[SUSE](unix/linux/linux-suse)|||
 |[Tails](unix/linux/linux-tails)|||
 |[Ubuntu](unix/linux/linux-ubuntu)|||
 
