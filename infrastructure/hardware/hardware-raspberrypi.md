@@ -22,6 +22,10 @@
 - [Running azure cli on Raspberry Pi using docker containers](http://gtrifonov.com/2018/04/17/runningazureclionpi/)
 - [How to install remmina on Raspberry Pi](https://snapcraft.io/install/remmina/raspbian)
 
+## ESXi
+
+- [How to build an ESXi on ARM Pi cluster](https://www.ivobeerens.nl/2020/10/21/how-to-build-an-esxi-on-arm-pi-cluster/)
+
 ## Videos
 
 - Ultimate Raspberry Pi 4 Rig: M.2 SSD & ICE Tower
@@ -48,6 +52,3 @@
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/IJn3fz7Zk4Q/default.jpg)](https://www.youtube.com/watch?v=IJn3fz7Zk4Q&feature=youtu.bee)
 
-## ESXi
-
-- [How to build an ESXi on ARM Pi cluster](https://www.ivobeerens.nl/2020/10/21/how-to-build-an-esxi-on-arm-pi-cluster/)
