@@ -52,3 +52,8 @@
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/IJn3fz7Zk4Q/default.jpg)](https://www.youtube.com/watch?v=IJn3fz7Zk4Q&feature=youtu.bee)
 
+- Raspberry Pi 4 Heat Testing
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/tWsM69_5g4E/default.jpg)](https://www.youtube.com/watch?v=tWsM69_5g4E&feature=youtu.bee)
+
+
