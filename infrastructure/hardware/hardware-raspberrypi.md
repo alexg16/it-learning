@@ -57,4 +57,8 @@
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/tWsM69_5g4E/default.jpg)](https://www.youtube.com/watch?v=tWsM69_5g4E&feature=youtu.bee)
 
+- VMware on a Raspberry Pi!?!?! (ESXi Install)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6aLyZisehCU/default.jpg)](https://www.youtube.com/watch?v=6aLyZisehCU&feature=youtu.bee)
+
 
