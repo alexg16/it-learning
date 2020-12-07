@@ -25,6 +25,7 @@
 ## ESXi
 
 - [How to build an ESXi on ARM Pi cluster](https://www.ivobeerens.nl/2020/10/21/how-to-build-an-esxi-on-arm-pi-cluster/)
+- [ESXi on Arm Fling is LIVE!](https://www.virtuallyghetto.com/2020/10/esxi-on-arm-fling.html)
 
 ## Videos
 
