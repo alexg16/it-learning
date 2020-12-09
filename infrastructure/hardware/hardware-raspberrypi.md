@@ -26,6 +26,7 @@
 
 - [How to build an ESXi on ARM Pi cluster](https://www.ivobeerens.nl/2020/10/21/how-to-build-an-esxi-on-arm-pi-cluster/)
 - [ESXi on Arm Fling is LIVE!](https://www.virtuallyghetto.com/2020/10/esxi-on-arm-fling.html)
+- [Installing VMware Tools on Raspberry Pi OS for ESXi-Arm](https://www.virtuallyghetto.com/2020/10/installing-vmware-tools-on-raspberry-pi-os-for-esxi-arm.html)
 
 ## Videos
 
