@@ -9,6 +9,7 @@
 |[Debian](unix/linux/linux-debian)|||
 |[Fedora](unix/linux/linux-fedora)|||
 |[Kali](unix/linux/linux-kali)|||
+|[Photon](unix/linux/linux-photon)|||
 |[RHEL](unix/linux/linux-rhel)|||
 |[SUSE](unix/linux/linux-suse)|||
 |[Tails](unix/linux/linux-tails)|||
