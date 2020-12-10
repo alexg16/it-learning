@@ -24,6 +24,7 @@
 - [Best way to disable swap in Linux](https://serverfault.com/questions/684771/best-way-to-disable-swap-in-linux)
 - Record your VM's public IP address: ```curl ipecho.net/plain; echo```
 - [How to Manage Linux Servers with the Cockpit Web Interface](https://www.howtogeek.com/702841/how-to-manage-linux-servers-with-the-cockpit-web-interface/)
+- [Running Cockpit](https://cockpit-project.org/running#fedora)
 
 ## Commands
 
