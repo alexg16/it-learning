@@ -25,6 +25,7 @@
 - Record your VM's public IP address: ```curl ipecho.net/plain; echo```
 - [How to Manage Linux Servers with the Cockpit Web Interface](https://www.howtogeek.com/702841/how-to-manage-linux-servers-with-the-cockpit-web-interface/)
 - [Running Cockpit](https://cockpit-project.org/running#fedora)
+- [KaliLinux 2018.2: Install Cockpit for web base system admin](https://www.hiroom2.com/2018/08/16/kalilinux-2018-2-cockpit-en/)
 
 ## Commands
 
