@@ -8,6 +8,7 @@
 - [What is a Package Manager in Linux?](https://itsfoss.com/package-manager/)
 - [Best Linux desktop distributions of 2020](https://www.techrepublic.com/article/linux-desktop-distributions-best-of-2020/)
 - [How to install and use Neofetch on desktop and mobile](https://www.neowin.net/news/how-to-install-and-use-neofetch-on-desktop-and-mobile)
+- [The magic behind configure, make, make install](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install)
 
 ## Administration
 
