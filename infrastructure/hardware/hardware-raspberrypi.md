@@ -30,6 +30,8 @@
 - [How to run Raspberry Pi OS as a VM on ESXi-Arm](https://www.virtuallyghetto.com/2020/10/how-to-run-raspberry-pi-os-as-a-vm-on-esxi-arm.html)
 - [Installing VMware Tools on Raspberry Pi OS for ESXi-Arm](https://www.virtuallyghetto.com/2020/10/installing-vmware-tools-on-raspberry-pi-os-for-esxi-arm.html)
 - [VMware Tools for Ubuntu 20.04 LTS arm64 on ESXi-Arm](https://www.virten.net/2020/10/vmware-tools-for-ubuntu-20-04-lts-arm64-on-esxi-arm)
+- [VMware Tools for CentOS 8 aarch64 on ESXi-Arm](https://www.virten.net/2020/10/vmware-tools-for-centos-8-aarch64-on-esxi-arm/)
+- [How to run Kali Linux on ESXi-Arm](https://www.virtuallyghetto.com/2020/11/how-to-run-kali-linux-on-esxi-arm.html)
 - [vSAN Witness using Raspberry Pi 4 & ESXi-Arm Fling](https://www.virtuallyghetto.com/2020/10/vsan-witness-using-raspberry-pi-4-esxi-arm-fling.html)
 
 ## Videos
