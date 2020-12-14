@@ -10,3 +10,4 @@
 - [Windows 10 Deployment Tools](https://docs.microsoft.com/en-us/windows/deployment/windows-deployment-scenarios-and-tools)
 - [how to generate an SSH key pair in Windows 10 using OpenSSH or PuTTY](https://phoenixnap.com/kb/generate-ssh-key-windows-10)
 - [14 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/14-ways-to-speed-up-windows-10.html)
+- [25 Run Commands in Windows You Should Memorize](https://geekflare.com/windows-run-commands/)
