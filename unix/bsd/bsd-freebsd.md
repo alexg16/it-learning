@@ -3,6 +3,7 @@
 - [How to Install FreeBSD?](https://www.educba.com/install-freebsd/)
 - [FreeBSD 12.1-RELEASE Installation Instructions](https://www.freebsd.org/releases/12.1R/installation.html)
 - [How To Enable SSH On FreeBSD](https://ostechnix.com/how-to-enable-ssh-on-freebsd/)
+- [How to enable sudo on FreeBSD](https://www.osradar.com/enable-sudo-on-freebsd-12)
 
 ## pfSense
 
