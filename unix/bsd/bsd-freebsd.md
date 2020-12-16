@@ -4,6 +4,7 @@
 - [FreeBSD 12.1-RELEASE Installation Instructions](https://www.freebsd.org/releases/12.1R/installation.html)
 - [How To Enable SSH On FreeBSD](https://ostechnix.com/how-to-enable-ssh-on-freebsd/)
 - [How to enable sudo on FreeBSD](https://www.osradar.com/enable-sudo-on-freebsd-12)
+- [FreeBSD Change Hostname without reboot](https://www.cyberciti.biz/faq/howot-freebsd-change-hostname-without-reboot/)
 
 ## pfSense
 
