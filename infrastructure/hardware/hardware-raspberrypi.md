@@ -35,6 +35,7 @@
 - [FreeBSD under VMware ESXi on Arm Fling](https://vincerants.com/freebsd-under-vmware-esxi-on-arm-fling/)
 - [vSAN Witness using Raspberry Pi 4 & ESXi-Arm Fling](https://www.virtuallyghetto.com/2020/10/vsan-witness-using-raspberry-pi-4-esxi-arm-fling.html)
 - [Using ESXi on Arm as a tiny Kubernetes cluster](https://www.elasticsky.de/en/2020/11/using-esxi-on-arm-as-a-tiny-kubernetes-cluster/)
+- [The first experience with k3s (lightweight Kubernetes). Deploy your first app!](https://dev.to/fransafu/the-first-experience-with-k3s-lightweight-kubernetes-deploy-your-first-app-44ea)
 
 ## Videos
 
