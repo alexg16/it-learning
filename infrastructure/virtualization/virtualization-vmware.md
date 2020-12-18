@@ -23,6 +23,7 @@
 - [Uninstalling and manually installing VMware Tools in VMware Fusion (1014522)](https://kb.vmware.com/s/article/1014522)
 - [How to Customize ESXI 6.7 install with Realtek Drivers](https://www.geekdecoder.com/how-to-customize-esxi-install-with-realtek-drivers/)
 - [VMware VM Templates A to Z](https://www.nakivo.com/blog/vm-templates-a-to-z/)
+- [My Home Lab - ESXI/PiHole/PfSense/Docker](https://joshspicer.com/homelab)
 
 ## vCenter
 
