@@ -13,6 +13,9 @@
 - [Twister OS Raspberry Pi 4 – Get That OSX and Windows 10 Look!](https://raspberrypiprojects.com/twister-os-raspberry-pi-4-get-that-osx-and-windows-10-look/amp/)
 - [How to Enable SSH on Raspberry Pi](https://phoenixnap.com/kb/enable-ssh-raspberry-pi)
 - [Raspi-config doesn't start on fresh install with BerryBoot](https://www.raspberrypi.org/forums/viewtopic.php?t=151695)
+- [BerryBoot v2.0 - bootloader / universal operating system installer](https://www.berryterminal.com/doku.php/berryboot)
+- [Storing your files on a Synology NAS (using iSCSI)](https://www.berryterminal.com/doku.php/storing_your_files_on_a_synology_nas_using_iscsi)
+
 
 ## Raspbian
 
