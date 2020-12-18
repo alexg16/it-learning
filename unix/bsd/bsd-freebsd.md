@@ -5,6 +5,8 @@
 - [How To Enable SSH On FreeBSD](https://ostechnix.com/how-to-enable-ssh-on-freebsd/)
 - [How to enable sudo on FreeBSD](https://www.osradar.com/enable-sudo-on-freebsd-12)
 - [FreeBSD Change Hostname without reboot](https://www.cyberciti.biz/faq/howot-freebsd-change-hostname-without-reboot/)
+- [How to install xfce freebsd ?](https://twiserandom.com/freebsd/how-to-install-xfce-freebsd/)
+- [How to install vmware tools freebsd ?](https://twiserandom.com/freebsd/how-to-install-vmware-tools-freebsd/)
 
 ## pfSense
 
