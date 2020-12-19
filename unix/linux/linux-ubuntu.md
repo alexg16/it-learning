@@ -5,6 +5,7 @@
 - [Supported Ubuntu virtual machines on Hyper-V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/supported-ubuntu-virtual-machines-on-hyper-v)
 - [Why doesn't the 'su' command work in Ubuntu but does in other Linux distros?](https://askubuntu.com/questions/825862/why-doesnt-the-su-command-work-in-ubuntu-but-does-in-other-linux-distros/825874)
 - [The 10 Easiest Ways to Keep Ubuntu System Clean](https://www.fossmint.com/keep-ubuntu-system-clean/)
+- [Firefox: Installing Self-Signed certificate on Ubuntu](https://dev.to/lmillucci/firefox-installing-self-signed-certificate-on-ubuntu-4f11)
 
 ## 18.04
 
