@@ -6,3 +6,4 @@
 - [How to Install and Use Yaourt in Arch Linux](https://www.tecmint.com/install-yaourt-in-arch-linux/)
 - [Xrdp - ArchWiki](https://wiki.archlinux.org/index.php/xrdp)
 - [XRDP GNOME Session Fails to Start](https://bbs.archlinux.org/viewtopic.php?id=261174)
+- [How to install Xfce Desktop on Arch Linux](https://ebblr.com/how-to-install-xfce-desktop-on-arch-linux)
