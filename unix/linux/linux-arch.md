@@ -5,3 +5,4 @@
 - [How to install software/packages from AUR (Arch User Repository)](https://www.archlinuxuser.com/2013/01/how-to-install-softwarepackages-from.html)
 - [How to Install and Use Yaourt in Arch Linux](https://www.tecmint.com/install-yaourt-in-arch-linux/)
 - [Xrdp - ArchWiki](https://wiki.archlinux.org/index.php/xrdp)
+- [XRDP GNOME Session Fails to Start](https://bbs.archlinux.org/viewtopic.php?id=261174)
