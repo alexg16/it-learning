@@ -36,6 +36,7 @@
 - [Removing a host from vCenter Server](https://www.oreilly.com/library/view/mastering-vmware-vsphere/9781787286016/cb3a07e1-a99d-4c75-99a2-8383868146ad.xhtml)
 - [How To Install VCSA 7.0 Step By Step](https://vmarena.com/how-to-install-vcsa-7-0-step-by-step)
 - [How to move ESXi/ESX host from one vCenter Server to another](https://kb.vmware.com/s/article/1004775)
+- [Tasks for Managing Host Networking on a vSphere Distributed Switch](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-EBE07B42-104B-441C-9013-73A7E914728B.html#GUID-EBE07B42-104B-441C-9013-73A7E914728B)
 
 ## Storage
 
