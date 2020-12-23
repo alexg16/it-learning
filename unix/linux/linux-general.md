@@ -29,6 +29,7 @@
 - [Running Cockpit](https://cockpit-project.org/running#fedora)
 - [KaliLinux 2018.2: Install Cockpit for web base system admin](https://www.hiroom2.com/2018/08/16/kalilinux-2018-2-cockpit-en/)
 - [5 Steps to Extend a Linux LVM Volume](https://blue42.net/linux/5-steps-linux-lvm-extend-volume-no-reboot/)
+- [How to Create and Use Swap File on Linux](https://itsfoss.com/create-swap-file-linux/)
 
 ## Commands
 
