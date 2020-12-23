@@ -28,6 +28,7 @@
 - [How to Manage Linux Servers with the Cockpit Web Interface](https://www.howtogeek.com/702841/how-to-manage-linux-servers-with-the-cockpit-web-interface/)
 - [Running Cockpit](https://cockpit-project.org/running#fedora)
 - [KaliLinux 2018.2: Install Cockpit for web base system admin](https://www.hiroom2.com/2018/08/16/kalilinux-2018-2-cockpit-en/)
+- [5 Steps to Extend a Linux LVM Volume](https://blue42.net/linux/5-steps-linux-lvm-extend-volume-no-reboot/)
 
 ## Commands
 
