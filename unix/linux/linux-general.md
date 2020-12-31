@@ -10,6 +10,7 @@
 - [How to install and use Neofetch on desktop and mobile](https://www.neowin.net/news/how-to-install-and-use-neofetch-on-desktop-and-mobile)
 - [The magic behind configure, make, make install](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install)
 - [Best Linux Distributions For Everyone in 2020](https://itsfoss.com/best-linux-distributions/)
+- [10 Linux Distributions and Their Targeted Users](https://www.tecmint.com/linux-distro-for-power-users/)
 
 ## Administration
 
