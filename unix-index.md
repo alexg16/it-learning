@@ -9,6 +9,7 @@
 |[CentOS](unix/linux/linux-centos)|[NetBSD](unix/bsd/bsd-netbsd)||
 |[Debian](unix/linux/linux-debian)|[OpenBSD](unix/bsd/bsd-openbsd)||
 |[Fedora](unix/linux/linux-fedora)|||
+|[Gentoo](unix/linux/linux-gentoo)|||
 |[Kali](unix/linux/linux-kali)|||
 |[Photon](unix/linux/linux-photon)|||
 |[RHEL](unix/linux/linux-rhel)|||
