@@ -7,6 +7,7 @@
 - [FreeBSD Change Hostname without reboot](https://www.cyberciti.biz/faq/howot-freebsd-change-hostname-without-reboot/)
 - [How to install xfce freebsd ?](https://twiserandom.com/freebsd/how-to-install-xfce-freebsd/)
 - [How to install vmware tools freebsd ?](https://twiserandom.com/freebsd/how-to-install-vmware-tools-freebsd/)
+- [FreeBSD Install lsof](https://www.cyberciti.biz/faq/freebsd-install-lsof-package/)
 
 ## pfSense
 
