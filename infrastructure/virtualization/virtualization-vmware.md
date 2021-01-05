@@ -51,6 +51,7 @@
 - [Configuring a Synology 1817+ NAS for NFS, ESXi...](https://carlwebster.com/02-building-websters-lab-configuring-a-synology-1817-nas-for-nfs-esxi-6-7-and-xenserver-8-0/)
 - [Synology -Git Server shows no users in permission list](https://community.synology.com/enu/forum/10/post/135039)
 - [Configure Synology NAS as Git Server](https://gist.github.com/walkerjeffd/374750c366605cd5123d)
+- [How to use Synology as a Git Server](https://www.reddit.com/r/synology/comments/eau29t/how_to_use_synology_as_a_git_server_after_the/)
 
 ## Networking
 
