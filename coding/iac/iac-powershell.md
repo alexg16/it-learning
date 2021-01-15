@@ -15,6 +15,7 @@
 - [User Input in PowerShell](https://4sysops.com/archives/user-input-in-powershell-read-host-mandatory-true-outgridview/)
 - Unable to find module providers (PowerShellGet) - HKLM/Current Control Set/Control/Lsa/FipsAlgorithmPolicy - Enabled(0)
 - [Where-Object vs. the Where method: Array filtering in PowerShell](https://4sysops.com/archives/where-object-vs-the-where-method-array-filtering-in-powershell/)
+- [How to Download a File with PowerShell from the Web](https://adamtheautomator.com/powershell-download-file/)
 
 ## Training
 
