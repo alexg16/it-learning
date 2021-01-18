@@ -12,6 +12,7 @@
 |[Fedora](unix/linux/linux-fedora)|||
 |[Gentoo](unix/linux/linux-gentoo)|||
 |[Kali](unix/linux/linux-kali)|||
+|[Mint](unix/linux/linux-mint)|||
 |[Photon](unix/linux/linux-photon)|||
 |[RHEL](unix/linux/linux-rhel)|||
 |[SUSE](unix/linux/linux-suse)|||
