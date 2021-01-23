@@ -11,3 +11,4 @@
 - [Xrdp - ArchWiki](https://wiki.archlinux.org/index.php/xrdp)
 - [XRDP GNOME Session Fails to Start](https://bbs.archlinux.org/viewtopic.php?id=261174)
 - [How to install Xfce Desktop on Arch Linux](https://ebblr.com/how-to-install-xfce-desktop-on-arch-linux)
+- [Install Visual Studio Code Arch Linux](https://linuxhint.com/install_visual_studio_code_arch_linux/)
