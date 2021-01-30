@@ -33,6 +33,7 @@
 - [How to Create and Use Swap File on Linux](https://itsfoss.com/create-swap-file-linux/)
 - [How to Delete a User on Linux (and Remove Every Trace)](https://www.howtogeek.com/656549/how-to-delete-a-user-on-linux-and-remove-every-trace/)
 - [How to install and use vtop graphical terminal activity monitor on Linux](https://www.cyberciti.biz/faq/how-to-install-and-use-vtop-graphical-terminal-activity-monitor-on-linux/)
+- [How To Check If GUI Is Installed In Linux From Commandline](https://ostechnix.com/how-to-check-if-gui-is-installed-in-linux-from-commandline/)
 
 ## Commands
 
