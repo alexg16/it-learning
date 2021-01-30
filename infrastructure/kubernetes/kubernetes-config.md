@@ -22,3 +22,8 @@
 - [Upgrading kubeadm clusters](https://v1-16.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
 - [How to fix Flannel CNI plugin. Error: [plugin flannel does not support config version]](https://stackoverflow.com/questions/58037620/how-to-fix-flannel-cni-plugin-error-plugin-flannel-does-not-support-config-ve)
 - [Ralph's Open Source Blog - From Docker-Swarm to Kubernetes – the Easy Way!](https://ralph.blog.imixs.com/2019/11/17/from-docker-swarm-to-kubernetes-in-the-easy-way/)
+
+## KubeKey
+- [KubeKey: A Lightweight Installer for Kubernetes and Cloud Native Addons](https://kubesphere.io/blogs/install-kubernetes-using-kubekey/)
+- [Scaling a Kubernetes Cluster: One of the Best Practices for Using KubeKey](https://kubesphere.io/blogs/scale-kubernetes-cluster-using-kubekey/)
+- [Adding Master Nodes to Achieve HA: One of the Best Practices for Using KubeKey](https://itnext.io/adding-master-nodes-to-achieve-ha-one-of-the-best-practices-for-using-kubekey-6207e94b0bdd)
