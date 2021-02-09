@@ -8,6 +8,8 @@
 - [How to install xfce freebsd ?](https://twiserandom.com/freebsd/how-to-install-xfce-freebsd/)
 - [How to install vmware tools freebsd ?](https://twiserandom.com/freebsd/how-to-install-vmware-tools-freebsd/)
 - [FreeBSD Install lsof To Displays Information About Files Open to Unix processes](https://www.cyberciti.biz/faq/freebsd-install-lsof-package/)
+- [ThinkPad T480 is my new main laptop which runs FreeBSD](https://genneko.github.io/playing-with-bsd/hardware/freebsd-on-thinkpad-t480/)
+- [FreeBSD on ThinkPad - Video Trouleshooting](https://adminblog.foucry.net/posts/info/freebsd-thinkpad/)
 
 ## pfSense
 
