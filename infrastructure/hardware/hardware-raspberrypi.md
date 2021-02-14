@@ -38,6 +38,7 @@
 - [VMware Tools for openSUSE aarch64 on ESXi-Arm](https://www.virten.net/2020/10/vmware-tools-for-opensuse-aarch64-on-esxi-arm/)
 - [How to run Kali Linux on ESXi-Arm](https://www.virtuallyghetto.com/2020/11/how-to-run-kali-linux-on-esxi-arm.html)
 - [FreeBSD under VMware ESXi on Arm Fling](https://vincerants.com/freebsd-under-vmware-esxi-on-arm-fling/)
+- [open-vm-tools on FreeBSD under VMware ESXi ARM Fling](https://vincerants.com/)
 - [vSAN Witness using Raspberry Pi 4 & ESXi-Arm Fling](https://www.virtuallyghetto.com/2020/10/vsan-witness-using-raspberry-pi-4-esxi-arm-fling.html)
 - [Using ESXi on Arm as a tiny Kubernetes cluster](https://www.elasticsky.de/en/2020/11/using-esxi-on-arm-as-a-tiny-kubernetes-cluster/)
 - [The first experience with k3s (lightweight Kubernetes). Deploy your first app!](https://dev.to/fransafu/the-first-experience-with-k3s-lightweight-kubernetes-deploy-your-first-app-44ea)
