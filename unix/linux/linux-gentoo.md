@@ -5,3 +5,4 @@
 - [Gentoo Cheat Sheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
 - [Gentoo Linux: Update All Installed Packages Command](https://www.cyberciti.biz/faq/gentoo-update-all-installed-packages-command/)
 - [OpenRC to systemd Cheatsheet](https://wiki.gentoo.org/wiki/OpenRC_to_systemd_Cheatsheet)
+- [Installing Gentoo in Hyper-V](https://jsteward.moe/install-gentoo-in-hyper-v.html)
