@@ -11,6 +11,7 @@
 - [The magic behind configure, make, make install](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install)
 - [Best Linux Distributions For Everyone in 2020](https://itsfoss.com/best-linux-distributions/)
 - [10 Linux Distributions and Their Targeted Users](https://www.tecmint.com/linux-distro-for-power-users/)
+- [How to Install Microsoft Edge Browser in Linux](https://www.tecmint.com/install-microsoft-edge-browser-in-linux/)
 
 ## Administration
 
