@@ -2,6 +2,7 @@
 
 - [DNS, BIND, DHCP, LDAP and Directory Services](https://www.bind9.net/)
 - [nip.io - Dead simple wildcard DNS for any IP Address](https://nip.io/)
+- [unbound - Pi-hole as All-Around DNS Solution](https://docs.pi-hole.net/guides/dns/unbound/)
 
 ## DHCP
 
