@@ -9,8 +9,11 @@
 - [Manage data in Docker](https://docs.docker.com/engine/admin/volumes/)
 - [The base command for the Docker CLI](https://docs.docker.com/engine/reference/commandline/docker/)
 - [Easily Host an Awesome Docker Registry at Home](https://medium.com/@lukebenson/easily-host-an-awesome-docker-registry-at-home-694a9c70740f)
+
 """/mnt/registry:/var/lib/registry"""
-- 
+
+- [Deploy a registry server](https://docs.docker.com/registry/deploying/)
+- [How to get a list of images on docker registry v2](https://stackoverflow.com/questions/31251356/how-to-get-a-list-of-images-on-docker-registry-v2)
 
 ### Compose
 
