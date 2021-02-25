@@ -1,3 +1,3 @@
 # it-learning
 
-## Collection of web links to IT learning topics from web
+## Collection of web links to several IT learning topics
