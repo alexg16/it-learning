@@ -11,7 +11,7 @@
 - [The magic behind configure, make, make install](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install)
 - [Best Linux Distributions For Everyone in 2020](https://itsfoss.com/best-linux-distributions/)
 - [10 Linux Distributions and Their Targeted Users](https://www.tecmint.com/linux-distro-for-power-users/)
-- [How to Install Microsoft Edge Browser in Linux](https://www.tecmint.com/install-microsoft-edge-browser-in-linux/)
+-
 
 ## Administration
 
@@ -36,6 +36,7 @@
 - [How to install and use vtop graphical terminal activity monitor on Linux](https://www.cyberciti.biz/faq/how-to-install-and-use-vtop-graphical-terminal-activity-monitor-on-linux/)
 - [How To Check If GUI Is Installed In Linux From Commandline](https://ostechnix.com/how-to-check-if-gui-is-installed-in-linux-from-commandline/)
 - [How to Install Webmin on Ubuntu 20.04 Server](https://www.linuxbabe.com/ubuntu/install-webmin-ubuntu-20-04-server)
+- [How to Install Microsoft Edge Browser in Linux](https://www.tecmint.com/install-microsoft-edge-browser-in-linux/)
 
 ## Commands
 
