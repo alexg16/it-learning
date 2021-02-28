@@ -17,6 +17,7 @@
 - [Create a service which creates an NFS volume](https://docs.docker.com/storage/volumes/#create-a-service-which-creates-an-nfs-volume)
 - [Docker Swarm Persistent Storage with NFS](https://sysadmins.co.za/docker-swarm-persistent-storage-with-nfs/)
 - [Netshare by ContainX](http://netshare.containx.io/docs/getting-started) and [github repository](https://github.com/ContainX/docker-volume-netshare)
+- [Docker Swarm Persistent Storage with NFS](https://sysadmins.co.za/docker-swarm-persistent-storage-with-nfs/)
 
 ### Compose
 
