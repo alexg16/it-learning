@@ -13,3 +13,4 @@
 - [How to install Xfce Desktop on Arch Linux](https://ebblr.com/how-to-install-xfce-desktop-on-arch-linux)
 - [Install Visual Studio Code Arch Linux](https://linuxhint.com/install_visual_studio_code_arch_linux/)
 - [Install and Configure NFS](https://linuxhint.com/install_configure_nfs/)
+- [ArchLinux 2017.10.01: Install nfs-utils for NFS client](https://www.hiroom2.com/2017/10/20/archlinux-20171001-nfs-utils-client-en/)
