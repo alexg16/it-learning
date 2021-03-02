@@ -31,7 +31,7 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 ## Package Management
 
 - [Using apt Commands in Linux [Complete Guide]](https://itsfoss.com/apt-command-guide/)
-
+- [Using PPA in Ubuntu Linux [Complete Guide]](https://itsfoss.com/ppa-guide/)
 - [The 10 Easiest Ways to Keep Ubuntu System Clean](https://www.fossmint.com/keep-ubuntu-system-clean/)
 
 ## 20.04
