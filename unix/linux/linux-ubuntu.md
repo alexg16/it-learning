@@ -6,8 +6,6 @@
 - [Why doesn't the 'su' command work in Ubuntu but does in other Linux distros?](https://askubuntu.com/questions/825862/why-doesnt-the-su-command-work-in-ubuntu-but-does-in-other-linux-distros/825874)
 - [Firefox: Installing Self-Signed certificate on Ubuntu](https://dev.to/lmillucci/firefox-installing-self-signed-certificate-on-ubuntu-4f11)
 
-## 18.04
-
 - [2 Ways to Install Google Chrome on Ubuntu 18.04 LTS Bionic Beaver](https://www.linuxbabe.com/ubuntu/install-google-chrome-ubuntu-18-04-lts)
 a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [How to Configure Static IP Address on Ubuntu 18.04](https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/)
@@ -31,6 +29,8 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [xRDP on Hyper-V - remote vs. enchanced mode](https://c-nergy.be/blog/?p=12429)
 
 ## Package Management
+
+- [Using apt Commands in Linux [Complete Guide]](https://itsfoss.com/apt-command-guide/)
 
 - [The 10 Easiest Ways to Keep Ubuntu System Clean](https://www.fossmint.com/keep-ubuntu-system-clean/)
 
