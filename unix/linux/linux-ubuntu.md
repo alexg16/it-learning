@@ -5,7 +5,6 @@
 - [Supported Ubuntu virtual machines on Hyper-V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/supported-ubuntu-virtual-machines-on-hyper-v)
 - [Why doesn't the 'su' command work in Ubuntu but does in other Linux distros?](https://askubuntu.com/questions/825862/why-doesnt-the-su-command-work-in-ubuntu-but-does-in-other-linux-distros/825874)
 - [Firefox: Installing Self-Signed certificate on Ubuntu](https://dev.to/lmillucci/firefox-installing-self-signed-certificate-on-ubuntu-4f11)
-
 - [2 Ways to Install Google Chrome on Ubuntu 18.04 LTS Bionic Beaver](https://www.linuxbabe.com/ubuntu/install-google-chrome-ubuntu-18-04-lts)
 a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [How to Configure Static IP Address on Ubuntu 18.04](https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/)
