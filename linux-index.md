@@ -17,4 +17,4 @@
 |[RHEL](unix/linux/linux-rhel)|||
 |[SUSE](unix/linux/linux-suse)|||
 |[Tails](unix/linux/linux-tails)|||
-|[Ubuntu](unix/linux/linux-ubuntu)|[18.04](unix/linux/linux-ubuntu#1804)|[20.04](unix/linux/linux-ubuntu#2004)|
+|[Ubuntu](unix/linux/linux-ubuntu)|[Packages](unix/linux/linux-ubuntu#package-management)|[Latest](unix/linux/linux-ubuntu#2004)|
