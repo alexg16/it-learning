@@ -4,7 +4,6 @@
 - [How to edit /etc/fstab when system boots to read only file system?](https://unix.stackexchange.com/questions/185026/how-to-edit-etc-fstab-when-system-boots-to-read-only-file-system)
 - [Supported Ubuntu virtual machines on Hyper-V](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/supported-ubuntu-virtual-machines-on-hyper-v)
 - [Why doesn't the 'su' command work in Ubuntu but does in other Linux distros?](https://askubuntu.com/questions/825862/why-doesnt-the-su-command-work-in-ubuntu-but-does-in-other-linux-distros/825874)
-- [The 10 Easiest Ways to Keep Ubuntu System Clean](https://www.fossmint.com/keep-ubuntu-system-clean/)
 - [Firefox: Installing Self-Signed certificate on Ubuntu](https://dev.to/lmillucci/firefox-installing-self-signed-certificate-on-ubuntu-4f11)
 
 ## 18.04
@@ -30,6 +29,10 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [Installing gparted on Ubuntu 18.04](https://askubuntu.com/questions/1053670/installing-gparted-on-ubuntu-18-04)
 - [Windows 10: A guide how to run Ubuntu 18.04 in Enhanced Mode in Hyper-V](https://www.tenforums.com/virtualization/107147-guide-how-run-ubuntu-18-04-enhanced-mode-hyper-v.html)
 - [xRDP on Hyper-V - remote vs. enchanced mode](https://c-nergy.be/blog/?p=12429)
+
+## Package Management
+
+- [The 10 Easiest Ways to Keep Ubuntu System Clean](https://www.fossmint.com/keep-ubuntu-system-clean/)
 
 ## 20.04
 
