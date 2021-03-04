@@ -9,6 +9,8 @@
 - [What’s new in Kubernetes 1.19?](https://sysdig.com/blog/whats-new-kubernetes-1-19/)
 - [Microsoft - Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
 - [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
+- [Azure Arc enabled Kubernetes is now Generally Available! - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-arc/azure-arc-enabled-kubernetes-is-now-generally-available/ba-p/2174859)
+- [Kubernetes in the House: Enterprise Options for K8s on-Prem](https://thenewstack.io/kubernetes-in-the-house-enterprise-options-for-k8s-on-prem/)
 
 ## Evans Blog
 
