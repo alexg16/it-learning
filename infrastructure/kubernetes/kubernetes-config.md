@@ -21,6 +21,7 @@
 - [scale out RaspberryPi Kubernetes cluster to the cloud](https://blog.nativecloud.dev/scale-out-your-raspberry-pi-k3s-cluster-to-the-cloud/)
 - [Upgrading kubeadm clusters](https://v1-16.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
 - [How to fix Flannel CNI plugin. Error: [plugin flannel does not support config version]](https://stackoverflow.com/questions/58037620/how-to-fix-flannel-cni-plugin-error-plugin-flannel-does-not-support-config-ve)
+- [Docker Swarm vs Kubernetes: how to setup both in two virtual machines](https://www.freecodecamp.org/news/docker-swarm-vs-kubernetes-how-to-setup-both-in-two-virtual-machines-f8897fce7967/)
 - [Ralph's Open Source Blog - From Docker-Swarm to Kubernetes – the Easy Way!](https://ralph.blog.imixs.com/2019/11/17/from-docker-swarm-to-kubernetes-in-the-easy-way/)
 - [Portainer](https://documentation.portainer.io/)
 
