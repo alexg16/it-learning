@@ -40,6 +40,7 @@
 
 ## Commands
 
+- [Ultimate Linux Cheat Sheet](https://dev.to/forcommunity/ultimate-linux-cheat-sheet-4gm5)
 - [10 Basic Linux Command](http://www.linuxandubuntu.com/home/10-basic-linux-commands-that-every-linux-newbies-should-remember)
 - [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
 - [Linux Commands frequently used by Linux Sysadmins – Part 1](https://haydenjames.io/linux-commands-frequently-used-by-linux-sysadmins-part-1/)
