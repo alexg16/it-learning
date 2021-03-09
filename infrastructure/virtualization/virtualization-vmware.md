@@ -38,6 +38,7 @@
 - [How To Install VCSA 7.0 Step By Step](https://vmarena.com/how-to-install-vcsa-7-0-step-by-step)
 - [How to move ESXi/ESX host from one vCenter Server to another](https://kb.vmware.com/s/article/1004775)
 - [Tasks for Managing Host Networking on a vSphere Distributed Switch](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-EBE07B42-104B-441C-9013-73A7E914728B.html#GUID-EBE07B42-104B-441C-9013-73A7E914728B)
+- [VMware vCenter Server Update Failed – Exception Occurred in Install Precheck Phase](https://www.vgarethlewis.com/2020/11/05/vmware-vcenter-server-update-failed-exception-occurred-in-install-precheck-phase/)
 
 ## Storage
 
