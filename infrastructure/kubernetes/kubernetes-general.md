@@ -12,9 +12,6 @@
 - [Azure Arc enabled Kubernetes is now Generally Available! - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-arc/azure-arc-enabled-kubernetes-is-now-generally-available/ba-p/2174859)
 - [Kubernetes in the House: Enterprise Options for K8s on-Prem](https://thenewstack.io/kubernetes-in-the-house-enterprise-options-for-k8s-on-prem/)
 - [debontonline.com - Tech blog](https://www.debontonline.com/p/kubernetes.html)
-
-## Evans Blog
-
 - [Minimum Viable Kubernetes · Emanuel Evans](https://eevans.co/blog/minimum-viable-kubernetes/)
 - [Deconstructing Kubernetes Networking · Emanuel Evans](https://eevans.co/blog/deconstructing-kubernetes-networking/)
 - [The Simplest Multi-Node Kubernetes Cluster](https://eevans.co/blog/kubernetes-multi-node/)
