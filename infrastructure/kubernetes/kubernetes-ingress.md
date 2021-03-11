@@ -5,3 +5,4 @@
 - [Kubernetes Ingress 101: NodePort, Load Balancers, and Ingress Controllers](https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d)
 - [Ralph's Open Source Blog - Kubernetes – Setup Traefik 2.1](https://ralph.blog.imixs.com/2020/02/01/kubernetes-setup-traefik-2-1/)
 - [Kubernetes Ingress for Beginners](https://thenewstack.io/kubernetes-ingress-for-beginners/)
+- [Dissecting the HAProxy Kubernetes Ingress Controller](https://www.haproxy.com/blog/dissecting-the-haproxy-kubernetes-ingress-controller/)
