@@ -26,7 +26,7 @@
 - [Running azure cli on Raspberry Pi using docker containers](http://gtrifonov.com/2018/04/17/runningazureclionpi/)
 - [How to install remmina on Raspberry Pi](https://snapcraft.io/install/remmina/raspbian)
 
-## Graphana
+## Grafana
 
 - [Monitor your Raspberry Pi with Grafana Cloud](https://opensource.com/article/21/3/raspberry-pi-grafana-cloud)
 
