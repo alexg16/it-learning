@@ -24,6 +24,7 @@
 - [Docker Swarm vs Kubernetes: how to setup both in two virtual machines](https://www.freecodecamp.org/news/docker-swarm-vs-kubernetes-how-to-setup-both-in-two-virtual-machines-f8897fce7967/)
 - [Ralph's Open Source Blog - From Docker-Swarm to Kubernetes – the Easy Way!](https://ralph.blog.imixs.com/2019/11/17/from-docker-swarm-to-kubernetes-in-the-easy-way/)
 - [Portainer](https://documentation.portainer.io/)
+- [Introduction to YAML: Creating a Kubernetes deployment](https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment/)
 
 ## KubeKey
 - [KubeKey: A Lightweight Installer for Kubernetes and Cloud Native Addons](https://kubesphere.io/blogs/install-kubernetes-using-kubekey/)
