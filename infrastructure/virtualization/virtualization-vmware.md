@@ -26,6 +26,10 @@
 - [My Home Lab - ESXI/PiHole/PfSense/Docker](https://joshspicer.com/homelab)
 - [vSwitch rescue from the CLI](https://www.elasticsky.de/en/2019/07/vswitch-rescue-from-the-cli/)
 
+## Automation
+
+- [govmomi – Installing and configuring govc-cli for vSphere](https://www.unixarena.com/2019/06/govmomi-installing-and-configuring-govc-cli-for-vsphere.html/)
+
 ## vCenter
 
 - [Installing VMware vCenter Server Appliance 6.5](https://miketabor.com/installing-vmware-vcenter-server-appliance-6-5/)
