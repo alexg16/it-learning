@@ -1,6 +1,7 @@
 # Terraform
 
 - [Infrastructure Automation with Terraform and Azure DevOps Pipeline Templates](https://cloudskills.io/blog/terraform-azure-devops?__s=vqubz5hb9jcpjdkkgpxe)
+- [Terraform Build Infrastructure Tutorial - Azure](https://learn.hashicorp.com/tutorials/terraform/azure-build?in=terraform/azure-get-started)
 
 ## vSphere
 
