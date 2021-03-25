@@ -21,6 +21,7 @@
 - [Protect home network using subnets with pfSense - WITH DIAGRAM](https://netosec.com/protect-home-network/)
 - [pfSense pfBlockerNG configuration guide](https://nguvu.org/pfsense/pfSense-pfblockerng-configuration-guide/)
 - [Installing pfBlockerNG by Protectli](https://protectli.com/kb/how-to-setup-pfblockerng/)
+- [Virtualizing pfSense with Hyper-V](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-hyper-v.html)
 
 ### Videos
 
