@@ -19,3 +19,4 @@
 - [Linux Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/)
 - [Install and configure Remote Desktop to connect to a Linux VM in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop)
 - [Manage administrative users, SSH, and check or repair disks on Linux VMs using the VMAccess Extension with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/vmaccess)
+- [Upload Custom Linux Hyper-V Image for Gen 2 VM in Azure](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/upload-custom-linux-hyper-v-image-for-gen-2-vm-in-azure/ba-p/2143737)
