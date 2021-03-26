@@ -6,3 +6,4 @@
 - [Set up your Python beginner development environment with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/?WT.mc_id=ignite2020_techseries)
 - [Develop web applications with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/develop-web-apps-with-vs-code/?WT.mc_id=ignite2020_techseries)
 - [Visual Studio Code Course – How to Increase Your Productivity in VS Code](https://www.freecodecamp.org/news/learn-visual-studio-code-to-increase-productivity/)
+- [How do I open multiple instances of Visual Studio Code?](https://stackoverflow.com/questions/29964825/how-do-i-open-multiple-instances-of-visual-studio-code)
