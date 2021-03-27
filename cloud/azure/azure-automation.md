@@ -16,6 +16,11 @@
 - [The Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
 - [Install the Azure CLI on Linux](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
 
+## Bicep
+
+- [What is Bicep (Preview)?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-overview)
+
+
 ## Azure REST APIs
 
 - [Azure REST APIs with Postman](https://microsoft.github.io/AzureTipsAndTricks/blog/tip223.html)
