@@ -6,6 +6,7 @@
 
 - [Terraform Build Infrastructure Tutorial - Azure](https://learn.hashicorp.com/tutorials/terraform/azure-build?in=terraform/azure-get-started)
 - [Terraform Provider for Azure (Resource Manager)](https://github.com/terraform-providers/terraform-provider-azurerm)
+- [An Intro to Terraform with Azure, PFSense, and Windows 10](https://fortynorthsecurity.com/blog/an-intro-to-terraform-with-azure-pfsense-and-windows-10/)
 
 ## vSphere
 
