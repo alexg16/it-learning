@@ -21,6 +21,7 @@
 - [What is Bicep (Preview)?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-overview)
 - [Reasons to use Bicep over Terraform](https://www.marcusfelling.com/blog/2021/reasons-to-use-bicep-over-terraform/)
 - [Quickstart: Create Bicep files with Visual Studio Code](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/quickstart-create-bicep-use-visual-studio-code?tabs=CLI)
+- [Comparing JSON and Bicep for templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/compare-template-syntax)
 - [Running bicep in GitHub Actions](https://msftplayground.com/2021/03/running-bicep-in-github-actions/)
 - [Getting Started with Azure Bicep and Github Actions](https://www.miru.ch/get-started-bicep-with-github/)
 
