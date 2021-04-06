@@ -12,6 +12,7 @@
 - [Best Linux Distributions For Everyone in 2020](https://itsfoss.com/best-linux-distributions/)
 - [10 Linux Distributions and Their Targeted Users](https://www.tecmint.com/linux-distro-for-power-users/)
 - [The Best Linux Distributions Without systemd](https://www.howtogeek.com/713847/the-best-linux-distributions-without-systemd/)
+- [LearnLinux.tv LLC](https://www.learnlinux.tv/)
 
 ## Administration
 
