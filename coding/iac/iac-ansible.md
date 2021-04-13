@@ -8,3 +8,6 @@
 
 ## Arch
 - [ArchWiki - Ansible](https://wiki.archlinux.org/index.php/Ansible)
+
+## Suse
+-[Ansible zypper update all packages on OpenSUSE/SUSE](https://www.cyberciti.biz/faq/ansible-zypper-update-all-packages-on-opensuse-suse/)
