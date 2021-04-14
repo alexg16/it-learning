@@ -17,6 +17,8 @@
 - [Create a Ubuntu 18.04 Terraform template for VMware vSphere](https://blog.inkubate.io/create-a-ubuntu-18-04-terraform-template-for-vmware-vsphere/)
 - [Create a CentOS 7 Terraform template for VMware vSphere](https://blog.inkubate.io/create-a-centos-7-terraform-template-for-vmware-vsphere/amp/)
 - [terraform-vsphere-examples](https://github.com/diodonfrost/terraform-vsphere-examples)
+- [vsphere_host](https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/data-sources/host)
+- [Are resource pools intended to be required for virtual machines?](https://github.com/hashicorp/terraform-provider-vsphere/issues/262)
 
 ## Videos
 
