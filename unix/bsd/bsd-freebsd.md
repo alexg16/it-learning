@@ -13,6 +13,9 @@
 - [ThinkPad T480 is my new main laptop which runs FreeBSD](https://genneko.github.io/playing-with-bsd/hardware/freebsd-on-thinkpad-t480/)
 - [FreeBSD on ThinkPad - Video Trouleshooting](https://adminblog.foucry.net/posts/info/freebsd-thinkpad/)
 
+## FreeBSD 13
+- [FreeBSD 13 released: Here is how to upgrade FreeBSD 12 to 13](https://www.cyberciti.biz/open-source/freebsd-13-released-how-to-update-upgrade-freebsd-12-to-13/)
+
 ## pfSense
 
 - [Azure Site-to-Site VPN with PFSense](https://thetechl33t.com/2020/05/18/azure-site-to-site-vpn-with-pfsense/)
