@@ -12,3 +12,6 @@
 
 ## Suse
 -[Ansible zypper update all packages on OpenSUSE/SUSE](https://www.cyberciti.biz/faq/ansible-zypper-update-all-packages-on-opensuse-suse/)
+
+## Windows
+-[A Step-by-Step Guide to Getting Started with Ansible on Windows](https://adamtheautomator.com/ansible-windows/)
