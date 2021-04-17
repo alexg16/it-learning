@@ -9,3 +9,4 @@
 - [Sign up for Azure](https://docs.microsoft.com/en-us/azure/active-directory/sign-up-organization) OR [Get Started with Azure as an organization](https://account.windowsazure.com/organization)
 - [Understand Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/understand-azure-identity-solutions)
 - [How to Fully Remove Microsoft Azure AD Connect](https://interworks.com/blog/mroy/2018/07/25/how-to-fully-remove-microsoft-azure-ad-connect/)
+- [Watch "The Line Between AD and Azure AD!" on YouTube](https://youtu.be/uts0oy8NlUs)
