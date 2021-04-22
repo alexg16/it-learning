@@ -2,6 +2,7 @@
 
 - [Reboot and wait for reboot to complete in Ansible playbook](https://www.jeffgeerling.com/blog/2018/reboot-and-wait-reboot-complete-ansible-playbook)
 - [How I used Ansible to automate updates at home](https://www.redhat.com/sysadmin/ansible-automate-updates-home)
+- [Ansible AD HOC Command Examples – Ansible Cheat Sheet](https://www.middlewareinventory.com/blog/ansible-ad-hoc-commands/)
 
 ## Ubuntu
 - [Ansible playbook to upgrade all Ubuntu 12.04 LTS hosts to 14.04 (or 16.04, 18.04, etc.)](https://www.jeffgeerling.com/blog/2018/ansible-playbook-upgrade-all-ubuntu-1204-lts-hosts-1404-or-1604-1804-etc)
