@@ -24,6 +24,7 @@
 - [Quickstart: Create Bicep files with Visual Studio Code](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/quickstart-create-bicep-use-visual-studio-code?tabs=CLI)
 - [Getting started with Azure Bicep](https://zimmergren.net/getting-started-azure-bicep/)
 - [Bicep Tutorial](https://github.com/Azure/bicep/blob/main/docs/tutorial/01-simple-template.md)
+- [Understand the structure and syntax of Bicep files](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-file)
 - [Modules](https://github.com/Azure/bicep/blob/main/docs/spec/modules.md)
 - [Comparing JSON and Bicep for templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/compare-template-syntax)
 - [Running bicep in GitHub Actions](https://msftplayground.com/2021/03/running-bicep-in-github-actions/)
