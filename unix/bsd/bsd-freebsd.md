@@ -12,6 +12,7 @@
 - [FreeBSD Install lsof To Displays Information About Files Open to Unix processes](https://www.cyberciti.biz/faq/freebsd-install-lsof-package/)
 - [ThinkPad T480 is my new main laptop which runs FreeBSD](https://genneko.github.io/playing-with-bsd/hardware/freebsd-on-thinkpad-t480/)
 - [FreeBSD on ThinkPad - Video Trouleshooting](https://adminblog.foucry.net/posts/info/freebsd-thinkpad/)
+- [Wireless Networking](https://docs.freebsd.org/en_US.ISO8859-1/books/handbook/network-wireless.html)
 
 ## FreeBSD 13
 - [FreeBSD 13 released: Here is how to upgrade FreeBSD 12 to 13](https://www.cyberciti.biz/open-source/freebsd-13-released-how-to-update-upgrade-freebsd-12-to-13/)
