@@ -6,3 +6,17 @@
 - [A Windows Guy in a Linux World - Part III: Midnight Commander](https://adamtheautomator.com/a-windows-guy-in-a-linux-world-midnight-commander/)
 - [A Windows Guy in a Linux World - Part IV: Setting up SSH in Linux](https://adamtheautomator.com/a-windows-guy-in-a-linux-world-setting-up-ssh/)
 - [Zypper-cheat-sheet](https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf)
+- [Short tip: VMware vSphere 6.7 Guest Customization and openSUSE Leap 15.2](https://cstan.io/?p=12416&lang=en):
+```
+I compared two openSUSE and SLE 15 systems and spotted a difference between them regarding the file /etc/issue.
+OpenSUSE lists the following:
+
+  Welcome to \S - Kernel \r (\l).
+
+While under SLE 15 the file has the following content:
+
+  SUSE Linux Enterprise Server 15
+```
+-[CONFIGURE NETWORK INTERFACE IN WICKED](https://tech.linuxman.co/linux/linux-desktop/configure-network-interface-in-wicked/)
+
+
