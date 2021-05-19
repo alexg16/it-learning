@@ -16,6 +16,7 @@
 |[Photon](unix/linux/linux-photon)|||
 |[RHEL](unix/linux/linux-rhel)|||
 |[Slackware](unix/linux/linux-slackware)|||
+|[Solus](unix/linux/linux-solus)|||
 |[SUSE](unix/linux/linux-suse)|||
 |[Tails](unix/linux/linux-tails)|||
 |[Ubuntu](unix/linux/linux-ubuntu)|||
