@@ -15,11 +15,11 @@
 
 ## xrdp on Arch
 
-1. Install  xrdp-git AUR and  xorgxrdp-git AUR  from:
+Install  xrdp-git AUR and  xorgxrdp-git AUR  from:
 - [Xrdp - ArchWiki](https://wiki.archlinux.org/index.php/xrdp)
-2. following
+following
 - [How to install software/packages from AUR (Arch User Repository)](https://www.archlinuxuser.com/2013/01/how-to-install-softwarepackages-from.html)
-3. Edit .xinitrc like so:
+3. Edit .xinitrc like so
 ```
 #  me - comment out below lines
 #twm &
