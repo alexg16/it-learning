@@ -27,6 +27,7 @@
 - [Installing pfBlockerNG by Protectli](https://protectli.com/kb/how-to-setup-pfblockerng/)
 - [Virtualizing pfSense with Hyper-V](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-hyper-v.html)
 - [Downloads of old versions](https://repo.ialab.dsu.edu/pfsense/)
+- [[pfSense] Multiple WAN Connections](https://www.provya.com/blog/pfsense-multiple-wan-connections/)
 
 ### Videos
 
