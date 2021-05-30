@@ -13,3 +13,4 @@
 - [Setting up RDP with Xfce](https://www.kali.org/docs/general-use/xfce-with-rdp/)
 - [How to increase the Kali Linux root partition](http://nixware.net/increase-kali-linux-root-partition)
 - [Sound not working Kali linux 2020.1](https://forums.kali.org/showthread.php?48418-Sound-not-working-Kali-linux-2020-1)
+- [How to enable SSH in Kali Linux. How to connect to Kali Linux via SSH](https://miloserdov.org/?p=3462)
