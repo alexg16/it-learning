@@ -12,3 +12,4 @@
 - [How To Install Visual Studio Code on Kali Linux 2020.x](https://computingforgeeks.com/how-to-install-visual-studio-code-on-kali-linux/)
 - [Setting up RDP with Xfce](https://www.kali.org/docs/general-use/xfce-with-rdp/)
 - [How to increase the Kali Linux root partition](http://nixware.net/increase-kali-linux-root-partition)
+- [Sound not working Kali linux 2020.1](https://forums.kali.org/showthread.php?48418-Sound-not-working-Kali-linux-2020-1)
