@@ -15,3 +15,4 @@
 - [Sound not working Kali linux 2020.1](https://forums.kali.org/showthread.php?48418-Sound-not-working-Kali-linux-2020-1)
 - [How to enable SSH in Kali Linux. How to connect to Kali Linux via SSH](https://miloserdov.org/?p=3462)
 - [Kali Linux VMware – The Complete 2021 Guide](https://vmiss.net/kali-linux-vmware/)
+- [NetHunter Rootless Edition](https://www.kali.org/docs/nethunter/nethunter-rootless/)
