@@ -5,6 +5,8 @@
 - [Pythonstacks](https://www.pythonstacks.com/free-books/category/ethical-hacking)
 - [Best YouTube channels to learn Ethical Hacking 2021](https://www.reddit.com/r/hacking/comments/nq2ajf/best_youtube_channels_to_learn_ethical_hacking/)
 - [OverTheWire](https://overthewire.org/wargames/)
+- [TryHackMe](https://tryhackme.com/)
+- [Hack The Box: Cybersecurity Training](https://www.hackthebox.eu/)
 
 ## Vulnerability
 
