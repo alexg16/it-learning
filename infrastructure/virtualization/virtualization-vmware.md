@@ -25,6 +25,7 @@
 - [VMware VM Templates A to Z](https://www.nakivo.com/blog/vm-templates-a-to-z/)
 - [My Home Lab - ESXI/PiHole/PfSense/Docker](https://joshspicer.com/homelab)
 - [vSwitch rescue from the CLI](https://www.elasticsky.de/en/2019/07/vswitch-rescue-from-the-cli/)
+- [Deploy a Virtual Machine from an OVF or OVA File in the VMware Host Client](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vsphere.html.hostclient.doc/GUID-8ABDB2E1-DDBF-40E3-8ED6-DC857783E3E3.html)
 
 ## Automation
 
