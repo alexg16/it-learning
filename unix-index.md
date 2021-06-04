@@ -19,5 +19,6 @@
 |[Solus](unix/linux/linux-solus)|||
 |[SUSE](unix/linux/linux-suse)|||
 |[Tails](unix/linux/linux-tails)|||
+|[Tiny](unix/linux/linux-tiny)|||
 |[Ubuntu](unix/linux/linux-ubuntu)|||
 
