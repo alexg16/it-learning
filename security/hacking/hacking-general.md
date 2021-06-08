@@ -16,3 +16,4 @@
 
 - [Shodan](https://shodan.io)
 - [VirusTotal](https://www.virustotal.com/)
+- [NIST - NATIONAL VULNERABILITY DATABASE](https://nvd.nist.gov/vuln/search)
