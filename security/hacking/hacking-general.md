@@ -19,6 +19,10 @@
 - [METASPLOIT UNLEASHED](https://www.offensive-security.com/metasploit-unleashed/)
 - [MetasploitCheat Sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
 
+### Tor
+
+- [How to install Tor Browser in Ubuntu Linux](https://linuxconfig.org/how-to-install-tor-browser-in-ubuntu-18-04-bionic-beaver-linux)
+
 ## Vulnerability
 
 - [Shodan](https://shodan.io)
