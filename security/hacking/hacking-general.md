@@ -18,6 +18,7 @@
 
 - [METASPLOIT UNLEASHED](https://www.offensive-security.com/metasploit-unleashed/)
 - [MetasploitCheat Sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
+- [MSFDB - Kali](https://www.kali.org/docs/tools/starting-metasploit-framework-in-kali/)
 
 ### Tor
 
