@@ -19,6 +19,9 @@
 - [METASPLOIT UNLEASHED](https://www.offensive-security.com/metasploit-unleashed/)
 - [MetasploitCheat Sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
 - [MSFDB - Kali](https://www.kali.org/docs/tools/starting-metasploit-framework-in-kali/)
+- [Metasploitable 2 - Blue Star Walkthrough](https://bluestarcyber.com/metasploitable-two-my-walkthrough/)
+- [Metasploitable2 Complete Overview](https://medium.com/@informationseek/metasploitable2-c0d99560145d)
+- [training environment for Metasploitable 2 - linuxhint](https://linuxhint.com/metasploitable_training_environment_virtualbox/)
 
 ### Tor
 
