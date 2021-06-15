@@ -54,6 +54,11 @@
 - [How to Use the ss Command on Linux](https://www.howtogeek.com/681468/how-to-use-the-ss-command-on-linux/)
 - [The Tar Command in Linux: Tar CVF and Tar XVF Explained with Example Commands](https://www.freecodecamp.org/news/tar-command-linux-tar-cvf-tar-xvf/)
 
+## AD Join
+
+- [How to join Fedora Linux Desktop to an Active Directory domain](https://www.techrepublic.com/article/how-to-join-fedora-linux-desktop-to-an-active-directory-domain/)
+- [How to connect Ubuntu Linux Desktop 21.04 to an Active Directory domain](https://www.techrepublic.com/article/how-to-connect-ubuntu-linux-desktop-21-04-to-an-active-directory-domain/)
+
 ## Troubleshooting
 
 - [Xfce4, Debian Sensible Browser, Failure to Execute](https://trisquel.info/en/forum/xfce4-debian-sensible-browser-failure-execute)
