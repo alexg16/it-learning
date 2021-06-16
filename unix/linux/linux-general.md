@@ -58,6 +58,7 @@
 
 - [How to join Fedora Linux Desktop to an Active Directory domain](https://www.techrepublic.com/article/how-to-join-fedora-linux-desktop-to-an-active-directory-domain/)
 - [How to connect Ubuntu Linux Desktop 21.04 to an Active Directory domain](https://www.techrepublic.com/article/how-to-connect-ubuntu-linux-desktop-21-04-to-an-active-directory-domain/)
+- [Add “domain admins” group in sudo users [duplicate]](https://unix.stackexchange.com/questions/495642/add-domain-admins-group-in-sudo-users)
 
 ## Troubleshooting
 
