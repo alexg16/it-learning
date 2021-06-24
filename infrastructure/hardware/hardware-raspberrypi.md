@@ -29,6 +29,7 @@
 ## Grafana
 
 - [Monitor your Raspberry Pi with Grafana Cloud](https://opensource.com/article/21/3/raspberry-pi-grafana-cloud)
+- [Monitor your Internet with a Raspberry Pi](https://www.jeffgeerling.com/blog/2021/monitor-your-internet-raspberry-pi)
 
 ## ESXi
 
