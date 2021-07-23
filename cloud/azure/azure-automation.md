@@ -35,3 +35,7 @@
 
 - [Azure REST APIs with Postman](https://microsoft.github.io/AzureTipsAndTricks/blog/tip223.html)
 - [REST API Browser](https://docs.microsoft.com/en-us/rest/api/)
+
+## Azure Cloud Shell
+
+- [Getting Started with the Azure Cloud Shell](https://adamtheautomator.com/azure-cloud-shell/)
