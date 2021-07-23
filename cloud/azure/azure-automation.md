@@ -30,7 +30,6 @@
 - [Running bicep in GitHub Actions](https://msftplayground.com/2021/03/running-bicep-in-github-actions/)
 - [Getting Started with Azure Bicep and Github Actions](https://www.miru.ch/get-started-bicep-with-github/)
 
-
 ## Azure REST APIs
 
 - [Azure REST APIs with Postman](https://microsoft.github.io/AzureTipsAndTricks/blog/tip223.html)
