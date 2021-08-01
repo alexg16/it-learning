@@ -1,5 +1,6 @@
 # Azure General
 
+- [Global Infrastructure](https://infrastructuremap.microsoft.com/)
 - [Azure Docs](https://docs.microsoft.com/en-us/azure/)
 - [Azure Knowledge Center](https://azure.microsoft.com/en-us/resources/knowledge-center/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
