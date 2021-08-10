@@ -34,7 +34,7 @@
 @media print, screen and (max-width: 7200px){ div.verticalnavbar {padding:0; }
     }
 
-table { background-color: #f4f4f4; table-layout: auto; }
+table { background-color: #f4f4f4; table-layout: fixed; }
 th { background-color: #f4f4f4; }
 tr:nth-child(odd) {
     background-color: #fff;
