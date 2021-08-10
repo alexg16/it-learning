@@ -31,8 +31,8 @@
     ul.verticalnavbar {float: none; position: static; width: auto;}
     }
 
-/*@media print, screen and (max-width: 7200px){ div.verticalnavbar {padding:0;}
-    }*/
+@media print, screen and (max-width: 7200px){ div.verticalnavbar {padding:0;}
+    }
 
 table { background-color: #f4f4f4; table-layout: fixed; }
 th { background-color: #f4f4f4; }
