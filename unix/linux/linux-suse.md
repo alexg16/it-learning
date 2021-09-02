@@ -19,4 +19,6 @@ While under SLE 15 the file has the following content:
 ```
 -[CONFIGURE NETWORK INTERFACE IN WICKED](https://tech.linuxman.co/linux/linux-desktop/configure-network-interface-in-wicked/)
 
+- [How to run openSUSE Leap Linux on Hyper-V](https://www.altaro.com/hyper-v/opensuse-leap-linux-hyper-v/)
+
 
