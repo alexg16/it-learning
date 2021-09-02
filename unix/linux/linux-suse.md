@@ -9,13 +9,11 @@
 - [Short tip: VMware vSphere 6.7 Guest Customization and openSUSE Leap 15.2](https://cstan.io/?p=12416&lang=en):
 
 ```
+
 I compared two openSUSE and SLE 15 systems and spotted a difference between them regarding the file /etc/issue.
 OpenSUSE lists the following:
-
   Welcome to \S - Kernel \r (\l).
-
   While under SLE 15 the file has the following content:
-
   SUSE Linux Enterprise Server 15
 ```
 
