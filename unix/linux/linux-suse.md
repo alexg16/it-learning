@@ -21,3 +21,4 @@
 - [How to run openSUSE Leap Linux on Hyper-V](https://www.altaro.com/hyper-v/opensuse-leap-linux-hyper-v/)
 - [OpenSUSE Leap 15: Connect to KDE desktop environment via XRDP](https://www.hiroom2.com/2018/06/14/opensuse-15-xrdp-kde-en/)
 - [Visual Studio Code](https://en.opensuse.org/Visual_Studio_Code)
+- [Install the Azure CLI with zypper](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=zypper)
