@@ -13,9 +13,10 @@ OpenSUSE lists the following:
 
   Welcome to \S - Kernel \r (\l).
 
-While under SLE 15 the file has the following content:
+  While under SLE 15 the file has the following content:
 
   SUSE Linux Enterprise Server 15
+  
 ```
 -[CONFIGURE NETWORK INTERFACE IN WICKED](https://tech.linuxman.co/linux/linux-desktop/configure-network-interface-in-wicked/)
 
