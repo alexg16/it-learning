@@ -12,6 +12,7 @@
 - [Prepare a Windows VHD to upload to Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-prepare-for-upload-vhd-image?)
 - [Resize a Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/resize-vm)
 - [Deploying IaaS VM Guest Clusters in Microsoft Azure](https://blogs.msdn.microsoft.com/clustering/2017/02/14/deploying-an-iaas-vm-guest-clusters-in-microsoft-azure/)
+- [Use Azure Storage Explorer to manage Azure managed disks](https://docs.microsoft.com/en-us/azure/virtual-machines/disks-use-storage-explorer-managed-disks)
 
 ## Linux in Azure
 
