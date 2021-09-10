@@ -30,6 +30,7 @@
 - [Running bicep in GitHub Actions](https://msftplayground.com/2021/03/running-bicep-in-github-actions/)
 - [Getting Started with Azure Bicep and Github Actions](https://www.miru.ch/get-started-bicep-with-github/)
 - [Reference New Or Existing Resource In Azure Bicep](https://ochzhen.com/blog/reference-new-or-existing-resource-in-azure-bicep)
+- [A Quick Intro to Bicep](https://chriskingdon.com/2021/06/02/a-quick-intro-to-bicep/)
 
 ## Azure REST APIs
 
