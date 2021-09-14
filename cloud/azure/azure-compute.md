@@ -26,3 +26,4 @@
 sudo apt install gnome-session gnome-terminal firefox firefox
 ```
 - [Create an Ubuntu GNOME desktop -Github code](https://azure.microsoft.com/en-us/resources/templates/ubuntu-desktop-gnome/)
+- [Azure Custom Script Extension On Linux VM and VMSS](https://ochzhen.com/blog/azure-custom-script-extension-linux)
