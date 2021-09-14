@@ -22,3 +22,4 @@
 - [Upload a VHD to Azure or copy a managed disk to another region - Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disks-upload-vhd-to-managed-disk-cli) -DOES NOT WORK
 - [Install and configure Remote Desktop to connect to a Linux VM in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop)
 - [How to create a Ubuntu Desktop on Azure](https://blog.hildenco.com/2019/07/creating-ubuntu-desktop-instance-on.html?m=1)
+- [Create an Ubuntu GNOME desktop](https://azure.microsoft.com/en-us/resources/templates/ubuntu-desktop-gnome/)
