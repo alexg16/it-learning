@@ -21,5 +21,8 @@
 - [Upload Custom Linux Hyper-V Image for Gen 2 VM in Azure](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/upload-custom-linux-hyper-v-image-for-gen-2-vm-in-azure/ba-p/2143737)
 - [Upload a VHD to Azure or copy a managed disk to another region - Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disks-upload-vhd-to-managed-disk-cli) -DOES NOT WORK
 - [Install and configure Remote Desktop to connect to a Linux VM in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop)
-- [How to create a Ubuntu Desktop on Azure](https://blog.hildenco.com/2019/07/creating-ubuntu-desktop-instance-on.html?m=1)
-- [Create an Ubuntu GNOME desktop](https://azure.microsoft.com/en-us/resources/templates/ubuntu-desktop-gnome/)
+- [How to create a Ubuntu Desktop on Azure - Gnome - works without prompts:](https://blog.hildenco.com/2019/07/creating-ubuntu-desktop-instance-on.html?m=1)
+```
+sudo apt install gnome-session gnome-terminal firefox firefox
+```
+- [Create an Ubuntu GNOME desktop -Github code](https://azure.microsoft.com/en-us/resources/templates/ubuntu-desktop-gnome/)
