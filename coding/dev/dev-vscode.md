@@ -10,4 +10,6 @@
 - [How do I open multiple instances of Visual Studio Code?](https://stackoverflow.com/questions/29964825/how-do-i-open-multiple-instances-of-visual-studio-code)
 - [Watch "Visual Studio Code Tutorial 🔥 for Beginners" on YouTube](https://youtu.be/-6U3JPWRWHc)
 - [15 Useful VS Code Shortcuts to Boost Your Productivity](https://betterprogramming.pub/15-useful-vscode-shortcuts-to-boost-your-productivity-415de3cb1910)
+- [6 Tips and Tricks Every Developer Should Know in Visual Studio Code](https://dev.to/zahab/6-tips-and-tricks-every-developer-should-know-in-visual-studio-code-48mo)
+- [VS Code Shortcuts every developer should know (Windows)](https://dev.to/mursalfk/vs-code-shortcuts-every-developer-should-know-windows-30g2)
 
