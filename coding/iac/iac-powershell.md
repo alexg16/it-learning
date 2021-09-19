@@ -17,6 +17,11 @@
 - [Where-Object vs. the Where method: Array filtering in PowerShell](https://4sysops.com/archives/where-object-vs-the-where-method-array-filtering-in-powershell/)
 - [How to Download a File with PowerShell from the Web](https://adamtheautomator.com/powershell-download-file/)
 
+## PowerShell 7.x
+
+- [Installing various versions of PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.1)
+- [Watch "PowerShell 7 Overview" on YouTube - John Savill](https://youtu.be/K9EUntTP7jM)
+
 ## Training
 
 - [Best Free PowerShell Training Resources](https://www.businessnewsdaily.com/10760-best-free-powershell-training-resources.html)
