@@ -20,6 +20,7 @@
 ## PowerShell 7.x
 
 - [Installing various versions of PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.1)
+- [Installing PowerShell on Linux](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux)
 - [Watch "PowerShell 7 Overview" on YouTube - John Savill](https://youtu.be/K9EUntTP7jM)
 
 ## Training
