@@ -31,6 +31,7 @@
 - [Getting Started with Azure Bicep and Github Actions](https://www.miru.ch/get-started-bicep-with-github/)
 - [Reference New Or Existing Resource In Azure Bicep](https://ochzhen.com/blog/reference-new-or-existing-resource-in-azure-bicep)
 - [A Quick Intro to Bicep](https://chriskingdon.com/2021/06/02/a-quick-intro-to-bicep/)
+- [Install Bicep tools - including inside PowerShell on Linux](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/install#install-manually)
 
 ## Azure REST APIs
 
