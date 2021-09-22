@@ -10,7 +10,7 @@
 - [The base command for the Docker CLI](https://docs.docker.com/engine/reference/commandline/docker/)
 - [Easily Host an Awesome Docker Registry at Home](https://medium.com/@lukebenson/easily-host-an-awesome-docker-registry-at-home-694a9c70740f)
 
-```/mnt/registry:/var/lib/registry```
+`/mnt/registry:/var/lib/registry`
 
 - [Deploy a registry server](https://docs.docker.com/registry/deploying/)
 - [Test an insecure registry](https://docs.docker.com/registry/insecure/)
@@ -19,7 +19,6 @@
 ```
 https://myregistry:5012/v2/_catalog
 https://myregistry:5012/v2/ubuntu/tags/list
-
 ```
 - [Using a (in)secure registry with Synology Docker](https://lenain.info/using-a-in-secure-registry-with-synology-docker/)
 - [Create a service which creates an NFS volume](https://docs.docker.com/storage/volumes/#create-a-service-which-creates-an-nfs-volume)
