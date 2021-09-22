@@ -19,7 +19,7 @@
 https://myregistry:5012/v2/_catalog
 https://myregistry:5012/v2/ubuntu/tags/list
 ```
-
+- [Using a (in)secure registry with Synology Docker](https://lenain.info/using-a-in-secure-registry-with-synology-docker/)
 - [Create a service which creates an NFS volume](https://docs.docker.com/storage/volumes/#create-a-service-which-creates-an-nfs-volume)
 - [Docker Swarm Persistent Storage with NFS](https://sysadmins.co.za/docker-swarm-persistent-storage-with-nfs/)
 - [Netshare by ContainX](http://netshare.containx.io/docs/getting-started) and [github repository](https://github.com/ContainX/docker-volume-netshare)
