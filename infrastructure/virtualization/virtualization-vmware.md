@@ -55,13 +55,7 @@
 - [How to unmount a LUN or detach a datastore device from ESXi hosts](https://kb.vmware.com/s/article/2004605)
 - [Connect vSphere 6.5 to iSCSI storage NAS](https://www.tech-coffee.net/connect-vsphere-iscsi-storage-nas/)
 - [Back up a vCenter Server Appliance by Using the vCenter Server Appliance Management Interface](https://docs.vmware.com/en/VMware-vSphere/6.5/com.vmware.vsphere.install.doc/GUID-8C9D5260-291C-44EB-A79C-BFFF506F2216.html)
-- [Synology FTP/FTPS](https://www.synology.com/en-global/knowledgebase/DSM/help/DSM/AdminCenter/file_ftp_setting)
 - [Configuring a Synology 1817+ NAS for NFS, ESXi...](https://carlwebster.com/02-building-websters-lab-configuring-a-synology-1817-nas-for-nfs-esxi-6-7-and-xenserver-8-0/)
-- [Synology -Git Server shows no users in permission list](https://community.synology.com/enu/forum/10/post/135039)
-- [Configure Synology NAS as Git Server](https://gist.github.com/walkerjeffd/374750c366605cd5123d)
-- [GIT SERVER ON SYNOLOGY NAS: INSTALLATION AND CONFIGURATIONS](https://blog.netgloo.com/2015/04/20/git-server-on-synology-ds115j-installation-and-configurations/)
-- [What can I do to enhance the security of my Synology NAS?](https://kb.synology.com/en-global/DSM/tutorial/How_to_add_extra_security_to_your_Synology_NAS)
-- [Mounting a Synology NAS Share in Ubuntu 18.04.4 LTS using NFS](https://acceptdefaults.com/2020/03/16/mounting-a-synology-share-in-ubuntu/)
 
 ## Networking
 
