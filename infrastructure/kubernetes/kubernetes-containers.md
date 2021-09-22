@@ -15,7 +15,10 @@
 - [Deploy a registry server](https://docs.docker.com/registry/deploying/)
 - [How to get a list of images on docker registry v2](https://stackoverflow.com/questions/31251356/how-to-get-a-list-of-images-on-docker-registry-v2)
 
-```https://myregistry:5012/v2/_catalog```
+```
+https://myregistry:5012/v2/_catalog
+https://myregistry:5012/v2/ubuntu/tags/list
+```
 
 - [Create a service which creates an NFS volume](https://docs.docker.com/storage/volumes/#create-a-service-which-creates-an-nfs-volume)
 - [Docker Swarm Persistent Storage with NFS](https://sysadmins.co.za/docker-swarm-persistent-storage-with-nfs/)
