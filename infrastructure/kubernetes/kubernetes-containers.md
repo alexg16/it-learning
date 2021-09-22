@@ -13,6 +13,7 @@
 ```/mnt/registry:/var/lib/registry```
 
 - [Deploy a registry server](https://docs.docker.com/registry/deploying/)
+- [Test an insecure registry](https://docs.docker.com/registry/insecure/)
 - [How to get a list of images on docker registry v2](https://stackoverflow.com/questions/31251356/how-to-get-a-list-of-images-on-docker-registry-v2)
 
 ```
