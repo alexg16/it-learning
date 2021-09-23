@@ -9,3 +9,7 @@
 
 - [How to fix Remote Desktop Connection Manager 2.7 full screen issue](http://andyinmatrix.blogspot.com/2015/07/how-to-fix-remote-desktop-connection_25.html)
 - [Windows 10 RDP CredSSP Encryption Oracle Remediation Error Fix](https://www.virtualizationhowto.com/2018/05/windows-10-rdp-credssp-encryption-oracle-remediation-error-fix/)
+
+## Windows Updates
+
+- [Getting Started with PowerShell and the PSWindowsUpdate Module](https://adamtheautomator.com/pswindowsupdate/)
