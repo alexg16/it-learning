@@ -29,7 +29,7 @@ https://myregistry:5012/v2/ubuntu/tags/list
 ### Build
 
 - [Using Makefiles to build and publish (docker) containers](https://dev.to/flpslv/using-makefiles-to-build-and-publish-docker-containers-7c8)
-
+- [Using Azure PowerShell in Docker](https://docs.microsoft.com/en-us/powershell/azure/azureps-in-docker?view=azps-6.4.0)
 
 ### Compose
 
