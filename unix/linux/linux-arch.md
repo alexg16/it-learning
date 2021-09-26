@@ -42,4 +42,4 @@ exec dbus-launch xfce4-session
 
 ## Docker
 
-- [Docker](https://wiki.archlinux.org/title/docker)
+- [How to Install and Use Docker on Arch Linux](https://www.linuxtechi.com/install-use-docker-on-arch-linux/)
