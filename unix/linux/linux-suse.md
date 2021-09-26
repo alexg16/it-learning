@@ -23,3 +23,7 @@
 - [Visual Studio Code](https://en.opensuse.org/Visual_Studio_Code)
 - [Install the Azure CLI with zypper](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=zypper)
 - [How to Upgrade openSUSE Leap from 15.2 to 15.3](https://www.2daygeek.com/upgrade-opensuse-from-15-2-to-15-3/)
+
+## Docker
+
+- [Install Docker Engine on SLES](https://docs.docker.com/engine/install/sles/)
