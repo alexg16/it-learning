@@ -25,6 +25,11 @@ https://myregistry:5012/v2/ubuntu/tags/list
 - [Docker Swarm Persistent Storage with NFS](https://sysadmins.co.za/docker-swarm-persistent-storage-with-nfs/)
 - [Netshare by ContainX](http://netshare.containx.io/docs/getting-started) and [github repository](https://github.com/ContainX/docker-volume-netshare)
 - [How To Mount An NFS Share Into A Container](https://anto.online/guides/how-to-mount-an-nfs-share-into-a-container/)
+```
+docker volume create --name [name] --opt type=nfs --opt device=:/volume1/[name] --opt o=addr=nasserver.domain.com
+docker run -it --rm --name=[containername] --mount source=[name],destination=/test ubuntu
+```
+
 
 ### Build
 
