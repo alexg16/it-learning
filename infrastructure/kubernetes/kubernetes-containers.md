@@ -61,6 +61,9 @@ sudo gpasswd -a $USER docker
 ```
 newgrp docker
 ```
+### Powershell Containers
+
+- [PowerShell by Microsoft](https://hub.docker.com/_/microsoft-powershell)
 
 ## Windows
 
