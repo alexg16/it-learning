@@ -37,8 +37,6 @@ docker run -it --rm --name=[containername] --mount source=[name],destination=/te
 ### Build
 
 - [Using Makefiles to build and publish (docker) containers](https://dev.to/flpslv/using-makefiles-to-build-and-publish-docker-containers-7c8)
-- [Using Azure PowerShell in Docker](https://docs.microsoft.com/en-us/powershell/azure/azureps-in-docker?view=azps-6.4.0)
-- [
 
 ### Compose
 
@@ -64,6 +62,7 @@ newgrp docker
 ```
 ### Powershell Containers
 
+- [Using Azure PowerShell in Docker](https://docs.microsoft.com/en-us/powershell/azure/azureps-in-docker?view=azps-6.4.0)
 - [PowerShell by Microsoft](https://hub.docker.com/_/microsoft-powershell)
 - [Run Azure PowerShell in a Docker Container](https://www.thomasmaurer.ch/2020/03/run-azure-powershell-in-a-docker-container/)
 - [Azure-PowerShell by Microsoft](https://hub.docker.com/_/microsoft-azure-powershell)
