@@ -64,6 +64,7 @@ newgrp docker
 ### Powershell Containers
 
 - [PowerShell by Microsoft](https://hub.docker.com/_/microsoft-powershell)
+- [Run Azure PowerShell in a Docker Container](https://www.thomasmaurer.ch/2020/03/run-azure-powershell-in-a-docker-container/)
 
 ## Windows
 
