@@ -26,4 +26,4 @@
 
 ## Docker
 
-- [Install Docker Engine on SLES](https://docs.docker.com/engine/install/sles/)
+- [How to install Docker on OpenSUSE 15.2 / 15.1?](https://www.osradar.com/install-docker-opensuse-15-2-15-1/)

@@ -13,5 +13,10 @@
 - [6 Tips and Tricks Every Developer Should Know in Visual Studio Code](https://dev.to/zahab/6-tips-and-tricks-every-developer-should-know-in-visual-studio-code-48mo)
 - [VS Code Shortcuts every developer should know (Windows)](https://dev.to/mursalfk/vs-code-shortcuts-every-developer-should-know-windows-30g2)
 - [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers#_getting-started)
+- [devcontainer.json reference](https://code.visualstudio.com/docs/remote/devcontainerjson-reference)
+- [Docker -Use volumes](https://docs.docker.com/storage/volumes/)
+```
+--mount 'type=volume,src=<VOLUME-NAME>,dst=<CONTAINER-PATH>,volume-driver=local,volume-opt=type=nfs,volume-opt=device=<nfs-server>:<nfs-path>,"volume-opt=o=addr=<nfs-address>
+```
 - [VS Code Remote Development Container Images](https://hub.docker.com/_/microsoft-vscode-devcontainers)
 
