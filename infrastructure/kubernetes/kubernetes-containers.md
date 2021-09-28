@@ -40,6 +40,7 @@ docker run -it --rm --name=[containername] --mount source=[name],destination=/te
 
 ### Compose
 
+- [Install Compose](https://docs.docker.com/compose/install/)
 - [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/)
 
 ## Portainer
