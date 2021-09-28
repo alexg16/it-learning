@@ -42,6 +42,10 @@ docker run -it --rm --name=[containername] --mount source=[name],destination=/te
 
 - [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/)
 
+## Portainer
+
+- [Set up a new Portainer Server installation](https://docs.portainer.io/v/be-2.7/start/install/server)
+
 ## Linux
 
 - Install Docker on Linux:
