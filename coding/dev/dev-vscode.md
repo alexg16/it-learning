@@ -20,4 +20,5 @@
 --mount 'type=volume,src=<VOLUME-NAME>,dst=<CONTAINER-PATH>,volume-driver=local,volume-opt=type=nfs,volume-opt=device=<nfs-server>:<nfs-path>,"volume-opt=o=addr=<nfs-address>
 ```
 - [VS Code Remote Development Container Images](https://hub.docker.com/_/microsoft-vscode-devcontainers)
+- [VS Code in the browser for everyone](https://www.gitpod.io/blog/openvscode-server-launch)
 
