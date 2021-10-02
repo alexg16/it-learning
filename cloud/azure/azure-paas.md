@@ -6,6 +6,7 @@
 
 ## App Service
 
+- [Quickstart: Create App Service app using an ARM template](https://docs.microsoft.com/en-us/azure/app-service/quickstart-arm-template?pivots=platform-linux)
 - [Configure a custom container for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/configure-custom-container?pivots=container-linux)
 - [Zero to Hero guide to get started with App Service](https://azure.github.io/AppService/zero-to-hero/)
 - [Quickstart: Intro to Bicep with Web App and DB](https://azure.github.io/AppService/2021/07/23/Quickstart-Intro-to-Bicep-with-Web-App-plus-DB.html)
