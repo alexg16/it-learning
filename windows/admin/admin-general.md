@@ -13,3 +13,7 @@
 ## Windows Updates
 
 - [Getting Started with PowerShell and the PSWindowsUpdate Module](https://adamtheautomator.com/pswindowsupdate/)
+
+## Winget
+
+- [How to Download, Install, and Use the Windows Package Manager (Winget)](https://www.makeuseof.com/how-to-download-install-and-use-the-windows-package-manager-winget/)
