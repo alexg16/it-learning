@@ -67,3 +67,4 @@
 ## Tanzu
 
 - [Install Tanzu Community Edition](https://tanzucommunityedition.io/docs/latest/cli-installation/)
+- [Watch "vSphere Tanzu Community Edition - First look & deploy" on YouTube](https://youtu.be/qKRdQ1fG95c)
