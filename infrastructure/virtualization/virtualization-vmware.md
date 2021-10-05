@@ -63,3 +63,7 @@
 - [vSphere ESXi Networking Guide – Part 2: Standard Switches Configuration ESXi 6.7](https://fastreroute.com/standard-switches-configuration-esxi-6-7/)
 - [vSphere ESXi Networking Guide – Part 3: Standard Switches Configuration ESXi 6.7](https://fastreroute.com/standard-switches-configuration-esxi-6-7-part-2/)
 - [Migrate Network Adapters on a Host to a vSphere Distributed Switch](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-6D72CD38-DAFD-4268-A676-01C77D23D2E7.html)
+
+## Tanzu
+
+- [Install Tanzu Community Edition](https://tanzucommunityedition.io/docs/latest/cli-installation/)
