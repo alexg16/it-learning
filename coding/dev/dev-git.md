@@ -17,3 +17,9 @@ this will create a local branch of the same name as the remote branch and check 
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Adding an existing project to GitHub using the command line](https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
 - [Adding a new SSH key to your GitHub account](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
+
+## GitHub Actions
+
+- [Use GitHub Actions to connect to Azure](https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure)
+- [GitHub Action to fetch secrets from Azure Key Vault](https://github.com/marketplace/actions/azure-key-vault-get-secrets)
+- [Deploying Azure resources with GitHub Actions and Powershell](https://codeburst.io/deploying-azure-resources-with-github-actions-and-powershell-f51d04de8a9f)
