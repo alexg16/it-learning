@@ -33,7 +33,8 @@ docker volume create --name [name] --opt type=nfs --opt device=:/volume1/[name] 
 docker run -it --rm --name=[containername] --mount source=[name],destination=/test ubuntu
 ```
 
--[How to Run GUI Applications in a Docker Container](https://www.cloudsavvyit.com/10520/how-to-run-gui-applications-in-a-docker-container/)
+- [How to Run GUI Applications in a Docker Container](https://www.cloudsavvyit.com/10520/how-to-run-gui-applications-in-a-docker-container/)
+- [7 Docker Anti-Patterns You Need to Avoid](https://www.cloudsavvyit.com/14343/7-docker-anti-patterns-you-need-to-avoid/)
 
 ### Build
 
