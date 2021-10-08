@@ -16,6 +16,7 @@
 ## xrdp on Arch
 
 1) Install  xrdp-git AUR and  xorgxrdp-git AUR  from:
+
 - [Xrdp - ArchWiki](https://wiki.archlinux.org/index.php/xrdp)
 
   following:
@@ -24,7 +25,7 @@
 
 2) Edit .xinitrc like so:
 
-```
+```bash
 #  me - comment out below lines
 #twm &
 #xclock -geometry 50x50-1+1 &
@@ -35,7 +36,9 @@
 # me - start xfce:
 exec dbus-launch xfce4-session
 ```
+
   this was taken from below:
+
 - [XRDP GNOME Session Fails to Start](https://bbs.archlinux.org/viewtopic.php?id=261174)
 
 3) Select Xvnc instead of Xorg in RDP session login

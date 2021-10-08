@@ -32,11 +32,10 @@
 - [Reference New Or Existing Resource In Azure Bicep](https://ochzhen.com/blog/reference-new-or-existing-resource-in-azure-bicep)
 - [A Quick Intro to Bicep](https://chriskingdon.com/2021/06/02/a-quick-intro-to-bicep/)
 - [Install Bicep tools - including inside PowerShell on Linux](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/install#install-manually)
-- [ takekazuomi /devcontainer-bicep ](https://github.com/takekazuomi/devcontainer-bicep)
+- [takekazuomi /devcontainer-bicep](https://github.com/takekazuomi/devcontainer-bicep)
 - [Microsoft vscode-dev-containers/containers/azure-bicep/](https://github.com/microsoft/vscode-dev-containers/tree/main/containers/azure-bicep)
 - [Create Private AKS Cluster using Bicep](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/create-private-aks-cluster-using-bicep/ba-p/2499201)
 - [Create an AKS Cluster with Azure Bicep](https://trstringer.com/create-aks-bicep/)
-
 
 ## Azure REST APIs
 

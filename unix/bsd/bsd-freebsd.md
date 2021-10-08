@@ -15,6 +15,7 @@
 - [Wireless Networking from Handbook](https://docs.freebsd.org/en_US.ISO8859-1/books/handbook/network-wireless.html)
 
 ## FreeBSD 13
+
 - [FreeBSD 13 released: Here is how to upgrade FreeBSD 12 to 13](https://www.cyberciti.biz/open-source/freebsd-13-released-how-to-update-upgrade-freebsd-12-to-13/)
 
 ## pfSense

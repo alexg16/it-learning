@@ -4,7 +4,8 @@
 - [Git For Windows Installation Screenshots](http://robertovormittag.net/ebooks/git-and-github/git-for-windows-installation-screenshots/)
 - [Using Git with PowerShell](https://www.develves.net/blogs/asd/articles/using-git-with-powershell-on-windows-10/)
 - [git add remote branch](https://stackoverflow.com/questions/11266478/git-add-remote-branch)
-```
+
+```bash
 git fetch origin
 git checkout some-branch
 this will create a local branch of the same name as the remote branch and check it out.

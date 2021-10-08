@@ -22,8 +22,10 @@
 - [Upload a VHD to Azure or copy a managed disk to another region - Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disks-upload-vhd-to-managed-disk-cli) -DOES NOT WORK
 - [Install and configure Remote Desktop to connect to a Linux VM in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop)
 - [How to create a Ubuntu Desktop on Azure - Gnome - works without prompts:](https://blog.hildenco.com/2019/07/creating-ubuntu-desktop-instance-on.html?m=1)
-```
+
+```bash
 sudo apt install -y gnome-session gnome-terminal xrdp firefox
 ```
+
 - [Create an Ubuntu GNOME desktop -Github code](https://azure.microsoft.com/en-us/resources/templates/ubuntu-desktop-gnome/)
 - [Azure Custom Script Extension On Linux VM and VMSS](https://ochzhen.com/blog/azure-custom-script-extension-linux)

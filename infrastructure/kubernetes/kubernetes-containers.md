@@ -16,21 +16,22 @@
 - [Test an insecure registry](https://docs.docker.com/registry/insecure/)
 - [How to get a list of images on docker registry v2](https://stackoverflow.com/questions/31251356/how-to-get-a-list-of-images-on-docker-registry-v2)
 
-```
+```http
 https://myregistry:5012/v2/_catalog
 https://myregistry:5012/v2/ubuntu/tags/list
 ```
+
 - [Using a (in)secure registry with Synology Docker](https://lenain.info/using-a-in-secure-registry-with-synology-docker/)
 - [Create a service which creates an NFS volume](https://docs.docker.com/storage/volumes/#create-a-service-which-creates-an-nfs-volume)
 - [Docker Swarm Persistent Storage with NFS](https://sysadmins.co.za/docker-swarm-persistent-storage-with-nfs/)
 - [Netshare by ContainX](http://netshare.containx.io/docs/getting-started) and [github repository](https://github.com/ContainX/docker-volume-netshare)
 - [How To Mount An NFS Share Into A Container](https://anto.online/guides/how-to-mount-an-nfs-share-into-a-container/)
 - [Docker volumes: how to create and get started](https://phoenixnap.com/kb/docker-volumes)
-```
+
+```bash
 docker volume create --name [name] --opt type=nfs --opt device=:/volume1/[name] --opt o=addr=nasserver.domain.com
 docker run -it --rm --name=[containername] --mount source=[name],destination=/test ubuntu
 ```
-
 
 -[How to Run GUI Applications in a Docker Container](https://www.cloudsavvyit.com/10520/how-to-run-gui-applications-in-a-docker-container/)
 
@@ -51,20 +52,23 @@ docker run -it --rm --name=[containername] --mount source=[name],destination=/te
 
 - Install Docker on Linux:
 
-```
+```bash
 apt-get update
 wget -qO- https://get.docker.com | sh
 ```
 
 - Add loggedin user to docker group:
 
-```
+```bash
 sudo gpasswd -a $USER docker
 ```
+
   re-login with new group membership:
-```
+
+```bash
 newgrp docker
 ```
+
 ### Powershell Containers
 
 - [Using Azure PowerShell in Docker](https://docs.microsoft.com/en-us/powershell/azure/azureps-in-docker?view=azps-6.4.0)
