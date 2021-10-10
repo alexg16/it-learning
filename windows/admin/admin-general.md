@@ -17,3 +17,7 @@
 ## Winget
 
 - [How to Download, Install, and Use the Windows Package Manager (Winget)](https://www.makeuseof.com/how-to-download-install-and-use-the-windows-package-manager-winget/)
+
+## SSH
+
+- [OpenSSH in Windows](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_overview)
