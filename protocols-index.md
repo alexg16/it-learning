@@ -4,4 +4,4 @@
 |---|---|---|
 |[DNS](networking/protocols/protocols-dns)|[DHCP](networking/protocols/protocols-dns#dhcp)||
 |[TCP/IP](networking/protocols/protocols-tcpip)|||
-|[Switches](networking/protocols/protocols-switches)|[TP-Link](networking/protocols/protocols-switches#tp-link)||
+|[SSH](networking/protocols/protocols-ssh)|||
