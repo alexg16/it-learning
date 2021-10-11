@@ -9,4 +9,3 @@
 |[Switches](infrastructure/hardware/hardware-switches)|[Helm](infrastructure/kubernetes/kubernetes-helm)||
 ||[Ingress](infrastructure/kubernetes/kubernetes-ingress)|[Vagrant](infrastructure/virtualization/virtualization-vagrant)|
 ||[Networking](infrastructure/kubernetes/kubernetes-networking)|
-
