@@ -46,6 +46,7 @@
 - [Tasks for Managing Host Networking on a vSphere Distributed Switch](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.networking.doc/GUID-EBE07B42-104B-441C-9013-73A7E914728B.html#GUID-EBE07B42-104B-441C-9013-73A7E914728B)
 - [VMware vCenter Server Update Failed – Exception Occurred in Install Precheck Phase](https://www.vgarethlewis.com/2020/11/05/vmware-vcenter-server-update-failed-exception-occurred-in-install-precheck-phase/)
 - [vSphere Cluster Services (vCLS) in vSphere 7.0 Update 1 (80472)](https://kb.vmware.com/s/article/80472)
+- [How to Restore vCenter Server 7.0 VCSA](https://xpertstec.com/how-to-restore-vcenter-server-7-vcsa/)
 
 ## Storage
 
