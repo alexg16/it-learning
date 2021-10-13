@@ -5,6 +5,7 @@
 - [Generate Wildcard SSL certificate using Let’s Encrypt/Certbot](https://medium.com/@saurabh6790/generate-wildcard-ssl-certificate-using-lets-encrypt-certbot-273e432794d7)
 - [DNS-01 challenge: wildcard TLS certificates on Kubernetes](https://medium.com/linkbynet/dns-01-challenge-wildcard-tls-certificates-on-kubernetes-d2e7e3367328)
 - [Let's Encrypt - Challenge Types](https://letsencrypt.org/docs/challenge-types/)
+- [Let's Encrypt Certificates in Azure with ACMEBot](https://samcogan.com/lets-encrypt-certificates-in-azure-with-acmebotot/)
 
 ## PGP
 
