@@ -11,4 +11,4 @@
 |[Networking](cloud/azure/azure-networking)|||
 |[PaaS](cloud/azure/azure-paas)|[AKS](cloud/azure/azure-paas#aks)||
 |[SaaS](cloud/azure/azure-saas)|[365](cloud/azure/azure-saas#microsoft-365-and-office-365)|[EMS](cloud/azure/azure-saas#enterprise-mobility-security)|
-|[Storage](cloud/azure/azure-storage)|[Static website hosting in Azure Storage](cloud/azure/azure-storage#static-website-hosting-in-azure-storage)||
+|[Storage](cloud/azure/azure-storage)|[Static website](cloud/azure/azure-storage#static-website-hosting-in-azure-storage)||
