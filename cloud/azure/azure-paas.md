@@ -17,4 +17,5 @@
 - [Develop production-scale modern web apps quickly with Azure Static Web Apps](https://azure.microsoft.com/en-us/blog/develop-production-scale-modern-web-apps-quickly-with-azure-static-web-apps/)
 - [Watch "Free Website Hosting with Microsoft Azure Static …" on YouTube](https://youtu.be/8SjErjeCdu0)
 - [Microsoft.Web staticSites](https://docs.microsoft.com/en-us/azure/templates/microsoft.web/staticsites?tabs=bicep)
+- [Tutorial: Publish Azure Static Web Apps using an ARM Template](https://docs.microsoft.com/en-us/azure/static-web-apps/publish-azure-resource-manager?tabs=azure-cli)
 - [Use Bicep and Azure Static Site for your Blog Deployment](https://xaviergeerinck.com/post/infrastructure/biceps/switching-blog-cicd-to-biceps)
