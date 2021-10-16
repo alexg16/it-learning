@@ -19,3 +19,4 @@
 - [Microsoft.Web staticSites](https://docs.microsoft.com/en-us/azure/templates/microsoft.web/staticsites?tabs=bicep)
 - [Tutorial: Publish Azure Static Web Apps using an ARM Template](https://docs.microsoft.com/en-us/azure/static-web-apps/publish-azure-resource-manager?tabs=azure-cli)
 - [Use Bicep and Azure Static Site for your Blog Deployment](https://xaviergeerinck.com/post/infrastructure/biceps/switching-blog-cicd-to-biceps)
+- [Deploy static-rendered Next.js websites on Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/deploy-nextjs)
