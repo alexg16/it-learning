@@ -11,4 +11,5 @@
 |[Networking](cloud/azure/azure-networking)|||
 |[PaaS](cloud/azure/azure-paas)|||
 |[SaaS](cloud/azure/azure-saas)||[SaaS](cloud/google/google-saas)|
+|[Security](cloud/azure/azure-security)|||
 |[Storage](cloud/azure/azure-storage)|||
