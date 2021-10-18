@@ -12,6 +12,10 @@
 
 - [Adding Google Analytics and Google AdSense to a Jekyll Website](http://www.lewisgavin.co.uk/Google-Analytics-Adsense)
 
+## Graphics
+
+- [How to Make a Logo in Paint 3D on Windows](https://www.guidingtech.com/make-logo-paint-3d-windows/)
+
 ## Markdown
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
