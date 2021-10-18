@@ -25,4 +25,4 @@
 
 ## Sysinternals
 
-- [Sysinternals Forums](https://forum.sysinternals.com)
+- [Windows Sysinternals on Q&A](https://docs.microsoft.com/en-us/answers/products/sysinternals)
