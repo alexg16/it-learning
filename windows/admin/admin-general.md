@@ -25,5 +25,6 @@
 
 ## Sysinternals
 
+- [Sysinternals - Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/)
 - [Windows Sysinternals on Q&A](https://docs.microsoft.com/en-us/answers/products/sysinternals)
 - [Install SysInternals with Windows Package Manager](https://www.techielass.com/install-sysinternals-with-windows-package-manager/)
