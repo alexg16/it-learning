@@ -3,6 +3,7 @@
 ## Troubleshooting
 
 - [How to read Memory Dump files in Windows 10](https://thegeekpage.com/how-to-read-memory-dump-files-in-windows-10/)
+- [How to check your Windows 10 PC for memory problems](https://www.windowscentral.com/how-check-your-pc-memory-problems-windows-10)
 
 ### Window 10 with HDD - High  Disk Utilization
 
