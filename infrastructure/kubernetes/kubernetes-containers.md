@@ -35,6 +35,7 @@ docker run -it --rm --name=[containername] --mount source=[name],destination=/te
 
 - [How to Run GUI Applications in a Docker Container](https://www.cloudsavvyit.com/10520/how-to-run-gui-applications-in-a-docker-container/)
 - [7 Docker Anti-Patterns You Need to Avoid](https://www.cloudsavvyit.com/14343/7-docker-anti-patterns-you-need-to-avoid/)
+- [How to Assign a Static IP to a Docker Container](https://www.cloudsavvyit.com/14508/how-to-assign-a-static-ip-to-a-docker-container/)
 
 ### Build
 
