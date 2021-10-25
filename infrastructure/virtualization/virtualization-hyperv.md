@@ -30,3 +30,4 @@ remote access from any location, run the following command:
 ## Storage
 
 - [How to use iSCSI Targets on a Windows Server](https://kb.synology.com/en-global/DSM/tutorial/How_to_use_iSCSI_Targets_on_a_Windows_Server)
+- [How to Use iSCSI Targets on Windows Computers with Multipath I/O](https://kb.synology.com/en-global/DSM/tutorial/How_to_Use_iSCSI_Targets_on_Windows_Computers_with_Multipath_I_O)
