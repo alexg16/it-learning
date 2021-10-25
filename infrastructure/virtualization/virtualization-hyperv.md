@@ -1,4 +1,4 @@
-# Hyper-V 
+# Hyper-V
 
 - [Creating a Hyper-V Template](http://www.agileit.com/news/creating-a-hyper-v-template/)
 - [Clone a Ubuntu server in Hyper-V](https://4sysops.com/archives/clone-a-ubuntu-server-in-hyper-v-2012-r2/)
@@ -26,3 +26,7 @@ remote access from any location, run the following command:
 - [Windows 10 1709 Hyper-V Networking Enhancement](https://blogs.technet.microsoft.com/nextnextfinish/2018/02/02/windows-10-1709-hyper-v-networking-enhancement/)
 - [Run Hyper-V and VirtualBox on the same machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/)
 - [Create NAT Rules for the Hyper-V NAT Virtual Switch](https://petri.com/create-nat-rules-hyper-v-nat-virtual-switch)
+
+## Storage
+
+- [How to use iSCSI Targets on a Windows Server](https://kb.synology.com/en-global/DSM/tutorial/How_to_use_iSCSI_Targets_on_a_Windows_Server)
