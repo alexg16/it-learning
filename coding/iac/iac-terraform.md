@@ -20,6 +20,10 @@
 - [vsphere_host](https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/data-sources/host)
 - [Are resource pools intended to be required for virtual machines?](https://github.com/hashicorp/terraform-provider-vsphere/issues/262)
 
+## Hyper-V
+
+- [taliesins/terraform-provider-hyperv](https://github.com/taliesins/terraform-provider-hyperv)
+
 ## Videos
 
 - Best Practices of Infrastructure as Code with HashiCorp Terraform
