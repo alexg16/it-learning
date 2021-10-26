@@ -27,6 +27,8 @@
 - [vSwitch rescue from the CLI](https://www.elasticsky.de/en/2019/07/vswitch-rescue-from-the-cli/)
 - [Deploy a Virtual Machine from an OVF or OVA File in the VMware Host Client](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vsphere.html.hostclient.doc/GUID-8ABDB2E1-DDBF-40E3-8ED6-DC857783E3E3.html)
 - [vmware object type requires hosted I/O](https://konkretor.com/2021/02/10/vmware-object-type-requires-hosted-i-o/)
+- [Move a template from one datastore to another](http://paessens.org/blog/index.php/vsphere/126-move-a-template-from-datastore)
+
 
 ## Automation
 
