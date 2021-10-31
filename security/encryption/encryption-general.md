@@ -14,6 +14,7 @@
 ## pfSense
 
 - [Watch "How To Setup ACME, Let's Encrypt, and HAProxy HTTPS offloading on pfsense" on YouTube](https://youtu.be/gVOEdt-BHDY)
+- [Watch "How To Create pfsense Let's Encrypt Wildcard Certificates using HAProxy" on YouTube](https://youtu.be/jpyUm53we-Y)
 - [pfSense - webConfigurator default Certificate expiring - .matrixpost.net](https://blog.matrixpost.net/pfsense-webconfigurator-default-certificate-expiring/)
 - [Using PFSense as an internal CA](https://www.gdwnet.com/2018/05/04/pfsense-internal-ca/amp/)
 - [Certificate Authority Management](https://docs.netgate.com/pfsense/en/latest/certificates/ca.html)
