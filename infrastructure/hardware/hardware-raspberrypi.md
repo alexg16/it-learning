@@ -17,7 +17,6 @@
 - [Storing your files on a Synology NAS (using iSCSI)](https://www.berryterminal.com/doku.php/storing_your_files_on_a_synology_nas_using_iscsi)
 - [BerryServer - BerryBoot Imaages](https://berryboot.alexgoldcheidt.com/images/)
 
-
 ## Raspbian
 
 - [57 Raspberry Pi commands that everyone should know](https://raspberrytips.com/raspberry-pi-commands/)

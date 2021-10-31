@@ -10,3 +10,10 @@
 ## PGP
 
 - [Managing OpenPGP Keys](https://riseup.net/en/security/message-security/openpgp/gpg-keys)
+
+## pfSense
+
+- [Watch "How To Setup ACME, Let's Encrypt, and HAProxy HTTPS offloading on pfsense" on YouTube](https://youtu.be/gVOEdt-BHDY)
+- [pfSense - webConfigurator default Certificate expiring - .matrixpost.net](https://blog.matrixpost.net/pfsense-webconfigurator-default-certificate-expiring/)
+- [Using PFSense as an internal CA](https://www.gdwnet.com/2018/05/04/pfsense-internal-ca/amp/)
+- [Certificate Authority Management](https://docs.netgate.com/pfsense/en/latest/certificates/ca.html)
