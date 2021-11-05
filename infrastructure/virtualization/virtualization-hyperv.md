@@ -9,6 +9,7 @@
 - [Hyper-V PowerShell Commands for Windows Server 2016: List & Uses](https://study.com/academy/lesson/hyper-v-powershell-commands-for-windows-server-2016-list-uses.html)
 - [Move-VMStorage - PowerShell](https://docs.microsoft.com/en-us/powershell/module/hyper-v/move-vmstorage?view=win10-ps)
 - [Nested Virtualization](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/nested-virtualization)
+- [RUN A NESTED VM ON KVM / QEMU VM IN HYPER-V](https://timothygruber.com/hyper-v-2/run-a-nested-vm-on-kvm-qemu-vm-in-hyper-v/)
 - [REMOTELY MANAGING HYPER-V SERVER IN A WORKGROUP OR NON-DOMAIN](https://timothygruber.com/hyper-v-2/remotely-managing-hyper-v-server-in-a-workgroup-or-non-domain/)
 - To remove the local subnet restriction on public networks and allow
 remote access from any location, run the following command:
