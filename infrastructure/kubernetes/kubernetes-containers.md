@@ -78,6 +78,10 @@ newgrp docker
 - [Run Azure PowerShell in a Docker Container](https://www.thomasmaurer.ch/2020/03/run-azure-powershell-in-a-docker-container/)
 - [Azure-PowerShell by Microsoft](https://hub.docker.com/_/microsoft-azure-powershell)
 
+## Rancher
+
+- [Watch How To Replace Docker With nerdctl And Rancher Desktop](https://youtu.be/evWPib0iNgY)
+
 ## Windows
 
 - [Install Docker on Windows Server 2019](https://www.ntweekly.com/2018/11/03/install-docker-on-windows-server-2019/)
