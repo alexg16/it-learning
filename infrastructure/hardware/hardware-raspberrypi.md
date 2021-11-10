@@ -37,6 +37,7 @@
 
 - [How to build an ESXi on ARM Pi cluster](https://www.ivobeerens.nl/2020/10/21/how-to-build-an-esxi-on-arm-pi-cluster/)
 - [My Raspberry Pi 4 BOM for ESXi-Arm Fling by William Lam](https://www.virtuallyghetto.com/2020/10/my-raspberry-pi-4-bom-for-esxi-arm-fling.html)
+- [Watch "How to run Raspberry Pi OS IMG as a VM on ESXi-Arm" on YouTube](https://youtu.be/JN1h2ztUHLo)
 - [ESXi on Arm Fling is LIVE!](https://www.virtuallyghetto.com/2020/10/esxi-on-arm-fling.html)
 - [How to run Raspberry Pi OS as a VM on ESXi-Arm](https://www.virtuallyghetto.com/2020/10/how-to-run-raspberry-pi-os-as-a-vm-on-esxi-arm.html)
 - [Installing VMware Tools on Raspberry Pi OS for ESXi-Arm](https://www.virtuallyghetto.com/2020/10/installing-vmware-tools-on-raspberry-pi-os-for-esxi-arm.html)
