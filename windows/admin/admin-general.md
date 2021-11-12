@@ -1,5 +1,7 @@
 # Windows General
 
+- [Fix: There were some problems installing updates](https://windowsreport.com/fix-update-install-bugs-windows-10/)
+
 ## Group Policy
 
 - [Group Policy Search](http://gpsearch.azurewebsites.net/)
