@@ -49,6 +49,7 @@
 - [VMware vCenter Server Update Failed – Exception Occurred in Install Precheck Phase](https://www.vgarethlewis.com/2020/11/05/vmware-vcenter-server-update-failed-exception-occurred-in-install-precheck-phase/)
 - [vSphere Cluster Services (vCLS) in vSphere 7.0 Update 1 (80472)](https://kb.vmware.com/s/article/80472)
 - [How to Restore vCenter Server 7.0 VCSA](https://xpertstec.com/how-to-restore-vcenter-server-7-vcsa/)
+- [vCenter Backup fails with error "Db health is UNHEALTHY, Backup Failed. Disable health check to take backup in current state"](https://kb.vmware.com/s/article/86174)
 
 ## Storage
 
