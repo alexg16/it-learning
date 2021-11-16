@@ -15,6 +15,7 @@
 - [Minimum Viable Kubernetes · Emanuel Evans](https://eevans.co/blog/minimum-viable-kubernetes/)
 - [Deconstructing Kubernetes Networking · Emanuel Evans](https://eevans.co/blog/deconstructing-kubernetes-networking/)
 - [The Simplest Multi-Node Kubernetes Cluster](https://eevans.co/blog/kubernetes-multi-node/)
+- [Five Minute Kubernetes Installation With k3OS](https://betterprogramming.pub/k3s-k3os-kubernetes-docker-containers-installation-setup-cluster-ee9ccfd51a4d)
 
 ## Tools
 
