@@ -39,6 +39,7 @@
 - [How To Check If GUI Is Installed In Linux From Commandline](https://ostechnix.com/how-to-check-if-gui-is-installed-in-linux-from-commandline/)
 - [How to Install Webmin on Ubuntu 20.04 Server](https://www.linuxbabe.com/ubuntu/install-webmin-ubuntu-20-04-server)
 - [How to Install Microsoft Edge Browser in Linux](https://www.tecmint.com/install-microsoft-edge-browser-in-linux/)
+- [Change Boot Order in Windows Linux Dual Boot with Grub Customizer](https://itsfoss.com/grub-customizer-ubuntu/)
 
 ## Commands
 
