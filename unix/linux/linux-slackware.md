@@ -5,3 +5,4 @@
 - [Installing VMware Tools in Slackware (14) - mkdir /etc/pam.d](https://lifeforce4.wordpress.com/2013/05/31/installing-vmware-tools-in-slackware-14/)
 - [Slackware as a VMWare Guest - patch did not work - install sequence did after /etc/pam.d directory made](https://docs.slackware.com/howtos:misc:virtualisation:vmware_guest)
 - [Neofetch](https://slackware.pkgs.org/current/slackonly-x86_64/neofetch-3.2.0-noarch-1_slonly.txz.html)
+- [Installing updates using slackpkg](https://docs.slackware.com/slackware:beginners_guide)
