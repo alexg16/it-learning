@@ -18,6 +18,4 @@
 go into output directory and run make install
 ```
 
-to start kde type "stratkde" in terminal
-
 - [Runit](https://docs.slackware.com/howtos:slackware_admin:runit)
