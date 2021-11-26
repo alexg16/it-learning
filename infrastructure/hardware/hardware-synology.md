@@ -7,3 +7,4 @@
 - [What can I do to enhance the security of my Synology NAS?](https://kb.synology.com/en-global/DSM/tutorial/How_to_add_extra_security_to_your_Synology_NAS)
 - [Mounting a Synology NAS Share in Ubuntu 18.04.4 LTS using NFS](https://acceptdefaults.com/2020/03/16/mounting-a-synology-share-in-ubuntu/)
 - [Remove active insight (or any packages)](https://community.synology.com/enu/forum/1/post/144918)
+- [How to set up SSD cache on Synology NAS](https://www.windowscentral.com/how-set-ssd-cache-synology-nas)
