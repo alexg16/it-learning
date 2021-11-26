@@ -8,3 +8,4 @@
 - [Mounting a Synology NAS Share in Ubuntu 18.04.4 LTS using NFS](https://acceptdefaults.com/2020/03/16/mounting-a-synology-share-in-ubuntu/)
 - [Remove active insight (or any packages)](https://community.synology.com/enu/forum/1/post/144918)
 - [How to set up SSD cache on Synology NAS](https://www.windowscentral.com/how-set-ssd-cache-synology-nas)
+- [Synology M2D20 PCIe Card Hardware Review](https://nascompares.com/2020/07/16/synology-m2d20-pcie-card-hardware-review/)
