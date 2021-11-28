@@ -37,6 +37,7 @@
 - [Decompiling ARM template JSON to Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/decompile?tabs=azure-cli)
 - [Create Private AKS Cluster using Bicep](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/create-private-aks-cluster-using-bicep/ba-p/2499201)
 - [Create an AKS Cluster with Azure Bicep](https://trstringer.com/create-aks-bicep/)
+- [Deploy a Docker Swarm cluster on Azure using Bicep](https://medium.com/codex/deploy-a-docker-swarm-cluster-on-azure-using-bicep-7859cb7e0156)
 
 ## Azure REST APIs
 
