@@ -7,7 +7,7 @@
 |[Networking](unix/linux/linux-networking)|[FreeBSD](unix/bsd/bsd-freebsd)||
 |[AlmaLinux](unix/linux/linux-alma)|[DragonFly](unix/bsd/bsd-dragonfly)||
 |[Alpine](unix/linux/linux-alpine)|[NetBSD](unix/bsd/bsd-netbsd)||
-|[Arch](unix/linux/linux-arch)||[OpenBSD](unix/bsd/bsd-openbsd)||
+|[Arch](unix/linux/linux-arch)|[OpenBSD](unix/bsd/bsd-openbsd)||
 |[CBL-Mariner](unix/linux/linux-cbl)||
 |[CentOS](unix/linux/linux-centos)|||
 |[Debian](unix/linux/linux-debian)|||
