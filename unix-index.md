@@ -5,9 +5,10 @@
 |[**Linux**](linux-index)|[**BSD**](bsd-index)||
 |[General](unix/linux/linux-general)|[General](unix/bsd/bsd-general) ||
 |[Networking](unix/linux/linux-networking)|[FreeBSD](unix/bsd/bsd-freebsd)||
-|[Alpine](unix/linux/linux-alpine)|[DragonFly](unix/bsd/bsd-dragonfly)||
-|[Arch](unix/linux/linux-arch)|[NetBSD](unix/bsd/bsd-netbsd)||
-|[CBL-Mariner](unix/linux/linux-cbl)|[OpenBSD](unix/bsd/bsd-openbsd)||
+|[AlmaLinux](unix/linux/linux-alma)|[DragonFly](unix/bsd/bsd-dragonfly)||
+|[Alpine](unix/linux/linux-alpine)|[NetBSD](unix/bsd/bsd-netbsd)||
+|[Arch](unix/linux/linux-arch)||[OpenBSD](unix/bsd/bsd-openbsd)||
+|[CBL-Mariner](unix/linux/linux-cbl)||
 |[CentOS](unix/linux/linux-centos)|||
 |[Debian](unix/linux/linux-debian)|||
 |[Fedora](unix/linux/linux-fedora)|||
