@@ -12,6 +12,7 @@
 |[CentOS](unix/linux/linux-centos)|||
 |[Debian](unix/linux/linux-debian)|||
 |[Fedora](unix/linux/linux-fedora)|||
+|[Garuda](unix/linux/linux-garuda)|||
 |[Gentoo](unix/linux/linux-gentoo)|||
 |[Kali](unix/linux/linux-kali)|||
 |[Mint](unix/linux/linux-mint)|||
