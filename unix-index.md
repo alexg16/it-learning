@@ -24,4 +24,5 @@
 |[Tails](unix/linux/linux-tails)|||
 |[Tiny](unix/linux/linux-tiny)|||
 |[Ubuntu](unix/linux/linux-ubuntu)|||
+|[Void](unix/linux/linux-void)|||
 
