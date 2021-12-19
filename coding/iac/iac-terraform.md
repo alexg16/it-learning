@@ -3,6 +3,7 @@
 - [Infrastructure Automation with Terraform and Azure DevOps Pipeline Templates](https://cloudskills.io/blog/terraform-azure-devops?__s=vqubz5hb9jcpjdkkgpxe)
 - [Manage Similar Resources with For Each](https://learn.hashicorp.com/tutorials/terraform/for-each)
 - [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet/)
+- [What Are Terraform Modules and How Do They Work?](https://www.freecodecamp.org/news/terraform-modules-explained/)
 
 ## Azure
 
