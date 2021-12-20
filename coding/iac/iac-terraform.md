@@ -6,6 +6,10 @@
 - [What Are Terraform Modules and How Do They Work?](https://www.freecodecamp.org/news/terraform-modules-explained/)
 - [How To Build a Custom Terraform Module](https://www.digitalocean.com/community/tutorials/how-to-build-a-custom-terraform-module)
 
+## Minio
+
+- [Terraform S3 remote state with Minio and Docker – Dicking with Docker](https://dickingwithdocker.com/2019/02/terraform-s3-remote-state-with-minio-and-docker/)
+
 ## Azure
 
 - [Terraform Build Infrastructure Tutorial - Azure](https://learn.hashicorp.com/tutorials/terraform/azure-build?in=terraform/azure-get-started)
