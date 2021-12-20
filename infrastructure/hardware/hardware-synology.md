@@ -9,3 +9,4 @@
 - [Remove active insight (or any packages)](https://community.synology.com/enu/forum/1/post/144918)
 - [How to set up SSD cache on Synology NAS](https://www.windowscentral.com/how-set-ssd-cache-synology-nas)
 - [Synology M2D20 PCIe Card Hardware Review](https://nascompares.com/2020/07/16/synology-m2d20-pcie-card-hardware-review/)
+- [Synology: DSM 7 Full User Guide – Marius Hosting](https://mariushosting.com/synology-dsm-7-full-user-guide/)
