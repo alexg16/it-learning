@@ -9,6 +9,7 @@
 ## Minio
 
 - [Terraform S3 remote state with Minio and Docker – Dicking with Docker](https://dickingwithdocker.com/2019/02/terraform-s3-remote-state-with-minio-and-docker/)
+- [MinIO Docker Quickstart Guide](https://docs.min.io/docs/minio-docker-quickstart-guide.html)
 
 ## Azure
 
