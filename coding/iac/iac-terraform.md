@@ -4,6 +4,7 @@
 - [Manage Similar Resources with For Each](https://learn.hashicorp.com/tutorials/terraform/for-each)
 - [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet/)
 - [What Are Terraform Modules and How Do They Work?](https://www.freecodecamp.org/news/terraform-modules-explained/)
+- [How To Build a Custom Terraform Module](https://www.digitalocean.com/community/tutorials/how-to-build-a-custom-terraform-module)
 
 ## Azure
 
