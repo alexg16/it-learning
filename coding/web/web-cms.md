@@ -4,7 +4,7 @@
 
 - [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 - [GitHub Pages Themes](https://pages.github.com/themes/)
-- [GitHub Status](https://status.github.com/)
+
 
 ## WordPress
 

@@ -13,6 +13,7 @@ this will create a local branch of the same name as the remote branch and check 
 
 ## GitHub
 
+- [GitHub Status](https://status.github.com/)
 - [Caching your GitHub password in Git](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Adding an existing project to GitHub using the command line](https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
