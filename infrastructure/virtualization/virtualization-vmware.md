@@ -23,6 +23,7 @@
 - [Uninstalling and manually installing VMware Tools in VMware Fusion (1014522)](https://kb.vmware.com/s/article/1014522)
 - [How to Customize ESXI 6.7 install with Realtek Drivers](https://www.geekdecoder.com/how-to-customize-esxi-install-with-realtek-drivers/)
 - [VMware VM Templates A to Z](https://www.nakivo.com/blog/vm-templates-a-to-z/)
+- [Guest OS Customization Support Matrix](https://partnerweb.vmware.com/programs/guestOS/guest-os-customization-matrix.pdf)
 - [My Home Lab - ESXI/PiHole/PfSense/Docker](https://joshspicer.com/homelab)
 - [vSwitch rescue from the CLI](https://www.elasticsky.de/en/2019/07/vswitch-rescue-from-the-cli/)
 - [Deploy a Virtual Machine from an OVF or OVA File in the VMware Host Client](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vsphere.html.hostclient.doc/GUID-8ABDB2E1-DDBF-40E3-8ED6-DC857783E3E3.html)
