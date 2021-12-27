@@ -7,4 +7,4 @@
 |[Ansible](coding/iac/iac-ansible)|[Git](coding/dev/dev-git)|[Design](coding/web/web-design.md)
 |[PowerShell](coding/iac/iac-powershell)|[VSCode](coding/dev/dev-vscode)|[FullStack](coding/web/web-fullstack.md)|
 |[Terraform](coding/iac/iac-terraform)|[JavaScript](coding/dev/dev-javascript)||
-||[Python](coding/dev/dev-python)||
+|[Packer](coding/iac/iac-packer)|[Python](coding/dev/dev-python)||
