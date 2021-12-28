@@ -12,6 +12,7 @@
 
 - [Terraform S3 remote state with Minio and Docker – Dicking with Docker](https://dickingwithdocker.com/2019/02/terraform-s3-remote-state-with-minio-and-docker/)
 - [MinIO Docker Quickstart Guide](https://docs.min.io/docs/minio-docker-quickstart-guide.html)
+- [Chicken or the Egg? Terraform’s Remote Backend](https://www.monterail.com/blog/chicken-or-egg-terraforms-remote-backend)
 
 ## Azure
 
