@@ -8,7 +8,7 @@
 - [Terraform vSphere Module](https://registry.terraform.io/modules/Terraform-VMWare-Modules/vm/vsphere/latest)
 - [The for_each Meta-Argument](https://www.terraform.io/language/meta-arguments/for_each)
 
-## Minio
+## Remote State with Minio
 
 - [Terraform S3 remote state with Minio and Docker – Dicking with Docker](https://dickingwithdocker.com/2019/02/terraform-s3-remote-state-with-minio-and-docker/)
 - [MinIO Docker Quickstart Guide](https://docs.min.io/docs/minio-docker-quickstart-guide.html)
