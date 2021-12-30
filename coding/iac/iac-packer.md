@@ -5,3 +5,4 @@
 - better: [HashiCorp Packer to Build a Ubuntu 20.04 Image Template in VMware](https://tekanaid.com/posts/hashicorp-packer-build-ubuntu20-04-vmware)
 - [Build a Kubernetes k3s Cluster in vSphere with Terraform and Packer](https://tekanaid.com/posts/build-a-kubernetes-k3s-cluster-in-vsphere-with-terraform-and-packer)
 - [Creating vSphere VM templates with Packer (part 1) - Introduction](https://blog.v12n.io/creating-vsphere-vm-templates-with-packer-part-1/)
+- [v12n-io/packer](https://github.com/v12n-io/packer)
