@@ -6,6 +6,7 @@
 - [Slackware as a VMWare Guest - patch did not work - install sequence did after /etc/pam.d directory made](https://docs.slackware.com/howtos:misc:virtualisation:vmware_guest)
 - [Neofetch](https://slackware.pkgs.org/current/slackonly-x86_64/neofetch-3.2.0-noarch-1_slonly.txz.html)
 - [Installing updates using slackpkg](https://docs.slackware.com/slackware:beginners_guide)
+- [Is Slackware the Right Linux Distribution for You? What You Need to Know](https://www.makeuseof.com/tag/is-slackware-the-oldest-remaining-linux-distribution-right-for-you/)
 
 ## xrdp
 
