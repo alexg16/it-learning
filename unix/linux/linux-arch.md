@@ -7,15 +7,17 @@
 - [Install and Configure NFS](https://linuxhint.com/install_configure_nfs/)
 - [ArchLinux 2017.10.01: Install nfs-utils for NFS client](https://www.hiroom2.com/2017/10/20/archlinux-20171001-nfs-utils-client-en/)
 - [How to install Xfce Desktop on Arch Linux](https://ebblr.com/how-to-install-xfce-desktop-on-arch-linux)
+- [Pacman command in Arch Linux](https://www.geeksforgeeks.org/pacman-command-in-arch-linux/)
 
 ## Arch on Hyper-V
+
 - [Install Arch Linux on Windows 10 Hyper-V](https://dzone.com/articles/install-arch-linux-on-windows-10-hyper-v)
 - [Arch Linux Wiki - Hyper-V](https://wiki.archlinux.org/index.php/Hyper-V)
 - [Package clash with Arch; Enhanced session not working in Arch](https://github.com/microsoft/linux-vm-tools/issues/127)
 
 ## xrdp on Arch
 
-1) Install  xrdp-git AUR and  xorgxrdp-git AUR  from:
+1. Install  xrdp-git AUR and  xorgxrdp-git AUR  from:
 
 - [Xrdp - ArchWiki](https://wiki.archlinux.org/index.php/xrdp)
 
@@ -23,7 +25,7 @@
 
 - [How to install software/packages from AUR (Arch User Repository)](https://www.archlinuxuser.com/2013/01/how-to-install-softwarepackages-from.html)
 
-2) Edit .xinitrc like so:
+2. Edit .xinitrc like so:
 
 ```bash
 #  me - comment out below lines
@@ -41,7 +43,7 @@ exec dbus-launch xfce4-session
 
 - [XRDP GNOME Session Fails to Start](https://bbs.archlinux.org/viewtopic.php?id=261174)
 
-3) Select Xvnc instead of Xorg in RDP session login
+3. Select Xvnc instead of Xorg in RDP session login
 
 ## Docker
 
