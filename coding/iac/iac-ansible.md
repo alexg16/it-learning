@@ -4,6 +4,7 @@
 - [How I used Ansible to automate updates at home](https://www.redhat.com/sysadmin/ansible-automate-updates-home)
 - [Ansible AD HOC Command Examples – Ansible Cheat Sheet](https://www.middlewareinventory.com/blog/ansible-ad-hoc-commands/)
 - [Blocks — Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/playbooks_blocks.html)
+- [How to ignore ansible SSH authenticity checking?](https://stackoverflow.com/questions/32297456/how-to-ignore-ansible-ssh-authenticity-checking)
 
 ## Ubuntu
 
