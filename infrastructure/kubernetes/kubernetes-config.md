@@ -28,6 +28,10 @@
 - [I broke my Kubernetes cluster running on Raspberry Pi](https://itnext.io/i-broke-my-kubernetes-cluster-running-on-raspberry-pi-355234a24d)
 - [Install and Set Up kubectl on Linux](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
 
+## k3s
+
+- [alexellis/k3sup](https://github.com/alexellis/k3sup)
+
 ## KubeKey
 
 - [KubeKey: A Lightweight Installer for Kubernetes and Cloud Native Addons](https://kubesphere.io/blogs/install-kubernetes-using-kubekey/)
