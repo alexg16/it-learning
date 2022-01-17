@@ -31,6 +31,7 @@
 ## k3s
 
 - [alexellis/k3sup](https://github.com/alexellis/k3sup)
+- [k3s Networking - How the Service LB Works](https://rancher.com/docs/k3s/latest/en/networking/#how-the-service-lb-works)
 
 ## KubeKey
 
