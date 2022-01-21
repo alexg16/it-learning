@@ -2,7 +2,7 @@
 
 |KUBERNETES|LEARNING|TOPICS|
 |---|---|---|
-|[General](infrastructure/kubernetes/kubernetes-general)|||
+|[General](infrastructure/kubernetes/kubernetes-general)|[Videos](infrastructure/kubernetes/kubernetes-general#videos)||
 |[Config](infrastructure/kubernetes/kubernetes-config)|||
 |[Containers](infrastructure/kubernetes/kubernetes-containers)|[Docker](infrastructure/kubernetes/kubernetes-containers#docker)|[Linux](infrastructure/kubernetes/kubernetes-containers#linux)|
 ||[Windows](infrastructure/kubernetes/kubernetes-containers#windows)|[Videos](infrastructure/kubernetes/kubernetes-containers#videos)|

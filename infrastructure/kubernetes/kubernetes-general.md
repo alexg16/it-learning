@@ -20,3 +20,7 @@
 ## Tools
 
 - [Kubestr - Explore your Kubernetes storage options](https://kubestr.io/)
+
+## Videos
+
+- [Watch "Kubernetes Course - Full Beginners Tutorial](https://youtu.be/d6WC5n9G_sM)
