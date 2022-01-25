@@ -6,7 +6,6 @@
 - [GitHub Pages Themes](https://pages.github.com/themes/)
 - [How to set up MULTIPLE GitHub Pages websites with custom domains](https://deanattali.com/blog/multiple-github-pages-domains/)
 
-
 ## WordPress
 
 - [How to install Apache, PHP and MYSQL on Windows 10 Machine](https://www.znetlive.com/blog/how-to-install-apache-php-and-mysql-on-windows-10-machine/)
