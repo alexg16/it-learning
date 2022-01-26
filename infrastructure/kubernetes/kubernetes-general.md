@@ -17,7 +17,12 @@
 - [The Simplest Multi-Node Kubernetes Cluster](https://eevans.co/blog/kubernetes-multi-node/)
 - [Five Minute Kubernetes Installation With k3OS](https://betterprogramming.pub/k3s-k3os-kubernetes-docker-containers-installation-setup-cluster-ee9ccfd51a4d)
 - [Why and How to Use containerd From Command Line](https://iximiuz.com/en/posts/containerd-command-line-clients/)
+- [25 Kubernetes questions that will help you get certified and become more efficient with K8s](https://www.bettercoder.io/blog/141/25-kubernetes-questions-that-will-help-you-get-certified-and-become-more-efficient-with-k8s)
 
 ## Tools
 
 - [Kubestr - Explore your Kubernetes storage options](https://kubestr.io/)
+
+## Videos
+
+- [Watch "Kubernetes Course - Full Beginners Tutorial](https://youtu.be/d6WC5n9G_sM)

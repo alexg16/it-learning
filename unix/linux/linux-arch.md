@@ -8,6 +8,7 @@
 - [ArchLinux 2017.10.01: Install nfs-utils for NFS client](https://www.hiroom2.com/2017/10/20/archlinux-20171001-nfs-utils-client-en/)
 - [How to install Xfce Desktop on Arch Linux](https://ebblr.com/how-to-install-xfce-desktop-on-arch-linux)
 - [Pacman command in Arch Linux](https://www.geeksforgeeks.org/pacman-command-in-arch-linux/)
+- [The Arch Linux Handbook](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
 
 ## Arch on Hyper-V
 

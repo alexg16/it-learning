@@ -7,6 +7,7 @@
 - [How To Build a Custom Terraform Module](https://www.digitalocean.com/community/tutorials/how-to-build-a-custom-terraform-module)
 - [Terraform vSphere Module](https://registry.terraform.io/modules/Terraform-VMWare-Modules/vm/vsphere/latest)
 - [The for_each Meta-Argument](https://www.terraform.io/language/meta-arguments/for_each)
+- [How to Build a Terraform Module Example](https://adamtheautomator.com/terraform-module-example/)
 
 ## Remote State with Minio
 
