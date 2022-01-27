@@ -41,6 +41,7 @@
 - [How to Install Microsoft Edge Browser in Linux](https://www.tecmint.com/install-microsoft-edge-browser-in-linux/)
 - [Change Boot Order in Windows Linux Dual Boot with Grub Customizer](https://itsfoss.com/grub-customizer-ubuntu/)
 - [Top 21 sysadmin guides and tutorials of 2021](https://www.redhat.com/sysadmin/enable-sysadmin-guides-2021)
+- [How to Set Environment Variables in Linux](https://www.serverlab.ca/tutorials/linux/administration-linux/how-to-set-environment-variables-in-linux/)
 
 ## Commands
 
