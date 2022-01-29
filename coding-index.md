@@ -8,3 +8,4 @@
 |[PowerShell](coding/iac/iac-powershell)|[VSCode](coding/dev/dev-vscode)|[FullStack](coding/web/web-fullstack.md)|
 |[Terraform](coding/iac/iac-terraform)|[JavaScript](coding/dev/dev-javascript)||
 |[Packer](coding/iac/iac-packer)|[Python](coding/dev/dev-python)||
+|[Vault](coding/iac/iac-vault)|||
