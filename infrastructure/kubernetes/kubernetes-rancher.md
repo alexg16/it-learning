@@ -2,6 +2,7 @@
 
 - [Install/Upgrade Rancher on a Kubernetes Cluster](https://rancher.com/docs/rancher/v2.6/en/installation/install-rancher-on-k8s/)
 - [cert-manager - Failed to install " failed post-install: timed out waiting for the condition"](https://github.com/cert-manager/cert-manager/issues/4646)
+
 ```
 - Seeing this with v1.5.1 as well. I had to clean up resources manually and then the install worked with these flags:
 ```
