@@ -27,6 +27,7 @@
 - [Introduction to YAML: Creating a Kubernetes deployment](https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment/)
 - [I broke my Kubernetes cluster running on Raspberry Pi](https://itnext.io/i-broke-my-kubernetes-cluster-running-on-raspberry-pi-355234a24d)
 - [Install and Set Up kubectl on Linux](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
+- [A Primer: Accessing services in Kubernetes](https://blog.alexellis.io/primer-accessing-kubernetes-services/)
 
 ## k3s
 

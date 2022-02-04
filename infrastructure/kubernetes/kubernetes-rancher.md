@@ -15,3 +15,4 @@ kubectl delete rolebindings cert-manager-startupapicheck:create-cert -n cert-man
 Finally:
 helm install cert-manager jetstack/cert-manager --namespace cert-manager --create-namespace --version v1.5.1 --set startupapicheck.timeout=5m --set installCRDs=true
 ```
+- [Registering a Cluster](https://rancher.com/docs/rancher/v2.5/en/cluster-provisioning/registered-clusters/)
