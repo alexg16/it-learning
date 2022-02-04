@@ -87,3 +87,5 @@
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6aLyZisehCU/default.jpg)](https://www.youtube.com/watch?v=6aLyZisehCU&feature=youtu.bee)
 
 - [links for the video](https://networkchuck.com/vmware-raspberrypi/)
+
+- [Watch "It's official: Raspberry Pi goes 64-bit" on YouTube](https://youtu.be/ET-DJLnNX-Q)
