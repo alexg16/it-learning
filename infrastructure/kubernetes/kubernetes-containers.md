@@ -8,20 +8,7 @@
 - [Install Docker compose](https://docs.docker.com/compose/install/)
 - [Manage data in Docker](https://docs.docker.com/engine/admin/volumes/)
 - [The base command for the Docker CLI](https://docs.docker.com/engine/reference/commandline/docker/)
-- [Easily Host an Awesome Docker Registry at Home](https://medium.com/@lukebenson/easily-host-an-awesome-docker-registry-at-home-694a9c70740f)
 
-`/mnt/registry:/var/lib/registry`
-
-- [Deploy a registry server](https://docs.docker.com/registry/deploying/)
-- [Test an insecure registry](https://docs.docker.com/registry/insecure/)
-- [How to get a list of images on docker registry v2](https://stackoverflow.com/questions/31251356/how-to-get-a-list-of-images-on-docker-registry-v2)
-
-```http
-https://myregistry:5012/v2/_catalog
-https://myregistry:5012/v2/ubuntu/tags/list
-```
-
-- [Using a (in)secure registry with Synology Docker](https://lenain.info/using-a-in-secure-registry-with-synology-docker/)
 - [Create a service which creates an NFS volume](https://docs.docker.com/storage/volumes/#create-a-service-which-creates-an-nfs-volume)
 - [Docker Swarm Persistent Storage with NFS](https://sysadmins.co.za/docker-swarm-persistent-storage-with-nfs/)
 - [Netshare by ContainX](http://netshare.containx.io/docs/getting-started) and [github repository](https://github.com/ContainX/docker-volume-netshare)
@@ -36,6 +23,24 @@ docker run -it --rm --name=[containername] --mount source=[name],destination=/te
 - [How to Run GUI Applications in a Docker Container](https://www.cloudsavvyit.com/10520/how-to-run-gui-applications-in-a-docker-container/)
 - [7 Docker Anti-Patterns You Need to Avoid](https://www.cloudsavvyit.com/14343/7-docker-anti-patterns-you-need-to-avoid/)
 - [How to Assign a Static IP to a Docker Container](https://www.cloudsavvyit.com/14508/how-to-assign-a-static-ip-to-a-docker-container/)
+
+### Registry
+
+- [Easily Host an Awesome Docker Registry at Home](https://medium.com/@lukebenson/easily-host-an-awesome-docker-registry-at-home-694a9c70740f)
+
+`/mnt/registry:/var/lib/registry`
+
+- [Deploy a registry server](https://docs.docker.com/registry/deploying/)
+- [Test an insecure registry](https://docs.docker.com/registry/insecure/)
+- [How to get a list of images on docker registry v2](https://stackoverflow.com/questions/31251356/how-to-get-a-list-of-images-on-docker-registry-v2)
+
+```http
+https://myregistry:5012/v2/_catalog
+https://myregistry:5012/v2/ubuntu/tags/list
+```
+
+- [Using a (in)secure registry with Synology Docker](https://lenain.info/using-a-in-secure-registry-with-synology-docker/)
+- [Set up Docker Registry with an UI](https://medium.com/swlh/set-up-docker-registry-and-a-docker-regui-8340bb287276)
 
 ### Build
 
