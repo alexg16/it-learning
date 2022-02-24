@@ -6,6 +6,7 @@
 ```
 - Seeing this with v1.5.1 as well. I had to clean up resources manually and then the install worked with these flags:
 ```
+```
 helm uninstall cert-manager -n cert-manager
 kubectl delete roles cert-manager-startupapicheck:create-cert -n cert-manager;
 kubectl delete serviceaccount cert-manager-startupapicheck -n cert-manager;
@@ -16,3 +17,5 @@ Finally:
 helm install cert-manager jetstack/cert-manager --namespace cert-manager --create-namespace --version v1.5.1 --set startupapicheck.timeout=5m --set installCRDs=true
 ```
 - [Registering a Cluster](https://rancher.com/docs/rancher/v2.5/en/cluster-provisioning/registered-clusters/)
+
+- [Traefik Proxy 2.x and Kubernetes 101 and Dashboard](https://traefik.io/blog/traefik-proxy-kubernetes-101/)
