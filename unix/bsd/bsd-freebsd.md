@@ -31,6 +31,8 @@
 - [[pfSense] Multiple WAN Connections](https://www.provya.com/blog/pfsense-multiple-wan-connections/)
 - [[pfSense]Policy Routing Configuration](https://docs.netgate.com/pfsense/en/latest/multiwan/policy-route.html)
 - [Migrating an Assigned LAN to LAGG](https://docs.netgate.com/pfsense/en/latest/recipes/migrate-assigned-lan-to-lagg.html)
+- [Configuring a Dynamic DNS Client](https://docs.netgate.com/pfsense/en/latest/services/dyndns/client.html)
+- [Dynu dDNS on pfSense](https://www.dynu.com/DynamicDNS/IPUpdateClient/PFSense)
 
 ### Videos
 

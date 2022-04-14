@@ -4,6 +4,7 @@
 - [nip.io - Dead simple wildcard DNS for any IP Address](https://nip.io/)
 - [unbound - Pi-hole as All-Around DNS Solution](https://docs.pi-hole.net/guides/dns/unbound/)
 - [dnsperftest](https://github.com/cleanbrowsing/dnsperftest)
+- [The 6 Best Free Dynamic DNS Providers](https://www.makeuseof.com/tag/5-best-dynamic-dns-providers-can-lookup-free-today/)
 
 ## DHCP
 
