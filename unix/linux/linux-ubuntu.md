@@ -43,3 +43,7 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [How To Install and Enable SSH Server on Ubuntu 20.04](https://devconnected.com/how-to-install-and-enable-ssh-server-on-ubuntu-20-04/)
 - [Deploy a Linux VM on Hyper-V with Sound 20.04 Edition](https://techbloggingfool.com/2020/12/26/deploy-a-linux-vm-on-hyper-v-with-sound-20-04-edition/)
 - [How to fix “Authentication is required to create a color profile/managed device” on Ubuntu 20.04 / 20.10](https://devanswers.co/how-to-fix-authentication-is-required-to-create-a-color-profile-managed-device-on-ubuntu-20-04-20-10/)
+
+## 22.04
+
+- [How to upgrade from Ubuntu 20.04 LTS to 22.04 LTS](https://www.cyberciti.biz/faq/upgrade-ubuntu-20-04-lts-to-22-04-lts/)
