@@ -13,6 +13,13 @@
 - [How To Upgrade To Fedora 36 From Fedora 35 [Workstation And Server]](https://ostechnix.com/upgrade-to-fedora-36-from-fedora-35/)
 
 ```
+Download complete! Use 'dnf system-upgrade reboot' to start the upgrade.
+To remove cached metadata and transaction use 'dnf system-upgrade clean'
+The downloaded packages were saved in cache until the next successful transaction.
+You can remove cached packages by executing 'dnf clean packages'
+```
+
+```
 sudo groupadd docker
 sudo usermod -aG docker $USER
 newgrp docker 
