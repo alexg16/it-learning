@@ -10,6 +10,7 @@
 ## Docker
 
 - [Install Docker Engine on Fedora](https://docs.docker.com/engine/install/fedora/)
+- [How To Upgrade To Fedora 36 From Fedora 35 [Workstation And Server]](https://ostechnix.com/upgrade-to-fedora-36-from-fedora-35/)
 
 ```
 sudo groupadd docker
