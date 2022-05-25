@@ -11,7 +11,6 @@
 - [How to gracefully remove a node from Kubernetes?](https://stackoverflow.com/questions/35757620/how-to-gracefully-remove-a-node-from-kubernetes)
 - [kubectl - Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [Configure Local Kubectl to Access Remote Kubernetes Cluster](https://medium.com/@raj10x/configure-local-kubectl-to-access-remote-kubernetes-cluster-ee78feff2d6d)
-- [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
 - [How To Install A Kubernetes Cluster On CentOS 7](https://phoenixnap.com/kb/how-to-install-kubernetes-on-centos)
 - [Installing kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
 - [Kubernetes rename cluster](https://serverfault.com/questions/1001257/kubernetes-rename-cluster)
@@ -28,6 +27,13 @@
 - [I broke my Kubernetes cluster running on Raspberry Pi](https://itnext.io/i-broke-my-kubernetes-cluster-running-on-raspberry-pi-355234a24d)
 - [Install and Set Up kubectl on Linux](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
 - [A Primer: Accessing services in Kubernetes](https://blog.alexellis.io/primer-accessing-kubernetes-services/)
+
+## Config
+
+- [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+- [How to merge kubectl config file with ~/.kube/config?](https://stackoverflow.com/questions/46184125/how-to-merge-kubectl-config-file-with-kube-config/46184649#46184649)
+- [Mastering the KUBECONFIG file](https://ahmet.im/blog/mastering-kubeconfig/)
+- [Krew – kubectl plugin manager](https://krew.sigs.k8s.io/)
 
 ## k3s
 
