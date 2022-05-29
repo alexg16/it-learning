@@ -33,3 +33,12 @@ remote access from any location, run the following command:
 - [How to use iSCSI Targets on a Windows Server](https://kb.synology.com/en-global/DSM/tutorial/How_to_use_iSCSI_Targets_on_a_Windows_Server)
 - [How to Use iSCSI Targets on Windows Computers with Multipath I/O](https://kb.synology.com/en-global/DSM/tutorial/How_to_Use_iSCSI_Targets_on_Windows_Computers_with_Multipath_I_O)
 - [Hyper-V Cluster MPIO iSCSI Installation and Configuration](https://www.virtualizationhowto.com/2018/08/hyper-v-cluster-mpio-iscsi-installation-and-configuration/)
+
+### Server Core
+
+- [Configure Jumbo Frames using powershell in Hyper-v Server](https://www.itwithsathish.com/2021/04/29/configure-jumbo-frames-using-powershell-in-hyper-v-server/)
+
+```
+Set-NetAdapterAdvancedProperty -Name “NIC2” -RegistryKeyword “*JumboPacket” -Registryvalue 9014
+ping 192.168.1.1 -f -l 8500
+```
