@@ -42,3 +42,35 @@ remote access from any location, run the following command:
 Set-NetAdapterAdvancedProperty -Name “NIC2” -RegistryKeyword “*JumboPacket” -Registryvalue 9014
 ping 192.168.1.1 -f -l 8500
 ```
+
+- [How to Use iSCSI Targets on Windows Computers with Multipath I/O](https://kb.synology.com/en-global/DSM/tutorial/How_to_Use_iSCSI_Targets_on_Windows_Computers_with_Multipath_I_O)
+
+- [Configure MPIO and iSCI on core](https://www.virtualizationhowto.com/2018/08/hyper-v-cluster-mpio-iscsi-installation-and-configuration/)
+
+```
+mpiocpl
+iscsicpl
+```
+
+- verify:
+
+```
+mpclaim -s -d
+```
+
+- Use DISKPART to attach existing iSCi disk
+
+```
+diskpart
+select Disk 3
+online
+attributes disk
+attributes disk clear readonly
+import
+```
+
+- [Import a foreign disk](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/import_1)
+- [How to Fix “Current Read Only State Yes”](https://www.diskpart.com/articles/current-read-only-state-yes-1881.html)
+
+- or format a new disk:
+- [Initialize Disk to GPT or MBR from CMD Diskpart](https://macrorit.com/partition-magic-manager/initialize-disk-gpt-mbr-from-cmd-diskpart.html)
