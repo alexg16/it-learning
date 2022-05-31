@@ -74,3 +74,5 @@ import
 
 - or format a new disk:
 - [Initialize Disk to GPT or MBR from CMD Diskpart](https://macrorit.com/partition-magic-manager/initialize-disk-gpt-mbr-from-cmd-diskpart.html)
+
+- [How to Install Hyper-V on Windows Server Core](https://petri.com/how-to-install-hyper-v-on-windows-server-core/)
