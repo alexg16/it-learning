@@ -30,7 +30,7 @@
 - [vmware object type requires hosted I/O](https://konkretor.com/2021/02/10/vmware-object-type-requires-hosted-i-o/)
 - [Move a template from one datastore to another](http://paessens.org/blog/index.php/vsphere/126-move-a-template-from-datastore)
 - [Cloned VM acquires the same DHCP IP address towards guest customization process (82229)](https://kb.vmware.com/s/article/82229)
-
+- [How to Upgrade from VMware vSphere ESXi 6.7 to 7.0](https://www.nakivo.com/blog/how-to-upgrade-from-vmware-vsphere-esxi-6-7-to-7-0/)
 
 ## Automation
 
