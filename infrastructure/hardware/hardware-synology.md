@@ -9,7 +9,7 @@
 - [Remove active insight (or any packages)](https://community.synology.com/enu/forum/1/post/144918)
 - [How to set up SSD cache on Synology NAS](https://www.windowscentral.com/how-set-ssd-cache-synology-nas)
 - [Synology M2D20 PCIe Card Hardware Review](https://nascompares.com/2020/07/16/synology-m2d20-pcie-card-hardware-review/)
-- [Enable and empty Recycle Bin | DSM - Synology Knowledge Center](https://kb.synology.com/en-id/DSM/help/DSM/AdminCenter/file_share_recycle?version=7)
+- [Enable(and empty) Recycle Bin DSM - Synology Knowledge Center](https://kb.synology.com/en-id/DSM/help/DSM/AdminCenter/file_share_recycle?version=7)
 - [How to Automatically Empty Synology Recycle Bins](https://blog.techygeekshome.info/2020/05/how-to-automatically-empty-synology-recycle-bins/)
 
 ## Marius Hosting
