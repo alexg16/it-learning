@@ -5,3 +5,4 @@
 - [Configuring your DNS resolvers](https://www.oreilly.com/library/view/red-hat-enterprise/9781784392017/ch03s06.html)
 - [The State Of Enterprise Linux In 2022](http://crunchtools.com/the-state-of-enterprise-linux-in-2022/)
 - [How to renew your Red Hat Developer Subscription for Red Hat Enterprise Linux](https://developers.redhat.com/articles/renew-your-red-hat-developer-program-subscription)
+- [Refreshing subscription data](https://access.redhat.com/documentation/en-us/red_hat_subscription_management/1/html/rhsm/certs-refresh)
