@@ -49,3 +49,5 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [How to upgrade from Ubuntu 20.04 LTS to 22.04 LTS](https://www.cyberciti.biz/faq/upgrade-ubuntu-20-04-lts-to-22-04-lts/)
 - [2 Ways to Upgrade Ubuntu 21.10 To Ubuntu 22.04 (Graphical & Terminal)](https://www.linuxbabe.com/ubuntu/upgrade-ubuntu-21-10-to-ubuntu-22-04)
 - [Ubuntu 22.04 GUI installation](https://linuxconfig.org/ubuntu-22-04-gui-installation)
+- [How to Configure Static IP Address on Ubuntu 22.04 LTS](https://www.makeuseof.com/configure-static-ip-address-settings-ubuntu-22-04/)
+  - with [netplan generate: `gateway4` has been deprecated, use default routes instead](https://unix.stackexchange.com/questions/681220/netplan-generate-gateway4-has-been-deprecated-use-default-routes-instead/681221#681221) correction
