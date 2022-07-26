@@ -8,6 +8,7 @@
 - [How to enable sudo on FreeBSD](https://www.osradar.com/enable-sudo-on-freebsd-12)
 - [FreeBSD Change Hostname without reboot](https://www.cyberciti.biz/faq/howot-freebsd-change-hostname-without-reboot/)
 - [How to install xfce freebsd ?](https://twiserandom.com/freebsd/how-to-install-xfce-freebsd/)
+- [Setting up Remote Desktop in FreeBSD](https://www.jeremymorgan.com/tutorials/freebsd/how-to-remote-desktop-in-freebsd/)
 - [How to install vmware tools freebsd ?](https://twiserandom.com/freebsd/how-to-install-vmware-tools-freebsd/)
 - [FreeBSD Install lsof To Displays Information About Files Open to Unix processes](https://www.cyberciti.biz/faq/freebsd-install-lsof-package/)
 - [ThinkPad T480 is my new main laptop which runs FreeBSD](https://genneko.github.io/playing-with-bsd/hardware/freebsd-on-thinkpad-t480/)
