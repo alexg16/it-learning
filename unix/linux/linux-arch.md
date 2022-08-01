@@ -9,6 +9,7 @@
 - [How to install Xfce Desktop on Arch Linux](https://ebblr.com/how-to-install-xfce-desktop-on-arch-linux)
 - [Pacman command in Arch Linux](https://www.geeksforgeeks.org/pacman-command-in-arch-linux/)
 - [The Arch Linux Handbook](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
+- [How To Fix “invalid or corrupted package (PGP signature)” Error In Arch Linux](https://ostechnix.com/fix-invalid-corrupted-package-pgp-signature-error-arch-linux/)
 
 ## Arch on Hyper-V
 
