@@ -7,6 +7,8 @@
 - [Install and Configure NFS](https://linuxhint.com/install_configure_nfs/)
 - [ArchLinux 2017.10.01: Install nfs-utils for NFS client](https://www.hiroom2.com/2017/10/20/archlinux-20171001-nfs-utils-client-en/)
 - [How to install Xfce Desktop on Arch Linux](https://ebblr.com/how-to-install-xfce-desktop-on-arch-linux)
+- [How to Install GNOME in Arch Linux](https://phoenixnap.com/kb/arch-linux-gnome)
+- [How to Properly Install and Setup KDE Plasma on Arch Linux](https://itsfoss.com/install-kde-arch-linux/)
 - [Pacman command in Arch Linux](https://www.geeksforgeeks.org/pacman-command-in-arch-linux/)
 - [The Arch Linux Handbook](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
 - [How To Fix “invalid or corrupted package (PGP signature)” Error In Arch Linux](https://ostechnix.com/fix-invalid-corrupted-package-pgp-signature-error-arch-linux/)
