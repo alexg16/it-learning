@@ -21,7 +21,7 @@
 
 ## xrdp on Arch
 
-1. Install  xrdp-git AUR and  xorgxrdp-git AUR  from:
+1. Install xrdp AUR or xrdp-git AUR (Xvnc only) from:
 
 - [Xrdp - ArchWiki](https://wiki.archlinux.org/index.php/xrdp)
 
@@ -48,6 +48,10 @@ exec dbus-launch xfce4-session
 - [XRDP GNOME Session Fails to Start](https://bbs.archlinux.org/viewtopic.php?id=261174)
 
 3. Select Xvnc instead of Xorg in RDP session login
+
+4. For xrdporg install xrdp AUR and xorgxrdp AUR.
+
+- [SOLVED: "ERROR: One or more PGP signatures could not be verified!"](https://bbs.archlinux.org/viewtopic.php?id=277876)
 
 ## Docker
 
