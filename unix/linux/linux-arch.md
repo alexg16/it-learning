@@ -12,6 +12,11 @@
 - [Pacman command in Arch Linux](https://www.geeksforgeeks.org/pacman-command-in-arch-linux/)
 - [The Arch Linux Handbook](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
 - [How To Fix “invalid or corrupted package (PGP signature)” Error In Arch Linux](https://ostechnix.com/fix-invalid-corrupted-package-pgp-signature-error-arch-linux/)
+- [Guide to install Arch Linux using archinstall script](https://www.debugpoint.com/archinstall-guide/)
+
+## Arch on VMWare
+
+- [Arch Linux VMware ESXi](https://gist.github.com/kz0/56b59fb1987b27b9a059e59c93a5edfb)
 
 ## Arch on Hyper-V
 
@@ -53,6 +58,7 @@ exec dbus-launch xfce4-session
 
 - [SOLVED: "ERROR: One or more PGP signatures could not be verified!"](https://bbs.archlinux.org/viewtopic.php?id=277876)
 
-## Docker
+## Docker & Kubernetes
 
 - [How to Install and Use Docker on Arch Linux](https://www.linuxtechi.com/install-use-docker-on-arch-linux/)
+- [Install and configure Kubernetes on Arch Linux](https://dnaeon.github.io/install-and-configure-k8s-on-arch-linux/)
