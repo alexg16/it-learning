@@ -18,6 +18,7 @@
 - [Five Minute Kubernetes Installation With k3OS](https://betterprogramming.pub/k3s-k3os-kubernetes-docker-containers-installation-setup-cluster-ee9ccfd51a4d)
 - [Why and How to Use containerd From Command Line](https://iximiuz.com/en/posts/containerd-command-line-clients/)
 - [25 Kubernetes questions that will help you get certified and become more efficient with K8s](https://www.bettercoder.io/blog/141/25-kubernetes-questions-that-will-help-you-get-certified-and-become-more-efficient-with-k8s)
+- [How to Deploy Kubernetes with Kubeadm and containerd](https://thenewstack.io/how-to-deploy-kubernetes-with-kubeadm-and-containerd/)
 
 ## Tools
 
