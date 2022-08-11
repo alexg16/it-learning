@@ -19,6 +19,8 @@
 - [Why and How to Use containerd From Command Line](https://iximiuz.com/en/posts/containerd-command-line-clients/)
 - [25 Kubernetes questions that will help you get certified and become more efficient with K8s](https://www.bettercoder.io/blog/141/25-kubernetes-questions-that-will-help-you-get-certified-and-become-more-efficient-with-k8s)
 - [How to Deploy Kubernetes with Kubeadm and containerd](https://thenewstack.io/how-to-deploy-kubernetes-with-kubeadm-and-containerd/)
+- [High Availability Considerations](https://github.com/kubernetes/kubeadm/blob/main/docs/ha-considerations.md)
+- [Creating Highly Available Clusters with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/)
 
 ## Tools
 
