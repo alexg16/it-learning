@@ -13,3 +13,4 @@
 - [rgl/packer-plugin-windows-update](https://github.com/rgl/packer-plugin-windows-update/releases)
 - [GETTING STARTED WITH PACKER TO CREATE VSPHERE TEMPLATES](https://stephanmctighe.com/2021/06/15/getting-started-with-packer-to-create-vsphere-templates-part-1/)
 - [CentOS 8. Automated installation using Kickstart](https://gainanov.pro/eng-blog/linux/centos-installation-with-kickstart/)
+- [GitHub - brandonleegit/PackerBuilds: Packer build files for automated operating system template builds](https://github.com/brandonleegit/PackerBuilds)
