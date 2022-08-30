@@ -34,6 +34,7 @@
 - [How to merge kubectl config file with ~/.kube/config?](https://stackoverflow.com/questions/46184125/how-to-merge-kubectl-config-file-with-kube-config/46184649#46184649)
 - [Mastering the KUBECONFIG file](https://ahmet.im/blog/mastering-kubeconfig/)
 - [Krew – kubectl plugin manager](https://krew.sigs.k8s.io/)
+- [Remove Kubernetes Namespace Stuck in the Terminating State](https://geekyryan.com/?p=515)
 
 ## k3s
 
