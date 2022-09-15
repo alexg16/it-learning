@@ -16,6 +16,7 @@
 - Unable to find module providers (PowerShellGet) - HKLM/Current Control Set/Control/Lsa/FipsAlgorithmPolicy - Enabled(0)
 - [Where-Object vs. the Where method: Array filtering in PowerShell](https://4sysops.com/archives/where-object-vs-the-where-method-array-filtering-in-powershell/)
 - [How to Download a File with PowerShell from the Web](https://adamtheautomator.com/powershell-download-file/)
+- [Unable to find repository on Update-Module](https://stackoverflow.com/questions/53358723/unable-to-find-repository-on-update-module)
 
 ## PowerShell 7.x
 
