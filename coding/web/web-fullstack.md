@@ -8,4 +8,8 @@
 
 ## Django
 
-[Tutorial: Deploy a Django web app with PostgreSQL in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app)
+- [Tutorial: Deploy a Django web app with PostgreSQL in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app)
+
+## Node JS
+
+- [Learn NODE JS](https://www.tutorialspoint.com/nodejs/index.htm)
