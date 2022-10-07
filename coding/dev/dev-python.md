@@ -4,3 +4,5 @@
 
 - [Watch "Deploy Django into Production with Kubernetes, Docker, & Github Actions. Complete Tutorial Series" on YouTube](https://www.youtube.com/watch?v=NAOsLaB6Lfc)
 - <https://github.com/codingforentrepreneurs/Django-Kubernetes>
+
+- [Django, Docker, and PostgreSQL Tutorial](https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial)
