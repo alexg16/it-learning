@@ -23,3 +23,5 @@
 
 - [VS Code Remote Development Container Images](https://hub.docker.com/_/microsoft-vscode-devcontainers)
 - [VS Code in the browser for everyone](https://www.gitpod.io/blog/openvscode-server-launch)
+
+- [VS Code: How to comment out a block of Python code](https://www.kindacode.com/article/vs-code-how-to-comment-out-a-block-of-python-code/)
