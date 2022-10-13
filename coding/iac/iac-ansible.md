@@ -22,3 +22,9 @@
 ## Windows
 
 - [A Step-by-Step Guide to Getting Started with Ansible on Windows](https://adamtheautomator.com/ansible-windows/)
+
+- [How to Enable PSRemoting (Locally and Remotely)](https://adamtheautomator.com/enable-psremoting/)
+
+- [Windows Guides](https://docs.ansible.com/ansible/latest/user_guide/windows.html?extIdCarryOver=true&sc_cid=701f2000001OH7YAAW#windows)
+
+- Better? [How to use Ansible with Windows Host – Ansible Windows Example](https://www.middlewareinventory.com/blog/how-to-use-ansible-with-windows-host-ansible-windows-example/)
