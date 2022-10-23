@@ -22,6 +22,10 @@
 - [High Availability Considerations](https://github.com/kubernetes/kubeadm/blob/main/docs/ha-considerations.md)
 - [Creating Highly Available Clusters with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/)
 
+## ArgoCD
+
+- [Kubernetes CI/CD with GitHub, GitHub Actions and Argo CD](https://igboie.medium.com/kubernetes-ci-cd-with-github-github-actions-and-argo-cd-36b88b6bda64)
+
 ## KubeVirt
 
 - [Watch "Virtual Machines (VMs) Inside Kubernetes Clusters With KubeVirt" on YouTube](https://youtu.be/oO8VEmpojz0)
