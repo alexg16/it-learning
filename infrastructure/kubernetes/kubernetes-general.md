@@ -22,6 +22,12 @@
 - [High Availability Considerations](https://github.com/kubernetes/kubeadm/blob/main/docs/ha-considerations.md)
 - [Creating Highly Available Clusters with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/)
 
+## KubeVirt
+
+- [Watch "Virtual Machines (VMs) Inside Kubernetes Clusters With KubeVirt" on YouTube](https://youtu.be/oO8VEmpojz0)
+- [KubeVirt.io](https://kubevirt.io/)
+- [Yes, you can run VMs on Kubernetes with KubeVirt | Opensource.com](https://opensource.com/article/20/9/vms-kubernetes-kubevirt)
+
 ## Tools
 
 - [Kubestr - Explore your Kubernetes storage options](https://kubestr.io/)
