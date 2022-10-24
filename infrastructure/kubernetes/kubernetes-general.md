@@ -30,7 +30,7 @@
 
 - [Watch "Virtual Machines (VMs) Inside Kubernetes Clusters With KubeVirt" on YouTube](https://youtu.be/oO8VEmpojz0)
 - [KubeVirt.io](https://kubevirt.io/)
-- [Yes, you can run VMs on Kubernetes with KubeVirt | Opensource.com](https://opensource.com/article/20/9/vms-kubernetes-kubevirt)
+- [Yes, you can run VMs on Kubernetes with KubeVirt - Opensource.com](https://opensource.com/article/20/9/vms-kubernetes-kubevirt)
 
 ## Tools
 
