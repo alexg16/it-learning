@@ -57,6 +57,7 @@
 - [How to Use the ss Command on Linux](https://www.howtogeek.com/681468/how-to-use-the-ss-command-on-linux/)
 - [The Tar Command in Linux: Tar CVF and Tar XVF Explained with Example Commands](https://www.freecodecamp.org/news/tar-command-linux-tar-cvf-tar-xvf/)
 - [10 tutorials to sharpen your command-line skills](https://www.redhat.com/sysadmin/command-line-skills-2021)
+- [How can I shorten my command line (bash) prompt?](https://askubuntu.com/questions/145618/how-can-i-shorten-my-command-line-bash-prompt)
 
 ## AD Join
 
