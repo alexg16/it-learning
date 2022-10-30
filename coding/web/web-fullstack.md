@@ -10,6 +10,7 @@
 
 - [Tutorial: Deploy a Django web app with PostgreSQL in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app)
 - [How to Start Django Project with a Database -PostgreSQL](https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8)
+- [Django with Nginx, Gunicorn](https://medium.com/analytics-vidhya/dajngo-with-nginx-gunicorn-aaf8431dc9e0)
 
 ## Node JS
 
