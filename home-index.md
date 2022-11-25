@@ -8,6 +8,7 @@
 |[**Hardware**](hardware-index)|[**Kubernetes**](kubernetes-index)|[**Virtualization**](virtualization-index)|
 |[**Internet**](internet-index)|[**Packets**](packets-index)|[**Protocols**](protocols-index)|
 |[**Hacking**](hacking-index)|[**Identity**](identity-index)|[**Vulnerability**](vulnerability-index)|
+|[**Administration**](administration-index)|[**Management**](management-index)|[**Monitoring**](monitoring-index)|
 |[**Linux**](linux-index)|[**BSD**](bsd-index)||
 |[**Admin**](admin-index)|[**Client**](client-index)|[**Server**](server-index)|
 ||||
