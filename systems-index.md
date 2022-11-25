@@ -3,4 +3,4 @@
 |SYSTEMS|LEARNING|TOPICS|
 |---|---|---|
 |[**Administration**](administration-index)|[**Management**](management-index)|[**Monitoring**](monitoring-index)|
-||[Netbox](systems/management/management-netbox)||
+||[Netbox](systems/management/management-netbox)|[PRTG](systems/monitoring/monitoring-prtg)|
