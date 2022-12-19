@@ -51,3 +51,4 @@
 ## Azure Terraform
 
 - [Azure Bastion On-demand](https://dustindortch.com/2022/12/18/azure-bastion-on-demand/)
+- [Microsoft.Peering peerings](https://learn.microsoft.com/en-us/azure/templates/microsoft.peering/peerings?pivots=deployment-language-terraform)
