@@ -47,3 +47,7 @@
 ## Azure Cloud Shell
 
 - [Getting Started with the Azure Cloud Shell](https://adamtheautomator.com/azure-cloud-shell/)
+
+## Azure Terraform
+
+- [Azure Bastion On-demand](https://dustindortch.com/2022/12/18/azure-bastion-on-demand/)
