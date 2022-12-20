@@ -11,6 +11,7 @@
 - [Zero to Hero guide to get started with App Service](https://azure.github.io/AppService/zero-to-hero/)
 - [Quickstart: Intro to Bicep with Web App and DB](https://azure.github.io/AppService/2021/07/23/Quickstart-Intro-to-Bicep-with-Web-App-plus-DB.html)
 - [Azure Linux App Service using a Custom Container with Bicep](https://github.com/jamiemccrindle/bicep-app-service-container)
+- [Tutorial: Deploy a Python Django or Flask web app with PostgreSQL - Azure App Service | Microsoft Learn](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app?tabs=django%2Cmac-linux)
 
 ## Azure Static Web Apps
 
