@@ -10,6 +10,7 @@
 - [Azure Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [Define resources in Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/templates/)
 - [Mastering Azure Resourse Manager](https://github.com/jamesbannan/pluralsight/tree/master/microsoft-azure-resource-manager-mastering)
+- [Azure Resource Explorer](https://resources.azure.com/)
 
 ## Azure CLI
 
