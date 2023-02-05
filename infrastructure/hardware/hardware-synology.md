@@ -12,8 +12,10 @@
 - [Enable(and empty) Recycle Bin - DSM - Synology Knowledge Center](https://kb.synology.com/en-id/DSM/help/DSM/AdminCenter/file_share_recycle?version=7)
 - [How to Automatically Empty Synology Recycle Bins](https://blog.techygeekshome.info/2020/05/how-to-automatically-empty-synology-recycle-bins/)
 - [Set a Space Reclamation Schedule - DSM - Synology Knowledge Center](https://kb.synology.com/en-vn/DSM/help/DSM/StorageManager/storage_pool_space_reclamation?version=7)
+- [UPS | DSM - Synology Knowledge Center](https://kb.synology.com/en-us/DSM/help/DSM/AdminCenter/system_hardware_ups?version=7)
 
 ## Marius Hosting
 
 - [Synology: DSM 7 Full User Guide – Marius Hosting](https://mariushosting.com/synology-dsm-7-full-user-guide/)
 - [Synology: 30 Second Portainer Install Using Task Scheduler & Docker](https://mariushosting.com/synology-30-second-portainer-install-using-task-scheduler-docker/)
+- [Add CyberPower UPS Support To Your Synology NAS](https://mariushosting.com/add-cyberpower-ups-support-to-your-synology-nas/)
