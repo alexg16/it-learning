@@ -6,3 +6,4 @@
 - [Properly Renaming a Domain Controller (Server 2012R2)](https://community.spiceworks.com/how_to/103538-properly-renaming-a-domain-controller-server-2012r2)
 - [How to Demote a Domain Controller (Step-by-Step Guide)](https://activedirectorypro.com/demote-domain-controller/)
 - [SYSVOL and NETLOGON Shares Missing on New DC](https://thesysadminchannel.com/solved-sysvol-and-netlogon-shares-missing-2016-2019-domain-controller/)
+- [How to rebuild the SYSVOL tree and its content in a domain](https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/rebuild-sysvol-tree-and-content-in-a-domain)
