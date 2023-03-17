@@ -5,3 +5,4 @@
 - [Installing a Domain Controller with Server 2016 Core](https://blogs.technet.microsoft.com/chadcox/2016/10/25/chads-quick-notes-installing-a-domain-controller-with-server-2016-core/)
 - [Properly Renaming a Domain Controller (Server 2012R2)](https://community.spiceworks.com/how_to/103538-properly-renaming-a-domain-controller-server-2012r2)
 - [How to Demote a Domain Controller (Step-by-Step Guide)](https://activedirectorypro.com/demote-domain-controller/)
+- [SYSVOL and NETLOGON Shares Missing on New DC](https://thesysadminchannel.com/solved-sysvol-and-netlogon-shares-missing-2016-2019-domain-controller/)
