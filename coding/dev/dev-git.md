@@ -11,6 +11,8 @@ git checkout some-branch
 this will create a local branch of the same name as the remote branch and check it out.
 ```
 
+- [Git fundamentals, a complete guide](https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7)
+
 ## GitHub
 
 - [GitHub Status](https://status.github.com/)
