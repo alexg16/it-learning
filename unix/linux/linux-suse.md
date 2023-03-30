@@ -8,7 +8,7 @@
 - [Zypper-cheat-sheet](https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf)
 - [Short tip: VMware vSphere 6.7 Guest Customization and openSUSE Leap 15.2](https://cstan.io/?p=12416&lang=en):
 
-```
+```shell
   I compared two openSUSE and SLE 15 systems and spotted
   a difference between them regarding the file /etc/issue.
   OpenSUSE lists the following:
@@ -23,6 +23,7 @@
 - [Visual Studio Code](https://en.opensuse.org/Visual_Studio_Code)
 - [Install the Azure CLI with zypper](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=zypper)
 - [How to Upgrade openSUSE Leap from 15.2 to 15.3](https://www.2daygeek.com/upgrade-opensuse-from-15-2-to-15-3/)
+- [Linux Kamarada and openSUSE Leap: how to upgrade from 15.3 to 15.4](https://linuxkamarada.com/en/2023/01/16/linux-kamarada-and-opensuse-leap-how-to-upgrade-from-153-to-154/)
 
 ## Docker
 
