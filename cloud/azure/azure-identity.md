@@ -10,3 +10,4 @@
 - [Understand Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/understand-azure-identity-solutions)
 - [How to Fully Remove Microsoft Azure AD Connect](https://interworks.com/blog/mroy/2018/07/25/how-to-fully-remove-microsoft-azure-ad-connect/)
 - [Watch "The Line Between AD and Azure AD!" on YouTube](https://youtu.be/uts0oy8NlUs)
+- [Migrate to Azure AD Connect cloud sync for an existing synced AD forest](https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/tutorial-pilot-aadc-aadccp)
