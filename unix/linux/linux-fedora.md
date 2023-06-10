@@ -6,6 +6,7 @@
 - [How to Install Visual Studio Code Editor in Fedora and CentOS](https://tecadmin.net/install-visual-studio-code-editor-in-fedora)
 - [How to remove old unused kernels on Fedora/Linux](https://www.flyhiee.com/knowledge/how-to-remove-old-unused-kernels-on-fedora-linux/)
 - [Fedora 35 Released! Here’s What’s New And How To Upgrade](https://fossbytes.com/fedora-35-released-how-to-update)
+- [How to Roll Back the Kernel in Linux](https://www.howtogeek.com/740797/how-to-roll-back-the-kernel-in-linux/)
 
 ## Docker
 
