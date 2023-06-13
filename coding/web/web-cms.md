@@ -14,3 +14,5 @@
 - [How to install phpMyAdmin on Windows (youtube video)](https://www.youtube.com/watch?v=KFYXY3MT-XA)
 - [The mysqli extension is missing. Please check your PHP configuration](https://stackoverflow.com/questions/10646655/the-mysqli-extension-is-missing-please-check-your-php-configuration/17413783)
 - [How To Fix "No Working Transports Found" Error In EasyPHP/](http://www.howtosolutions.net/2017/01/easyphp-wordpress-no-working-transports-found-error/)
+
+## Hugo
