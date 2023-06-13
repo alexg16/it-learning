@@ -8,6 +8,7 @@
 - [Fedora 35 Released! Here’s What’s New And How To Upgrade](https://fossbytes.com/fedora-35-released-how-to-update)
 - [How to Roll Back the Kernel in Linux](https://www.howtogeek.com/740797/how-to-roll-back-the-kernel-in-linux/)
 - [Excluding Packages From Transactions](https://docs.fedoraproject.org/en-US/quick-docs/dnf/#exclude-package)
+- [Installing Chromium or Google Chrome browsers](Installing Chromium or Google Chrome browsers)
 
 ## Docker
 
