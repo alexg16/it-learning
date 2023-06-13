@@ -16,3 +16,6 @@
 - [How To Fix "No Working Transports Found" Error In EasyPHP/](http://www.howtosolutions.net/2017/01/easyphp-wordpress-no-working-transports-found-error/)
 
 ## Hugo
+
+- [The world’s fastest framework for building websites](https://gohugo.io/)
+- [Tutorial: Publish a Hugo site to Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo)
