@@ -20,3 +20,4 @@
 - [The world’s fastest framework for building websites](https://gohugo.io/)
 - [Tutorial: Publish a Hugo site to Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo)
 - [Youtube - Hugo Beginner Tutorial](https://www.youtube.com/watch?v=SVvihs0WfhQ&list=PLrxYIq_0LFJfimciGTP5bQhYSEu5EdAuA)
+- [A Comprehensive Guide on Building Your First Site with Hugo](https://anikett.com/blog/hugo-beginner-guide/)
