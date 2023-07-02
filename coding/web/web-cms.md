@@ -23,3 +23,9 @@
 - [A Comprehensive Guide on Building Your First Site with Hugo](https://anikett.com/blog/hugo-beginner-guide/)
 - [How To Build a Blazing Fast Static Site With Hugo](https://kinsta.com/blog/hugo-static-site/)
 - [BUILDING YOUR HUGO SITE LOCALLY (PART 2)](https://qualityandinnovation.com/2020/12/22/building-your-hugo-site-locally-part-2/)
+- [Hugo - Open External Links in a New Tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
+
+```shell
+layouts/_defaults/_markup/render-link.html is incorrect, should be
+layouts/_default/_markup/render-link.html
+```
