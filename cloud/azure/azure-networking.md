@@ -22,3 +22,4 @@
 - [pfSense 2.5.0 Bug – Renaming of LAN Interface runs into an error with Router Advertisements Server is active message](https://blog.matrixpost.net/pfsense-2-5-0-bug-renaming-of-lan-interface-runs-into-an-error-regarding-router-advertisements-server-is-active/)
 - [pfSense CE 2.7.0 Software and pfSense Plus 23.05.1 Software Now Available for Upgrades](https://www.netgate.com/blog/pfsense-2.7.0-and-23.05)
 - [How to Upgrade pfSense the Right Way](https://hometechhacker.com/how-to-upgrade-pfsense/)
+- [Question about uninstalling packages before upgrading to 2.7.0](https://www.reddit.com/r/PFSENSE/comments/14psiwx/question_about_uninstalling_packages_before/)
