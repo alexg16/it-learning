@@ -19,4 +19,3 @@
 - Can't connect to Pfsense behind NAT: set my identifier and peer identifier to public IPs
 - [pfSense on Azure](https://www.christofvg.be/2019/01/12/pfSense-on-Azure-Part-1-Create-pfSense-Virtual-Machine/)
 - Disable HTTP_REFERER enforcement check for now...
-
