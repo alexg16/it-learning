@@ -38,6 +38,7 @@
 - [pfSense CE 2.7.0 Software and pfSense Plus 23.05.1 Software Now Available for Upgrades](https://www.netgate.com/blog/pfsense-2.7.0-and-23.05)
 - [How to Upgrade pfSense the Right Way](https://hometechhacker.com/how-to-upgrade-pfsense/)
 - [Question about uninstalling packages before upgrading to 2.7.0](https://www.reddit.com/r/PFSENSE/comments/14psiwx/question_about_uninstalling_packages_before/)
+- [Updated to 2.7.0 and no have PHP errors](https://www.reddit.com/r/PFSENSE/comments/14nf4fh/updated_to_270_and_no_have_php_errors/)
 
 ### Videos
 
