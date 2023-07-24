@@ -13,8 +13,14 @@
 ## Docker
 
 - [Install Docker Engine on Fedora](https://docs.docker.com/engine/install/fedora/)
-- [How To Upgrade To Fedora 36 From Fedora 35 [Workstation And Server]](https://ostechnix.com/upgrade-to-fedora-36-from-fedora-35/)
+```
+sudo groupadd docker
+sudo usermod -aG docker $USER
+newgrp docker 
+docker run hello-world
+```
 
+- [How To Upgrade To Fedora 36 From Fedora 35 [Workstation And Server]](https://ostechnix.com/upgrade-to-fedora-36-from-fedora-35/)
 ```
 Download complete! Use 'dnf system-upgrade reboot' to start the upgrade.
 To remove cached metadata and transaction use 'dnf system-upgrade clean'
@@ -22,9 +28,4 @@ The downloaded packages were saved in cache until the next successful transactio
 You can remove cached packages by executing 'dnf clean packages'
 ```
 
-```
-sudo groupadd docker
-sudo usermod -aG docker $USER
-newgrp docker 
-docker run hello-world
-```
+
