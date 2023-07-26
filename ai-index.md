@@ -1,5 +1,5 @@
 # Cloud Index
 
-|CLOUD|LEARNING|TOPICS|
+|AI|LEARNING|TOPICS|
 |---|---|---|
 |[**ChatGPT**](chatgpt-index)|||
