@@ -2,4 +2,4 @@
 
 |ChatGPT|LEARNING|TOPICS|
 |---|---|---|
-|[Prompts](ai/chatgpt/chatgpt-prompts)||||
+|[Prompts](ai/chatgpt/chatgpt-prompts)|||
