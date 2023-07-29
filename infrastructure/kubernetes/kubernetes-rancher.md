@@ -19,3 +19,5 @@ helm install cert-manager jetstack/cert-manager --namespace cert-manager --creat
 - [Registering a Cluster](https://rancher.com/docs/rancher/v2.5/en/cluster-provisioning/registered-clusters/)
 
 - [Traefik Proxy 2.x and Kubernetes 101 and Dashboard](https://traefik.io/blog/traefik-proxy-kubernetes-101/)
+
+- [Kubernets (k3s): expired certs on cluster](https://stackoverflow.com/questions/64900515/kubernets-k3s-expired-certs-on-cluster)
