@@ -38,21 +38,14 @@ To boot an earlier kernel in Fedora, you can use one of the following methods:
 
 2. Identify the kernel to be set to boot by default by running the command `grubby --info=ALL | grep '^title=' | sed 's/title=//'`. Then use the following command to set the default kernel to boot: `sudo grubby --set-default-index=<index number>`¹.
 
-I hope this helps! Let me know if you have any other questions.
-
-Source: Conversation with Bing, 8/1/2023
-(1) How to boot an earlier kernel on Fedora - Fedora Magazine. https://fedoramagazine.org/boot-earlier-kernel/.
-(2) Grub2: How to boot Fedora to an old kernel? - SysTutorials. https://www.systutorials.com/grub2-how-to-boot-fedora-to-an-old-kernel/.
-(3) Remove older versions of kernel from boot loader in Fedora. https://medium.com/@sulokit/remove-older-versions-of-kernel-from-boot-loader-in-fedora-ce97886e8caa.
-(4) Manually Upgrading the Kernel :: Fedora Docs. https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/kernel-module-driver-configuration/Manually_Upgrading_the_Kernel/.
+(1) How to boot an earlier kernel on Fedora - Fedora Magazine. <https://fedoramagazine.org/boot-earlier-kernel/>.
+(2) Grub2: How to boot Fedora to an old kernel? - SysTutorials. <https://www.systutorials.com/grub2-how-to-boot-fedora-to-an-old-kernel/>.
+(3) Remove older versions of kernel from boot loader in Fedora. <https://medium.com/@sulokit/remove-older-versions-of-kernel-from-boot-loader-in-fedora-ce97886e8caa>.
+(4) Manually Upgrading the Kernel :: Fedora Docs. <https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/kernel-module-driver-configuration/Manually_Upgrading_the_Kernel/>.
 
 The index number is the number assigned to each kernel in the GRUB menu. You can view the index of any of the kernel listed by running the command `grubby --info [kernel-filename] | grep index`. For example, if you want to view the index of `/boot/vmlinuz-4.18.0-80.11.2.el8_0.x86_64`, you can run the command `grubby --info /boot/vmlinuz-4.18.0-80.11.2.el8_0.x86_64 | grep index`. The output will show you the index number of that kernel¹.
 
-I hope this helps! Let me know if you have any other questions.
-
-Source: Conversation with Bing, 8/1/2023
-(1) How to Change the default kernel (boot from old kernel ... - The Geek Diary. https://www.thegeekdiary.com/how-to-change-the-default-kernel-boot-from-old-kernel-in-centos-rhel-8/.
-(2) 12 practical grubby command examples (cheat sheet). https://www.golinuxcloud.com/grubby-command-examples/.
-(3) How to Set Default Entry for the Grub Menu | Baeldung on Linux. https://www.baeldung.com/linux/grub-set-default-entry.
-(4) Chapter 7. Making persistent changes to the GRUB boot loader. https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_monitoring_and_updating_the_kernel/assembly_making-persistent-changes-to-the-grub-boot-loader_managing-monitoring-and-updating-the-kernel.
-
+(1) How to Change the default kernel (boot from old kernel ... - The Geek Diary. <https://www.thegeekdiary.com/how-to-change-the-default-kernel-boot-from-old-kernel-in-centos-rhel-8/>.
+(2) 12 practical grubby command examples (cheat sheet). <https://www.golinuxcloud.com/grubby-command-examples/>.
+(3) How to Set Default Entry for the Grub Menu | Baeldung on Linux. <https://www.baeldung.com/linux/grub-set-default-entry>.
+(4) Chapter 7. Making persistent changes to the GRUB boot loader. <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_monitoring_and_updating_the_kernel/assembly_making-persistent-changes-to-the-grub-boot-loader_managing-monitoring-and-updating-the-kernel>.
