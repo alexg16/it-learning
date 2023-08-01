@@ -12,3 +12,7 @@
 - [Watch "The Line Between AD and Azure AD!" on YouTube](https://youtu.be/uts0oy8NlUs)
 - [Azure AD Connect: Upgrade from a previous version to the latest](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version)
 - [Migrate to Azure AD Connect cloud sync for an existing synced AD forest](https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/tutorial-pilot-aadc-aadccp)
+
+## Microsoft Graph
+
+- [Microsoft Graph PowerShell documentation](https://learn.microsoft.com/en-us/powershell/microsoftgraph/?view=graph-powershell-1.0)
