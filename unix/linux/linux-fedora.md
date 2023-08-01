@@ -10,17 +10,6 @@
 - [Excluding Packages From Transactions](https://docs.fedoraproject.org/en-US/quick-docs/dnf/#exclude-package)
 - [Installing Chromium or Google Chrome browsers](Installing Chromium or Google Chrome browsers)
 
-## Docker
-
-- [Install Docker Engine on Fedora](https://docs.docker.com/engine/install/fedora/)
-
-```shell
-sudo groupadd docker
-sudo usermod -aG docker $USER
-newgrp docker 
-docker run hello-world
-```
-
 - [How To Upgrade To Fedora 36 From Fedora 35 [Workstation And Server]](https://ostechnix.com/upgrade-to-fedora-36-from-fedora-35/)
 
 ```shell
@@ -49,3 +38,16 @@ The index number is the number assigned to each kernel in the GRUB menu. You can
 (2) 12 practical grubby command examples (cheat sheet). <https://www.golinuxcloud.com/grubby-command-examples/>.
 (3) How to Set Default Entry for the Grub Menu | Baeldung on Linux. <https://www.baeldung.com/linux/grub-set-default-entry>.
 (4) Chapter 7. Making persistent changes to the GRUB boot loader. <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_monitoring_and_updating_the_kernel/assembly_making-persistent-changes-to-the-grub-boot-loader_managing-monitoring-and-updating-the-kernel>.
+
+- [How to Install PowerShell on Fedora](How to Install PowerShell on Fedora)
+
+## Docker
+
+- [Install Docker Engine on Fedora](https://docs.docker.com/engine/install/fedora/)
+
+```shell
+sudo groupadd docker
+sudo usermod -aG docker $USER
+newgrp docker 
+docker run hello-world
+```
