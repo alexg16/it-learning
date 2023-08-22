@@ -23,6 +23,7 @@
 - [Install Arch Linux on Windows 10 Hyper-V](https://dzone.com/articles/install-arch-linux-on-windows-10-hyper-v)
 - [Arch Linux Wiki - Hyper-V](https://wiki.archlinux.org/index.php/Hyper-V)
 - [Package clash with Arch; Enhanced session not working in Arch](https://github.com/microsoft/linux-vm-tools/issues/127)
+- [Arch install hangs on Windows 11 Hyper-V VM](https://superuser.com/questions/1728001/arch-install-hangs-on-windows-11-hyper-v-vm)
 
 ## xrdp on Arch
 
