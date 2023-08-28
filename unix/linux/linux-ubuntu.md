@@ -52,6 +52,9 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [How to Configure Static IP Address on Ubuntu 22.04 LTS](https://www.makeuseof.com/configure-static-ip-address-settings-ubuntu-22-04/)
   - with [netplan generate: `gateway4` has been deprecated, use default routes instead](https://unix.stackexchange.com/questions/681220/netplan-generate-gateway4-has-been-deprecated-use-default-routes-instead/681221#681221) correction
  
-## Containers - LXC
+## Containers - LXD
 
-- <https://ubuntu.com/server/docs/containers-lxc>
+- <https://ubuntu.com/server/docs/containers-lxd>
+- [First steps with LXD](https://documentation.ubuntu.com/lxd/en/latest/tutorial/first_steps/#first-steps)
+- [Stéphane Graber's website - LXD 2.0: Blog post series](https://stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/)
+  
