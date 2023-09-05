@@ -4,6 +4,7 @@
 - [Automate Azure Blob Storage with PowerShell](https://artofshell.com/2016/05/automate-azure-blob-storage-powershell/)
 - [Use Azure Key Vault to pass secure parameter value during deployment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-keyvault-parameter)
 - [Virtual machine extensions and features for Linux](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/features-linux)
+- [Use the Azure Custom Script Extension Version 2 with Linux virtual machines](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-linux)
 
 ## ARM
 
