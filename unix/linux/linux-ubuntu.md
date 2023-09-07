@@ -57,5 +57,6 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - <https://ubuntu.com/server/docs/containers-lxd>
 - [First steps with LXD](https://documentation.ubuntu.com/lxd/en/latest/tutorial/first_steps/#first-steps)
 - [How to access the LXD web UI](https://documentation.ubuntu.com/lxd/en/latest/howto/access_ui/)
+- [lxd ui returns a json response instead of the gui](https://github.com/canonical/lxd/issues/12069)
 - [Stéphane Graber's website - LXD 2.0: Blog post series](https://stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/)
   
