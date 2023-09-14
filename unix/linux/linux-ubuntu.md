@@ -66,4 +66,8 @@ sudo snap set lxd ui.enable=true
 sudo systemctl reload snap.lxd.daemon
 ```
 - [Stéphane Graber's website - LXD 2.0: Blog post series](https://stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/)
+- List remote images
+  ```
+  lxc image list images:
+  ```
   
