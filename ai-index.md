@@ -3,4 +3,4 @@
 |AI|LEARNING|TOPICS|
 |---|---|---|
 |[**ChatGPT**](chatgpt-index)|||
-|[Prompts](ai/chatgpt/prompt-engineering)|||
+|[Prompt Engineering](ai/chatgpt/prompt-engineering)|||
