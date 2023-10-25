@@ -51,6 +51,7 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [Ubuntu 22.04 GUI installation](https://linuxconfig.org/ubuntu-22-04-gui-installation)
 - [How to Configure Static IP Address on Ubuntu 22.04 LTS](https://www.makeuseof.com/configure-static-ip-address-settings-ubuntu-22-04/)
   - with [netplan generate: `gateway4` has been deprecated, use default routes instead](https://unix.stackexchange.com/questions/681220/netplan-generate-gateway4-has-been-deprecated-use-default-routes-instead/681221#681221) correction
+- [How To Install and Use Docker on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04)
  
 ## Containers - LXD
 
