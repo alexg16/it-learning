@@ -54,6 +54,7 @@
 - [VAMI backups fail with "Db health is UNHEALTHY, Backup Failed. Disable health check to take backup in current state." (86084)](https://kb.vmware.com/s/article/86084)
 - [Verify and resolve expired vCenter Server certificates using command line (82332)](https://kb.vmware.com/s/article/82332)
 - [How to use vSphere Certificate Manager to Replace SSL Certificates (2097936)](https://kb.vmware.com/s/article/2097936)
+- [How to reset the lost or forgotten root password in vCenter Server Appliance 6.7 U1 and later (75174)](https://kb.vmware.com/s/article/75174)
 
 ## Storage
 
