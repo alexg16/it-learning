@@ -8,6 +8,7 @@
 
 - [Windows Admin Center - Project Honolulu](https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview)
 - [The Containers extension for Windows Admin Center](https://msft-sme.myget.org/feed/windows-admin-center-feed/package/nuget/msft.sme.containers)
+- [HowTo Install Windows Admin Center…on Windows 2022 Core Edition](https://c-nergy.be/blog/?p=18308)
 
 ## IIS
 
