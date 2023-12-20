@@ -11,6 +11,7 @@
 |[CBL-Mariner](unix/linux/linux-cbl)|||
 |[CentOS](unix/linux/linux-centos)|||
 |[Debian](unix/linux/linux-debian)|||
+|[Devuan](unix/linux/linux-devuan)|||
 |[Fedora](unix/linux/linux-fedora)|||
 |[Garuda](unix/linux/linux-garuda)|||
 |[Gentoo](unix/linux/linux-gentoo)|||
