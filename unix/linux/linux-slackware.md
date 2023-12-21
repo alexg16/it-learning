@@ -6,6 +6,14 @@
 - [Slackware as a VMWare Guest - patch did not work - install sequence did after /etc/pam.d directory made](https://docs.slackware.com/howtos:misc:virtualisation:vmware_guest)
 - [Neofetch](https://slackware.pkgs.org/current/slackonly-x86_64/neofetch-3.2.0-noarch-1_slonly.txz.html)
 - [Installing updates using slackpkg](https://docs.slackware.com/slackware:beginners_guide)
+
+```shell
+# slackpkg update
+# slackpkg install-new
+# slackpkg upgrade-all
+# slackpkg clean-system
+```
+
 - [Is Slackware the Right Linux Distribution for You? What You Need to Know](https://www.makeuseof.com/tag/is-slackware-the-oldest-remaining-linux-distribution-right-for-you/)
 - [Watch How to Install Slackware 15.0 on PC Slackware Linux Install 2022 Installing Slackware 15 on PC](https://www.youtube.com/watch?v=ygSyKr9Mgno&t=70s)
 
@@ -16,7 +24,7 @@
 - [SlackBuild Scripts](https://www.slackwiki.com/SlackBuild_Scripts)
 - [SlackBuild scripts - more](https://docs.slackware.com/slackware:slackbuild_scripts)
 
-```
+```shell
 go into output directory and run make install
 ```
 
