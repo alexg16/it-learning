@@ -13,6 +13,8 @@
 ```
 
 - [Neofetch](https://slackware.pkgs.org/current/slackonly-x86_64/neofetch-3.2.0-noarch-1_slonly.txz.html)
+- [Switch to a generic kernel](https://docs.slackware.com/slackware:beginners_guide)
+
 - [Installing updates using slackpkg](https://docs.slackware.com/slackware:beginners_guide)
 
 ```shell
