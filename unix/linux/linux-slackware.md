@@ -25,7 +25,7 @@
 - [SlackBuild scripts - more](https://docs.slackware.com/slackware:slackbuild_scripts)
 
 ```shell
-go into output directory and run make install
+go into output directory /tmp and run make "installpkg"
 ```
 
 - [Runit](https://docs.slackware.com/howtos:slackware_admin:runit)
