@@ -28,4 +28,15 @@
 go into output directory /tmp and run make "installpkg"
 ```
 
+- place the following in /etc/rc.d/rc.local to autostart xrdp and xrdp-sesman
+
+```shell
+if [ -x /usr/sbin/xrdp ]; then
+  /usr/sbin/xrdp &
+fi
+if [ -x /usr/sbin/xrdp-sesman ]; then
+  /usr/sbin/xrdp-sesman &
+fi
+```
+
 - [Runit](https://docs.slackware.com/howtos:slackware_admin:runit)
