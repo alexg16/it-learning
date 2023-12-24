@@ -18,11 +18,16 @@
 - [Installing updates using slackpkg](https://docs.slackware.com/slackware:beginners_guide)
 
 ```shell
-# slackpkg update
-# slackpkg install-new
-# slackpkg upgrade-all
-# slackpkg clean-system
+Blacklist the following kernel packages in “/etc/slackpkg/blacklist”:
+kernel-generic
+kernel-generic-smp
+kernel-huge
+kernel-huge-smp
+kernel-modules
+kernel-modules-smp
 ```
+
+- [Upgrading Slackware to a New Release](https://docs.slackware.com/howtos:slackware_admin:systemupgrade)
 
 - [Is Slackware the Right Linux Distribution for You? What You Need to Know](https://www.makeuseof.com/tag/is-slackware-the-oldest-remaining-linux-distribution-right-for-you/)
 - [Watch How to Install Slackware 15.0 on PC Slackware Linux Install 2022 Installing Slackware 15 on PC](https://www.youtube.com/watch?v=ygSyKr9Mgno&t=70s)
