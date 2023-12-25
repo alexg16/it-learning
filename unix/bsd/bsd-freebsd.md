@@ -18,6 +18,7 @@
 ## FreeBSD 13
 
 - [FreeBSD 13 released: Here is how to upgrade FreeBSD 12 to 13](https://www.cyberciti.biz/open-source/freebsd-13-released-how-to-update-upgrade-freebsd-12-to-13/)
+- [https://forums.freebsd.org/threads/freebsd-13-2-release-14-0-release-upgrade-stuck.91152/](https://forums.freebsd.org/threads/freebsd-13-2-release-14-0-release-upgrade-stuck.91152/)
 
 ## pfSense
 
