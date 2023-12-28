@@ -23,6 +23,7 @@
 - [A Comprehensive Guide on Building Your First Site with Hugo](https://anikett.com/blog/hugo-beginner-guide/)
 - [How To Build a Blazing Fast Static Site With Hugo](https://kinsta.com/blog/hugo-static-site/)
 - [BUILDING YOUR HUGO SITE LOCALLY (PART 2)](https://qualityandinnovation.com/2020/12/22/building-your-hugo-site-locally-part-2/)
+- [The Ultimate Guide to Understanding Hugo in 2023](https://www.markusantonwolf.com/blog/the-ultimate-guide-to-understanding-hugo-in-2023/)
 - [Hugo - Open External Links in a New Tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
 
 ```shell
