@@ -42,6 +42,12 @@
 - [Create an AKS Cluster with Azure Bicep](https://trstringer.com/create-aks-bicep/)
 - [Deploy a Docker Swarm cluster on Azure using Bicep](https://medium.com/codex/deploy-a-docker-swarm-cluster-on-azure-using-bicep-7859cb7e0156)
 
+### Template Specks and Deployment Stacks
+
+- [Quickstart: Create and deploy a template spec with Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-template-specs?tabs=azure-powershell)
+- [Quickstart: Create and deploy a deployment stack with Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-deployment-stacks?tabs=azure-powershell%2CCLI)
+- [Quickstart: Create and deploy a deployment stack with Bicep from template specs (Preview)](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-deployment-stacks-template-specs?tabs=azure-powershell%2CCLI)
+
 ## Azure REST APIs
 
 - [Azure REST APIs with Postman](https://microsoft.github.io/AzureTipsAndTricks/blog/tip223.html)
