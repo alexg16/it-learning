@@ -19,6 +19,7 @@
 ## Winget
 
 - [How to Download, Install, and Use the Windows Package Manager (Winget)](https://www.makeuseof.com/how-to-download-install-and-use-the-windows-package-manager-winget/)
+- [winget-install](https://github.com/asheroto/winget-install)
 
 ## SSH
 
