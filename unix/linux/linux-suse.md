@@ -24,6 +24,7 @@
 - [Install the Azure CLI with zypper](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=zypper)
 - [How to Upgrade openSUSE Leap from 15.2 to 15.3](https://www.2daygeek.com/upgrade-opensuse-from-15-2-to-15-3/)
 - [Linux Kamarada and openSUSE Leap: how to upgrade from 15.3 to 15.4](https://linuxkamarada.com/en/2023/01/16/linux-kamarada-and-opensuse-leap-how-to-upgrade-from-153-to-154/)
+- [How to Upgrade to openSUSE Leap 15.6 from Leap 15.5](https://linuxiac.com/how-to-upgrade-to-opensuse-leap-15-6-from-leap-15-5/)
 
 ## Docker
 
