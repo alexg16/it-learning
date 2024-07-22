@@ -19,7 +19,7 @@
 
 - [CONFIGURE NETWORK INTERFACE IN WICKED](https://tech.linuxman.co/linux/linux-desktop/configure-network-interface-in-wicked/)
 - [How to run openSUSE Leap Linux on Hyper-V](https://www.altaro.com/hyper-v/opensuse-leap-linux-hyper-v/)
-- [OpenSUSE Leap 15: Connect to KDE desktop environment via XRDP](https://www.hiroom2.com/2018/06/14/opensuse-15-xrdp-kde-en/)
+- [OpenSUSE – RDP & KDE Plasma Desktop Environment](https://clramirez.com/opensuse-rdp-kde-plasma/)
 - [Visual Studio Code](https://en.opensuse.org/Visual_Studio_Code)
 - [Install the Azure CLI with zypper](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=zypper)
 - [How to Upgrade openSUSE Leap from 15.2 to 15.3](https://www.2daygeek.com/upgrade-opensuse-from-15-2-to-15-3/)
