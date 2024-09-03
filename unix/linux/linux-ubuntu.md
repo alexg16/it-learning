@@ -52,13 +52,14 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [How to Configure Static IP Address on Ubuntu 22.04 LTS](https://www.makeuseof.com/configure-static-ip-address-settings-ubuntu-22-04/)
   - with [netplan generate: `gateway4` has been deprecated, use default routes instead](https://unix.stackexchange.com/questions/681220/netplan-generate-gateway4-has-been-deprecated-use-default-routes-instead/681221#681221) correction
 - [How To Install and Use Docker on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04)
- 
+
 ## Containers - LXD
 
 - <https://ubuntu.com/server/docs/containers-lxd>
 - [First steps with LXD](https://documentation.ubuntu.com/lxd/en/latest/tutorial/first_steps/#first-steps)
 - [How to access the LXD web UI](https://documentation.ubuntu.com/lxd/en/latest/howto/access_ui/)
 - [lxd ui returns a json response instead of the gui](https://github.com/canonical/lxd/issues/12069)
+
 ```shell
 sudo snap remove --purge lxd
 sudo snap install lxd
@@ -66,9 +67,11 @@ lxd init
 sudo snap set lxd ui.enable=true
 sudo systemctl reload snap.lxd.daemon
 ```
+
 - [Stéphane Graber's website - LXD 2.0: Blog post series](https://stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/)
 - List remote images
-  ```
+
+  ```shell
   lxc image list images:
   ```
   
