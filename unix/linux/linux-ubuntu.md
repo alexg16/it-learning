@@ -53,6 +53,12 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
   - with [netplan generate: `gateway4` has been deprecated, use default routes instead](https://unix.stackexchange.com/questions/681220/netplan-generate-gateway4-has-been-deprecated-use-default-routes-instead/681221#681221) correction
 - [How To Install and Use Docker on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04)
 
+## 24.04
+
+- [Install & Setup OneDrive Client in Ubuntu 24.04 | 22.04](https://ubuntuhandbook.org/index.php/2024/02/install-onedrive-ubuntu/)
+  - do not enable as service
+- [KeePassXC for Linux Desktops](https://keepassxc.org/download/#linux)
+
 ## Containers - LXD
 
 - <https://ubuntu.com/server/docs/containers-lxd>
