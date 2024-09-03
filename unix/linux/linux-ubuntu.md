@@ -56,6 +56,7 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 ## 24.04
 
 - [Install & Setup OneDrive Client in Ubuntu 24.04 - 22.04](https://ubuntuhandbook.org/index.php/2024/02/install-onedrive-ubuntu/)
+  - use Methode 2
   - do not enable as service
 - [KeePassXC for Linux Desktops](https://keepassxc.org/download/#linux)
 
