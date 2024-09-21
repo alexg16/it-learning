@@ -84,4 +84,4 @@ sudo systemctl reload snap.lxd.daemon
   
 ## Containers Docker - Portainer
 
-- [How to Install Portainer on Ubuntu 22.04 | Step-by-Step](https://www.cherryservers.com/blog/install-portainer-ubuntu)
+- [How to Install Portainer on Ubuntu 22.04 Step-by-Step](https://www.cherryservers.com/blog/install-portainer-ubuntu)
