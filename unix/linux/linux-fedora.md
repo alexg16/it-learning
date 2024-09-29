@@ -10,10 +10,6 @@
 - [Excluding Packages From Transactions](https://docs.fedoraproject.org/en-US/quick-docs/dnf/#exclude-package)
 - [How To Upgrade To Fedora 36 From Fedora 35 [Workstation And Server]](https://ostechnix.com/upgrade-to-fedora-36-from-fedora-35/)
 
-## Pulsaudio - xrdp-sink
-
-- [Build pulseaudio-module-xrdp on Fedora](https://github.com/neutrinolabs/pulseaudio-module-xrdp/wiki/Build-on-Fedora)
-
 ```shell
 Download complete! Use 'dnf system-upgrade reboot' to start the upgrade.
 To remove cached metadata and transaction use 'dnf system-upgrade clean'
