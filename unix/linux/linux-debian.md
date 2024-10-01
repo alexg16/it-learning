@@ -11,6 +11,10 @@
   sudo systemctl unmask xrdp-sesman
 ```
 
+## Debian 12
+
+- [How to Install XRDP Server (Remote Desktop) on Debian 12](https://itslinuxfoss.com/install-xrdp-server-remote-desktop-debian-12/)
+
 ## Docker
 
 - [How To Install Docker on Debian 11](https://idroot.us/install-docker-debian-11/)
