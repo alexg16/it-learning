@@ -17,6 +17,7 @@
 |[Gentoo](unix/linux/linux-gentoo)|||
 |[Kali](unix/linux/linux-kali)|||
 |[Mint](unix/linux/linux-mint)|||
+|[MX](unix/linux/linux-mx)|||
 |[Photon](unix/linux/linux-photon)|||
 |[RHEL](unix/linux/linux-rhel)|||
 |[Slackware](unix/linux/linux-slackware)|||
