@@ -75,3 +75,15 @@ In your markdown file, use the shortcode like this:
 ```
 
 This will render the image with a clickable link that opens in a new tab (or the specified target) and overlay the title on the image itself.
+
+- To run site locally
+install hugo
+clone repo
+run
+
+```shell
+git submodule init
+git submodule update
+```
+
+This creates "resources folder outside repo ?
