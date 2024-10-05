@@ -31,3 +31,47 @@
 layouts/_defaults/_markup/render-link.html is incorrect, should be
 layouts/_default/_markup/render-link.html
 ```
+
+To include a link and target attribute in the Hugo figure shortcode, you can modify the shortcode to handle these parameters. Here’s how you can do it:
+
+Create or Edit the Shortcode:
+If you haven’t already, create the shortcodes directory in your Hugo site’s layouts directory.
+Inside the shortcodes directory, create or edit the figure.html file.
+Add the Following Code:
+Update the figure.html file with the following code to include link and target attributes:
+HTML
+
+```shell
+<style>
+  .image-container {
+    position: relative;
+    display: inline-block;
+  }
+  .image-title {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 3px;
+  }
+</style>
+<figure class="image-container">
+  {{ if .Get "link" }}
+    <a href="{{ .Get "link" }}" target="{{ .Get "target" }}">
+      <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}">
+    </a>
+  {{ else }}
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}">
+  {{ end }}
+  <figcaption class="image-title">{{ .Get "title" }}</figcaption>
+</figure>
+AI-generated code. Review and use carefully. More info on FAQ.
+Use the Shortcode in Your Content:
+In your markdown file, use the shortcode like this:
+{{< figure src="/path/to/image.jpg" alt="Alt text" title="Image Title" link="https://example.com" target="_blank" >}}
+
+```
+
+This will render the image with a clickable link that opens in a new tab (or the specified target) and overlay the title on the image itself.
