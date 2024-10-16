@@ -15,6 +15,7 @@
 - [Serving multiple Django apps with Gunicorn and Nginx (CentOS 7)](https://caterinadmitrieva.medium.com/serving-multiple-django-apps-on-second-level-domains-with-gunicorn-and-nginx-a4a14804174c)
 - [The Python Requirements File and How to Create it](https://learnpython.com/blog/python-requirements-file/)
 - [Making queries](https://docs.djangoproject.com/en/5.1/topics/db/queries/)
+- [Templates](https://docs.djangoproject.com/en/5.1/ref/templates/)
 
 ## Node JS
 
