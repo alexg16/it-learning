@@ -16,6 +16,7 @@
 - [The Python Requirements File and How to Create it](https://learnpython.com/blog/python-requirements-file/)
 - [Making queries](https://docs.djangoproject.com/en/5.1/topics/db/queries/)
 - [Templates](https://docs.djangoproject.com/en/5.1/ref/templates/)
+- [Build fast, responsive sites with Bootstrap](https://getbootstrap.com/)
 
 ## Node JS
 
