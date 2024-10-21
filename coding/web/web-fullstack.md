@@ -27,7 +27,11 @@
 
 - [Making queries](https://docs.djangoproject.com/en/5.1/topics/db/queries/)
 - [Templates](https://docs.djangoproject.com/en/5.1/ref/templates/)
+
+### Bootstrap
+
 - [Build fast, responsive sites with Bootstrap](https://getbootstrap.com/)
+- [CDN via jsDelivr](https://getbootstrap.com/docs/5.1/getting-started/download/#cdn-via-jsdelivr)
 
 ## Node JS
 
