@@ -24,7 +24,7 @@
 
 ### Videos
 
-- [FreeBSD 141 Review | Download, Install & Config  XFCE,KDE,Gnome + Wifi](https://www.youtube.com/watch?v=AQE8w4fvRoE)
+- [FreeBSD 141 Review Download, Install & Config  XFCE,KDE,Gnome + Wifi](https://www.youtube.com/watch?v=AQE8w4fvRoE)
 
 ## pfSense
 
