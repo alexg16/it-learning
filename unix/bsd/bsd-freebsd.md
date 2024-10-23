@@ -24,6 +24,7 @@
 
 ### Videos
 
+- [Install FreeBSD With XFCE Desktop - Full Guide From Scratch (2023)](https://www.youtube.com/watch?v=1VpVvsVbT-g)
 - [FreeBSD 141 Review Download, Install & Config  XFCE,KDE,Gnome + Wifi](https://www.youtube.com/watch?v=AQE8w4fvRoE)
 
 ## pfSense
