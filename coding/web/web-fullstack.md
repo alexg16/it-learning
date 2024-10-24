@@ -8,6 +8,13 @@
 
 ## Django
 
+- [How to Start Django Project with a Database -PostgreSQL](https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8)
+- [Django with Nginx, Gunicorn](https://medium.com/analytics-vidhya/dajngo-with-nginx-gunicorn-aaf8431dc9e0)
+- [How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04)
+- [Serving multiple Django apps with Gunicorn and Nginx (CentOS 7)](https://caterinadmitrieva.medium.com/serving-multiple-django-apps-on-second-level-domains-with-gunicorn-and-nginx-a4a14804174c)
+- [The Python Requirements File and How to Create it](https://learnpython.com/blog/python-requirements-file/)
+
+
 ### Azure
 
 - [Quickstart: Deploy a Python (Django, Flask, or FastAPI) web app to Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=django%2Cmac-linux%2Cvscode-aztools%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli)
@@ -16,13 +23,7 @@
 ### Docker
 
 - [Deploying Django Apps with Docker: A Step-by-Step Guide](https://betterstack.com/community/guides/scaling-python/dockerize-django/)
-
-
-- [How to Start Django Project with a Database -PostgreSQL](https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8)
-- [Django with Nginx, Gunicorn](https://medium.com/analytics-vidhya/dajngo-with-nginx-gunicorn-aaf8431dc9e0)
-- [How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04)
-- [Serving multiple Django apps with Gunicorn and Nginx (CentOS 7)](https://caterinadmitrieva.medium.com/serving-multiple-django-apps-on-second-level-domains-with-gunicorn-and-nginx-a4a14804174c)
-- [The Python Requirements File and How to Create it](https://learnpython.com/blog/python-requirements-file/)
+- [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/) <span style="color:red">new</span>
 
 
 - [Making queries](https://docs.djangoproject.com/en/5.1/topics/db/queries/)
