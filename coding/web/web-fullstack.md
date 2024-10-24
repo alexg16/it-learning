@@ -23,7 +23,7 @@
 ### Docker
 
 - [Deploying Django Apps with Docker: A Step-by-Step Guide](https://betterstack.com/community/guides/scaling-python/dockerize-django/)
-- [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/) <span style="color:red">new</span>
+- [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/) <span style="color:red">&nbsp;new</span>
 
 
 - [Making queries](https://docs.djangoproject.com/en/5.1/topics/db/queries/)
