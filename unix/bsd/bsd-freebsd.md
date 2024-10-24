@@ -20,6 +20,13 @@
 - [FreeBSD 13 released: Here is how to upgrade FreeBSD 12 to 13](https://www.cyberciti.biz/open-source/freebsd-13-released-how-to-update-upgrade-freebsd-12-to-13/)
 - [https://forums.freebsd.org/threads/freebsd-13-2-release-14-0-release-upgrade-stuck.91152/](https://forums.freebsd.org/threads/freebsd-13-2-release-14-0-release-upgrade-stuck.91152/)
 
+## FreeBSD 14
+
+### Videos
+
+- [Install FreeBSD With XFCE Desktop - Full Guide From Scratch (2023)](https://www.youtube.com/watch?v=1VpVvsVbT-g)
+- [FreeBSD 141 Review Download, Install & Config  XFCE,KDE,Gnome + Wifi](https://www.youtube.com/watch?v=AQE8w4fvRoE)
+
 ## pfSense
 
 - [Azure Site-to-Site VPN with PFSense](https://thetechl33t.com/2020/05/18/azure-site-to-site-vpn-with-pfsense/)
@@ -44,6 +51,4 @@
 ### Videos
 
 - [2020 Getting started with pfsense 2.4 Tutorial: Network Setup, VLANs, Features & Packages](https://www.youtube.com/watch?v=fsdm5uc_LsU&feature=youtu.be)
-
-- [Office Network Design and Planning with VLANs, LLDP, Rules, IoT, Guest using UniFi & pfsense](https://youtu.be/ouARr-4chJ8
- )
+- [Office Network Design and Planning with VLANs, LLDP, Rules, IoT, Guest using UniFi & pfsense](https://youtu.be/ouARr-4chJ8)
