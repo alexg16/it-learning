@@ -27,6 +27,7 @@ a-start-job-is-running-for-wait-for-network-to-be-configured-ubuntu-server-17-1)
 - [Windows 10: A guide how to run Ubuntu 18.04 in Enhanced Mode in Hyper-V](https://www.tenforums.com/virtualization/107147-guide-how-run-ubuntu-18-04-enhanced-mode-hyper-v.html)
 - [xRDP on Hyper-V - remote vs. enchanced mode](https://c-nergy.be/blog/?p=12429)
 - [10 Cool Command Line Apps for Ubuntu](https://www.omgubuntu.co.uk/2021/11/best-command-line-tools-ubuntu-linux)
+- [Change Boot Order in Windows Linux Dual Boot with Grub Customizer](https://itsfoss.com/grub-customizer-ubuntu/)
 
 ## Package Management
 
