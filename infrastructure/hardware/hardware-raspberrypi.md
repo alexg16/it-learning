@@ -27,6 +27,7 @@
 - [Bullseye – the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/raspberry-pi-os-debian-bullseye/)
 - [New Raspberry Pi OS Includes Hidden Speed Boost and 64-Bit Option](https://www.tomshardware.com/news/raspberry-pi-os-bullseye-released)
 - [STICKY - How to upgrade a Buster image to Bullseye](https://forums.raspberrypi.com/viewtopic.php?t=323279)
+- [A new release of Raspberry Pi OS -labwc – a new Wayland compositor](https://www.raspberrypi.com/news/a-new-release-of-raspberry-pi-os/)
 
 ## Ubuntu
 
