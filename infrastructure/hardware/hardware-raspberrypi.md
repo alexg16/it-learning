@@ -28,6 +28,10 @@
 - [New Raspberry Pi OS Includes Hidden Speed Boost and 64-Bit Option](https://www.tomshardware.com/news/raspberry-pi-os-bullseye-released)
 - [STICKY - How to upgrade a Buster image to Bullseye](https://forums.raspberrypi.com/viewtopic.php?t=323279)
 
+## Ubuntu
+
+- [How to Install Argon ONE Fan Script Running Ubuntu](https://www.youtube.com/watch?v=NXacG6j9Uho) #argon-config
+
 ## Grafana
 
 - [Monitor your Raspberry Pi with Grafana Cloud](https://opensource.com/article/21/3/raspberry-pi-grafana-cloud)
