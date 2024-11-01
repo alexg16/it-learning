@@ -27,14 +27,16 @@
 - [Django TemplateSyntaxError - 'staticfiles' is not a registered tag library](https://stackoverflow.com/questions/55929472/django-templatesyntaxerror-staticfiles-is-not-a-registered-tag-library)
 
 ```shell
-If you have any of the following tags in your template:
+    If you have any of the following tags in your template:
+    "
+    {% load staticfiles %}
+    {% load static from staticfiles %}
+    
+    {% load admin_static %}
+    Then replace it with:
 
-{% load staticfiles %}
-{% load static from staticfiles %}
-{% load admin_static %}
-Then replace it with:
-
-{% load static %}
+    {% load static %}
+    "
 ```
 
 
