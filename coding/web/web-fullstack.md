@@ -13,6 +13,19 @@
 - [How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04)
 - [Serving multiple Django apps with Gunicorn and Nginx (CentOS 7)](https://caterinadmitrieva.medium.com/serving-multiple-django-apps-on-second-level-domains-with-gunicorn-and-nginx-a4a14804174c)
 - [The Python Requirements File and How to Create it](https://learnpython.com/blog/python-requirements-file/)
+- [ImportError: cannot import name 'url' from 'django.conf.urls' after upgrading to Django 4.0](https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to)
+
+```shell
+I think a quick fix to this problem is to do followings;
+
+You can easily replace
+
+from django.conf.urls import url
+to this:
+
+from django.urls import re_path as url
+And keep the rest of code to be same as before.
+```
 
 
 ### Azure
