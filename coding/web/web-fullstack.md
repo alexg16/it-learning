@@ -16,15 +16,25 @@
 - [ImportError: cannot import name 'url' from 'django.conf.urls' after upgrading to Django 4.0](https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to)
 
 ```shell
-I think a quick fix to this problem is to do followings;
+    I think a quick fix to this problem is to do followings;
+    You can easily replace
+    from django.conf.urls import url
+    to this:
+    from django.urls import re_path as url
+    And keep the rest of code to be same as before.
+```
 
-You can easily replace
+- [Django TemplateSyntaxError - 'staticfiles' is not a registered tag library](https://stackoverflow.com/questions/55929472/django-templatesyntaxerror-staticfiles-is-not-a-registered-tag-library)
 
-from django.conf.urls import url
-to this:
+```shell
+If you have any of the following tags in your template:
 
-from django.urls import re_path as url
-And keep the rest of code to be same as before.
+{% load staticfiles %}
+{% load static from staticfiles %}
+{% load admin_static %}
+Then replace it with:
+
+{% load static %}
 ```
 
 
