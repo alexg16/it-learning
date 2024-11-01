@@ -28,15 +28,13 @@
 
 ```shell
     If you have any of the following tags in your template:
-    "
-    {% load staticfiles %}
-    {% load static from staticfiles %}
+    load staticfiles 
+    load static from staticfiles 
     
-    {% load admin_static %}
+    load admin_static
     Then replace it with:
 
-    {% load static %}
-    "
+    load static
 ```
 
 
